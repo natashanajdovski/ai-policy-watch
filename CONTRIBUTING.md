@@ -1,5 +1,7 @@
 # Contributing to AI Policy Watch
 
+**Live site:** [aipw.netlify.app](https://aipw.netlify.app)
+
 Thanks for your interest in contributing. This project is public-interest
 infrastructure, and the whole point is that other people can shape it.
 

@@ -1,5 +1,8 @@
 # AI Policy Watch
 
+**Live site:** [aipw.netlify.app](https://aipw.netlify.app)
+**Status:** P0 / in-progress — built in the open.
+
 A public-interest aggregator of current federal government activity related to
 artificial intelligence: pending and resolved federal legislation, open and
 closed Requests for Information, and upcoming and past congressional hearings.
@@ -9,10 +12,19 @@ Regulations.gov, C-SPAN). It does not host its own detail pages and does not
 take a position on AI policy. See [PRODUCT_BRIEF.md](./PRODUCT_BRIEF.md) for
 the full purpose, tone, and scope.
 
-> **Status:** P0 / in-progress. This repo is being built in the open as an
-> iterative project. Expect rough edges.
+## How this works
 
-## Quick start
+The repo auto-deploys to Netlify. Every push to `main` triggers a rebuild of
+the static site. A scheduled GitHub Action runs daily at 10:00 UTC
+(~6 AM ET), fetches fresh data from Congress.gov and the Federal Register,
+commits the updated JSON files in `data/`, and that commit triggers another
+Netlify rebuild. The live site stays current without manual intervention.
+
+You only need to run this project locally if you're **contributing to it** —
+fixing a bug, proposing a scope change, adding a feature. Readers should
+just visit the live site.
+
+## Run locally (for contributors)
 
 ```bash
 # 1. Install dependencies
