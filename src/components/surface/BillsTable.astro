@@ -36,8 +36,8 @@ function billSortKey(b: Bill): string {
         <th scope="col" style="width: 150px" data-sort-key="stage">Stage</th>
         <th scope="col" style="width: 110px" data-sort-key="bill">Bill</th>
         <th scope="col" data-sort-key="title">Title</th>
-        <th scope="col" style="width: 260px" data-sort-key="sponsor">Sponsor</th>
-        <th scope="col" style="width: 150px" data-sort-key="date">Last action</th>
+        <th scope="col" class="hide-mobile" style="width: 260px" data-sort-key="sponsor">Sponsor</th>
+        <th scope="col" class="hide-mobile" style="width: 150px" data-sort-key="date">Last action</th>
       </tr>
     </thead>
     <tbody>
@@ -76,8 +76,8 @@ function billSortKey(b: Bill): string {
                   {truncate(b.title, 80)}
                 </a>
               </td>
-              <td class="cell-meta">{b.sponsor?.name ?? '—'}</td>
-              <td class="cell-num cell-meta">{formatDateShort(b.last_action_date)}</td>
+              <td class="cell-meta hide-mobile">{b.sponsor?.name ?? '—'}</td>
+              <td class="cell-num cell-meta hide-mobile">{formatDateShort(b.last_action_date)}</td>
             </tr>
           );
         })

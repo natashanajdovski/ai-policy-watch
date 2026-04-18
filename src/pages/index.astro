@@ -70,7 +70,7 @@ const closingSoon = [...openRFIs]
               <thead>
                 <tr>
                   <th>Title</th>
-                  <th style="width:160px">Agency</th>
+                  <th class="hide-mobile" style="width:160px">Agency</th>
                   <th style="width:110px">Closes</th>
                 </tr>
               </thead>
@@ -82,7 +82,7 @@ const closingSoon = [...openRFIs]
                         {r.title}
                       </a>
                     </td>
-                    <td class="cell-meta">{r.agency}</td>
+                    <td class="cell-meta hide-mobile">{r.agency}</td>
                     <td class="cell-num cell-meta">
                       {formatDateShort(r.close_date)}
                       <br />
@@ -102,7 +102,7 @@ const closingSoon = [...openRFIs]
 
 <style>
   .hero {
-    padding: var(--sp-10) 0 var(--sp-6);
+    padding-block: var(--sp-10) var(--sp-6);
   }
   .hero__title {
     font-size: var(--fs-3xl);
