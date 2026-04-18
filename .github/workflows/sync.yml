@@ -39,6 +39,10 @@ jobs:
           if [ -n "$(git status --porcelain data/)" ]; then
             git add data/
             git commit -m "chore(data): daily sync $(date -u +%Y-%m-%d)"
+            # Rebase onto any commits that landed during the sync run
+            # (the job takes ~10–20 min; a human push in that window can
+            # make the non-fast-forward push fail otherwise).
+            git pull --rebase origin main
             git push
           else
             echo "No dataset changes."
