@@ -1,0 +1,11 @@
+# AI Policy Watch — code owners.
+#
+# Every pull request is automatically assigned to the owner(s) listed below
+# for the files it touches. This file is the source of truth for who
+# reviews what.
+#
+# For V1 the maintainer queue is one person. As co-maintainers are added,
+# we split by lane (per-surface, sync, design) using more specific patterns
+# above the catch-all at the bottom of the file.
+
+*       @natashanajdovski

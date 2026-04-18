@@ -1,0 +1,60 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+import SurfaceHeader from '../components/surface/SurfaceHeader.astro';
+import FilterControls, {
+  type FilterDef,
+} from '../components/surface/FilterControls.astro';
+import RFIsTable from '../components/surface/RFIsTable.astro';
+import { loadRFIs } from '../lib/load-data';
+
+const rfis = loadRFIs();
+
+const agencies = Array.from(new Set(rfis.map((r) => r.agency).filter(Boolean))).sort();
+
+const filters: FilterDef[] = [
+  {
+    key: 'status',
+    label: 'Status',
+    options: [
+      { value: 'open', label: 'Open' },
+      { value: 'closed', label: 'Closed' },
+    ],
+  },
+  {
+    key: 'agency',
+    label: 'Agency',
+    options: agencies.map((a) => ({ value: a, label: a })),
+  },
+];
+
+const howThisWorks = `Requests for Information, Requests for Comment, and similar public-input notices are pulled from the Federal Register when the title or abstract mentions AI. "Open" means the comment period is still active; "Closed" means it has ended. Where available, the Submit-comment column links directly to the Regulations.gov docket.`;
+---
+
+<PageShell
+  title="AI RFIs & Public Comment Opportunities"
+  description="Federal Requests for Information and similar public-input opportunities related to AI."
+>
+  <section class="container" data-surface>
+    <SurfaceHeader
+      title="RFIs &amp; public comments"
+      lead="Federal Requests for Information where AI is the subject."
+      note={howThisWorks}
+      count={rfis.length}
+    />
+    <FilterControls
+      searchPlaceholder="Search by title, agency, docket…"
+      filters={filters}
+    />
+    <RFIsTable entries={rfis} />
+  </section>
+
+  <script>
+    import { initSurfaceFilter } from '../lib/surface-filter.ts';
+    import { initSurfaceSort } from '../lib/surface-sort.ts';
+    const root = document.querySelector<HTMLElement>('[data-surface]');
+    if (root) {
+      initSurfaceFilter(root);
+      initSurfaceSort(root);
+    }
+  </script>
+</PageShell>

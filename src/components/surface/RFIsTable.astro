@@ -1,0 +1,71 @@
+---
+import type { RFI } from '@scripts/lib/schema';
+import { daysRemaining, formatDateShort, statusLabel, truncate } from '../../lib/format';
+
+const { entries } = Astro.props as { entries: RFI[] };
+---
+
+<div class="table-wrap">
+  <table class="data-table rfis-table">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 100px" data-sort-key="status">Status</th>
+        <th scope="col" data-sort-key="title">Title</th>
+        <th scope="col" style="width: 260px" data-sort-key="agency">Agency</th>
+        <th scope="col" style="width: 130px" data-sort-key="close">Closes</th>
+        <th scope="col" style="width: 140px">Submit comment</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        entries.map((r) => {
+          const searchBlob = [r.title, r.agency, r.docket_id]
+            .filter(Boolean)
+            .join(' ')
+            .toLowerCase();
+          const remaining = r.status === 'open' ? daysRemaining(r.close_date) : '';
+          return (
+            <tr
+              data-row
+              data-search={searchBlob}
+              data-status={r.status}
+              data-agency={r.agency}
+              data-title={r.title.toLowerCase()}
+              data-close={r.close_date ?? ''}
+            >
+              <td>
+                <span class={`chip ${r.status === 'open' ? 'chip-open' : ''}`}>
+                  {statusLabel(r.status)}
+                </span>
+              </td>
+              <td class="cell-title">
+                <a href={r.source_url} target="_blank" rel="noopener noreferrer" title={r.title}>
+                  {truncate(r.title, 80)}
+                </a>
+              </td>
+              <td class="cell-meta">{r.agency}</td>
+              <td class="cell-num cell-meta">
+                {formatDateShort(r.close_date)}
+                {remaining && (
+                  <>
+                    <br />
+                    <small>{remaining}</small>
+                  </>
+                )}
+              </td>
+              <td class="cell-action">
+                {r.status === 'open' && r.comment_submission_url ? (
+                  <a href={r.comment_submission_url} target="_blank" rel="noopener noreferrer">
+                    Regulations.gov &rarr;
+                  </a>
+                ) : (
+                  <span class="cell-meta">—</span>
+                )}
+              </td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>

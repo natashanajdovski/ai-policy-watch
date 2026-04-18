@@ -1,0 +1,40 @@
+name: Feature request
+description: Propose a new capability for the site or the sync layer.
+title: "[feature] "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before writing: please skim [PRODUCT_BRIEF.md](https://github.com/natashanajdovski/ai-policy-watch/blob/main/PRODUCT_BRIEF.md) sections 5 (V1 scope), 9 (Roadmap), and the "out of scope" / "explicit non-goals" lists. Many "obvious" features are deliberately out of scope.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the user need, not the solution. "People can't tell when a comment period closes" is better than "add a countdown banner."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+    validations:
+      required: true
+  - type: dropdown
+    id: roadmap-phase
+    attributes:
+      label: Which roadmap phase does this belong in?
+      description: See PRODUCT_BRIEF.md §9.
+      options:
+        - V1 (current)
+        - V1.1 (fast-follow — in-site feedback forms)
+        - V2 (state-level, editorial layer, digest)
+        - V3 (aspirational — letter drafting, representatives, calendar)
+        - Not sure / new phase
+    validations:
+      required: true
+  - type: textarea
+    id: out-of-scope-check
+    attributes:
+      label: Why isn't this out of scope?
+      description: If the brief's non-goals list includes something adjacent, explain why this is different.

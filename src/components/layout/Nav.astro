@@ -1,0 +1,86 @@
+---
+const { path } = Astro.props as { path: string };
+
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/legislation', label: 'Legislation' },
+  { href: '/rfis', label: 'RFIs' },
+  { href: '/hearings', label: 'Hearings' },
+  { href: '/about', label: 'About' },
+];
+
+function isActive(linkHref: string) {
+  if (linkHref === '/') return path === '/';
+  return path === linkHref || path.startsWith(linkHref + '/');
+}
+---
+
+<header class="site-nav">
+  <div class="container site-nav__inner">
+    <a href="/" class="site-nav__brand">AI Policy Watch</a>
+    <nav aria-label="Primary">
+      <ul class="site-nav__list">
+        {
+          links
+            .filter((l) => l.href !== '/')
+            .map((l) => (
+              <li>
+                <a
+                  href={l.href}
+                  class:list={['site-nav__link', { 'is-active': isActive(l.href) }]}
+                >
+                  {l.label}
+                </a>
+              </li>
+            ))
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-nav {
+    border-bottom: var(--border-thin);
+    background: var(--c-surface);
+  }
+  .site-nav__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: var(--sp-4);
+    padding-bottom: var(--sp-4);
+    gap: var(--sp-6);
+  }
+  .site-nav__brand {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: var(--fs-lg);
+    color: var(--c-ink);
+    text-decoration: none;
+    letter-spacing: -0.005em;
+  }
+  .site-nav__list {
+    display: flex;
+    gap: var(--sp-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+  }
+  .site-nav__link {
+    font-family: var(--font-sans);
+    font-size: var(--fs-sm);
+    color: var(--c-ink-muted);
+    text-decoration: none;
+    padding: 4px 0;
+    border-bottom: 1px solid transparent;
+  }
+  .site-nav__link:hover {
+    color: var(--c-ink);
+  }
+  .site-nav__link.is-active {
+    color: var(--c-ink);
+    border-bottom-color: var(--c-accent);
+  }
+</style>

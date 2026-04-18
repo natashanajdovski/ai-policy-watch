@@ -1,0 +1,227 @@
+[
+  {
+    "id": "rfi-2026-00206",
+    "title": "Request for Information Regarding Security Considerations for Artificial Intelligence Agents",
+    "last_updated": "2026-01-08",
+    "source_url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
+    "added_at": "2026-04-17T23:39:35.883Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Commerce Department",
+    "docket_id": "NIST-2025-0035",
+    "open_date": "2026-01-08",
+    "close_date": "2026-03-09",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NIST-2025-0035",
+    "document_number": "2026-00206",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-23641",
+    "title": "Request for Information: Accelerating the Adoption and Use of Artificial Intelligence as Part of Clinical Care",
+    "last_updated": "2025-12-23",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/23/2025-23641/request-for-information-accelerating-the-adoption-and-use-of-artificial-intelligence-as-part-of",
+    "added_at": "2026-04-17T23:39:35.883Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Health and Human Services Department",
+    "docket_id": "HHS-ONC-2026-0001",
+    "open_date": "2025-12-23",
+    "close_date": "2026-02-23",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=HHS-ONC-2026-0001",
+    "document_number": "2025-23641",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-18737",
+    "title": "Notice of Request for Information; Regulatory Reform on Artificial Intelligence",
+    "last_updated": "2025-09-26",
+    "source_url": "https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Science and Technology Policy Office",
+    "docket_id": "OSTP-TECH-2025-0067",
+    "open_date": "2025-09-26",
+    "close_date": "2025-10-27",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=OSTP-TECH-2025-0067",
+    "document_number": "2025-18737",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-18640",
+    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities",
+    "last_updated": "2025-09-25",
+    "source_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18640/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Education Department",
+    "docket_id": "ED-2025-OS-0680",
+    "open_date": "2025-09-25",
+    "close_date": "2025-10-27",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0680",
+    "document_number": "2025-18640",
+    "document_type": "Proposed Rule"
+  },
+  {
+    "id": "rfi-2025-18639",
+    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness",
+    "last_updated": "2025-09-25",
+    "source_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18639/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Education Department",
+    "docket_id": "ED-2025-OS-0679",
+    "open_date": "2025-09-25",
+    "close_date": "2025-10-27",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0679",
+    "document_number": "2025-18639",
+    "document_type": "Proposed Rule"
+  },
+  {
+    "id": "rfi-2025-17960",
+    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education",
+    "last_updated": "2025-09-17",
+    "source_url": "https://www.federalregister.gov/documents/2025/09/17/2025-17960/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Education Department",
+    "docket_id": "ED-2025-OS-0745",
+    "open_date": "2025-09-17",
+    "close_date": "2025-10-17",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0745",
+    "document_number": "2025-17960",
+    "document_type": "Proposed Rule"
+  },
+  {
+    "id": "rfi-2025-17361",
+    "title": "Cooperative Research and Development Agreement: “VoiceBrain”",
+    "last_updated": "2025-09-10",
+    "source_url": "https://www.federalregister.gov/documents/2025/09/10/2025-17361/cooperative-research-and-development-agreement-voicebrain",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Homeland Security Department",
+    "docket_id": "USCG-2025-0292",
+    "open_date": "2025-09-10",
+    "close_date": "2025-10-10",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=USCG-2025-0292",
+    "document_number": "2025-17361",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-14744",
+    "title": "Supporting Fairness and Originality in NIH Research Applications",
+    "last_updated": "2025-08-05",
+    "source_url": "https://www.federalregister.gov/documents/2025/08/05/2025-14744/supporting-fairness-and-originality-in-nih-research-applications",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Health and Human Services Department",
+    "docket_id": null,
+    "open_date": "2025-08-05",
+    "close_date": "2025-09-25",
+    "comment_submission_url": null,
+    "document_number": "2025-14744",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-13650",
+    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education",
+    "last_updated": "2025-07-21",
+    "source_url": "https://www.federalregister.gov/documents/2025/07/21/2025-13650/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing",
+    "added_at": "2026-04-17T23:39:35.884Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Education Department",
+    "docket_id": "ED-2025-OS-0118",
+    "open_date": "2025-07-21",
+    "close_date": "2025-08-20",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0118",
+    "document_number": "2025-13650",
+    "document_type": "Proposed Rule"
+  },
+  {
+    "id": "rfi-2025-07617",
+    "title": "Workado, LLC, f/k/a Content at Scale AI; Analysis of Proposed Consent Order To Aid Public Comment",
+    "last_updated": "2025-05-02",
+    "source_url": "https://www.federalregister.gov/documents/2025/05/02/2025-07617/workado-llc-fka-content-at-scale-ai-analysis-of-proposed-consent-order-to-aid-public-comment",
+    "added_at": "2026-04-17T23:39:35.885Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Federal Trade Commission",
+    "docket_id": "FTC-2025-0033",
+    "open_date": "2025-05-02",
+    "close_date": "2025-06-02",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FTC-2025-0033",
+    "document_number": "2025-07617",
+    "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2025-07332",
+    "title": "Request for Information on the Development of a 2025 National Artificial Intelligence (AI) Research and Development (R&D) Strategic Plan",
+    "last_updated": "2025-04-29",
+    "source_url": "https://www.federalregister.gov/documents/2025/04/29/2025-07332/request-for-information-on-the-development-of-a-2025-national-artificial-intelligence-ai-research",
+    "added_at": "2026-04-17T23:39:35.885Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "National Science Foundation",
+    "docket_id": "NSF-2025-OGC-0001",
+    "open_date": "2025-04-29",
+    "close_date": "2025-05-29",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=NSF-2025-OGC-0001",
+    "document_number": "2025-07332",
+    "document_type": "Notice"
+  }
+]

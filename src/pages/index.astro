@@ -1,0 +1,187 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+import { loadBills, loadRFIs, loadHearings } from '../lib/load-data';
+import { formatDateShort, daysRemaining } from '../lib/format';
+
+const bills = loadBills();
+const rfis = loadRFIs();
+const hearings = loadHearings();
+
+const openRFIs = rfis.filter((r) => r.status === 'open');
+const upcomingHearings = hearings.filter((h) => h.status === 'upcoming');
+const inProgressBills = bills.filter((b) => b.status === 'in_progress');
+const resolvedBills = bills.filter((b) => b.status === 'resolved');
+
+const closingSoon = [...openRFIs]
+  .sort((a, b) => (a.close_date ?? '').localeCompare(b.close_date ?? ''))
+  .slice(0, 5);
+---
+
+<PageShell title="Home">
+  <section class="container hero">
+    <h1 class="hero__title">
+      See what the federal government is deciding about AI.
+    </h1>
+    <p class="hero__lead">
+      A non-partisan aggregator of current federal activity on artificial
+      intelligence: pending legislation, open public-comment periods, and
+      upcoming congressional hearings. Links out to authoritative sources;
+      does not take a position.
+    </p>
+
+    <div class="home-grid">
+      <a class="home-card" href="/legislation">
+        <span class="home-card__label">Legislation</span>
+        <span class="home-card__stat">
+          <span class="home-card__num">{inProgressBills.length}</span>
+          <span class="home-card__unit">in progress</span>
+        </span>
+        <span class="home-card__sub meta">{resolvedBills.length} resolved · {bills.length} total</span>
+      </a>
+      <a class="home-card" href="/rfis">
+        <span class="home-card__label">RFIs</span>
+        <span class="home-card__stat">
+          <span class="home-card__num">{openRFIs.length}</span>
+          <span class="home-card__unit">open for comment</span>
+        </span>
+        <span class="home-card__sub meta">{rfis.length} total tracked</span>
+      </a>
+      <a class="home-card" href="/hearings">
+        <span class="home-card__label">Hearings</span>
+        <span class="home-card__stat">
+          <span class="home-card__num">{upcomingHearings.length}</span>
+          <span class="home-card__unit">upcoming</span>
+        </span>
+        <span class="home-card__sub meta">{hearings.length} total tracked</span>
+      </a>
+    </div>
+  </section>
+
+  {
+    closingSoon.length > 0 && (
+      <section class="container home-strips">
+        <div>
+          <div class="strip-head">
+            <h2>Closing soon</h2>
+            <a href="/rfis" class="meta">All RFIs &rarr;</a>
+          </div>
+          <div class="table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Title</th>
+                  <th style="width:160px">Agency</th>
+                  <th style="width:110px">Closes</th>
+                </tr>
+              </thead>
+              <tbody>
+                {closingSoon.map((r) => (
+                  <tr>
+                    <td class="cell-title">
+                      <a href={r.source_url} target="_blank" rel="noopener noreferrer">
+                        {r.title}
+                      </a>
+                    </td>
+                    <td class="cell-meta">{r.agency}</td>
+                    <td class="cell-num cell-meta">
+                      {formatDateShort(r.close_date)}
+                      <br />
+                      <small>{daysRemaining(r.close_date)}</small>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    )
+  }
+
+</PageShell>
+
+<style>
+  .hero {
+    padding: var(--sp-10) 0 var(--sp-6);
+  }
+  .hero__title {
+    font-size: var(--fs-3xl);
+    max-width: 42rem;
+    margin: 0 0 var(--sp-3);
+    line-height: 1.2;
+  }
+  .hero__lead {
+    font-family: var(--font-serif);
+    font-size: var(--fs-md);
+    max-width: 42rem;
+    margin: 0 0 var(--sp-6);
+    color: var(--c-ink-muted);
+    line-height: var(--lh-relaxed);
+  }
+  .home-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--sp-3);
+  }
+  @media (max-width: 700px) {
+    .home-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  .home-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--sp-1);
+    padding: var(--sp-4);
+    background: var(--c-surface);
+    border: 1px solid var(--c-rule);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    color: var(--c-ink);
+    transition: border-color 120ms ease;
+  }
+  .home-card:hover {
+    border-color: var(--c-accent);
+  }
+  .home-card__label {
+    font-size: var(--fs-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--c-ink-muted);
+  }
+  .home-card__stat {
+    display: flex;
+    align-items: baseline;
+    gap: var(--sp-2);
+  }
+  .home-card__num {
+    font-family: var(--font-serif);
+    font-size: var(--fs-2xl);
+    line-height: 1;
+    color: var(--c-ink);
+  }
+  .home-card__unit {
+    font-size: var(--fs-sm);
+    color: var(--c-ink-muted);
+  }
+  .home-strips {
+    padding-top: var(--sp-8);
+    padding-bottom: var(--sp-4);
+  }
+  .strip-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: var(--sp-2);
+  }
+  .strip-head h2 {
+    margin: 0;
+    font-size: var(--fs-lg);
+  }
+  .home-about {
+    padding: var(--sp-8) 0 var(--sp-4);
+  }
+  .home-about__meta {
+    text-align: center;
+  }
+</style>

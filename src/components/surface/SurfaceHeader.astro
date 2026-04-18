@@ -1,0 +1,71 @@
+---
+const { title, lead, note, count } = Astro.props as {
+  title: string;
+  lead: string;
+  note?: string;
+  count?: number;
+};
+---
+
+<header class="surface-header">
+  <div class="surface-header__row">
+    <h1>{title}</h1>
+    {
+      typeof count === 'number' && (
+        <span class="surface-header__count meta">{count} tracked</span>
+      )
+    }
+  </div>
+  <p class="surface-header__lead">{lead}</p>
+  {
+    note && (
+      <details class="surface-header__note">
+        <summary class="meta">How this surface works</summary>
+        <div class="surface-header__note-body">{note}</div>
+      </details>
+    )
+  }
+</header>
+
+<style>
+  .surface-header {
+    padding: var(--sp-6) 0 var(--sp-4);
+    margin-bottom: var(--sp-4);
+    border-bottom: var(--border-thin);
+  }
+  .surface-header__row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--sp-3);
+    flex-wrap: wrap;
+  }
+  .surface-header__row h1 {
+    margin: 0;
+    font-size: var(--fs-2xl);
+  }
+  .surface-header__count {
+    white-space: nowrap;
+  }
+  .surface-header__lead {
+    max-width: 48rem;
+    margin: var(--sp-2) 0 0;
+    font-size: var(--fs-base);
+    color: var(--c-ink-muted);
+  }
+  .surface-header__note summary {
+    cursor: pointer;
+    margin-top: var(--sp-2);
+    display: inline-block;
+    color: var(--c-accent);
+    font-size: var(--fs-sm);
+  }
+  .surface-header__note-body {
+    margin-top: var(--sp-2);
+    font-size: var(--fs-sm);
+    color: var(--c-ink-muted);
+    max-width: 48rem;
+    line-height: var(--lh-normal);
+    white-space: pre-line;
+  }
+</style>

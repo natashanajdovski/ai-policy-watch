@@ -1,0 +1,194 @@
+---
+// Collapsible filter dropdowns. Each filter is a <details> element: the
+// summary is a pill-shaped button, and checked checkboxes appear as a
+// floating panel below. Multi-select within group (OR), AND across groups.
+
+export type FilterOption = { value: string; label: string };
+export type FilterDef = { key: string; label: string; options: FilterOption[] };
+
+const {
+  searchPlaceholder = 'Search…',
+  filters = [],
+} = Astro.props as {
+  searchPlaceholder?: string;
+  filters?: FilterDef[];
+};
+---
+
+<section class="filters" aria-label="Filter and search">
+  <div class="filters__search">
+    <label class="visually-hidden" for="filter-search">Search</label>
+    <input
+      id="filter-search"
+      type="search"
+      class="filters__search-input"
+      placeholder={searchPlaceholder}
+      data-filter-search
+      autocomplete="off"
+    />
+  </div>
+  {
+    filters.length > 0 && (
+      <div class="filters__row">
+        {filters.map((f) => (
+          <details class="filter-dd" data-filter-dropdown>
+            <summary class="filter-dd__toggle">
+              <span>{f.label}</span>
+              <span class="filter-dd__count" data-filter-dd-count hidden></span>
+              <svg class="filter-dd__arrow" width="10" height="10" viewBox="0 0 12 12" aria-hidden="true">
+                <path d="M3 4.5 L6 8 L9 4.5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </summary>
+            <fieldset
+              class="filter-dd__panel"
+              data-filter-group
+              data-filter-key={f.key}
+            >
+              <legend class="visually-hidden">{f.label}</legend>
+              {f.options.map((o) => (
+                <label class="filter-dd__option">
+                  <input type="checkbox" value={o.value} />
+                  <span>{o.label}</span>
+                </label>
+              ))}
+            </fieldset>
+          </details>
+        ))}
+        <button type="button" class="filters__reset" data-filter-reset>
+          Reset
+        </button>
+      </div>
+    )
+  }
+  <p class="filters__count meta" data-filter-count></p>
+</section>
+
+<style>
+  .filters {
+    display: flex;
+    flex-direction: column;
+    gap: var(--sp-3);
+    margin-bottom: var(--sp-5);
+  }
+  .filters__search-input {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--c-rule-strong);
+    border-radius: var(--radius-md);
+    background: var(--c-surface);
+    font-size: var(--fs-table);
+    color: var(--c-ink);
+  }
+  .filters__search-input::placeholder {
+    color: var(--c-ink-dim);
+  }
+  .filters__row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--sp-2);
+  }
+
+  .filter-dd {
+    position: relative;
+  }
+  .filter-dd__toggle {
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 10px 5px 12px;
+    border: 1px solid var(--c-rule-strong);
+    border-radius: var(--radius-md);
+    background: var(--c-surface);
+    font-size: var(--fs-sm);
+    color: var(--c-ink);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .filter-dd__toggle::-webkit-details-marker {
+    display: none;
+  }
+  .filter-dd__toggle:hover {
+    border-color: var(--c-accent);
+  }
+  .filter-dd[open] .filter-dd__toggle {
+    border-color: var(--c-accent);
+    background: var(--c-surface-tint);
+  }
+  .filter-dd[open] .filter-dd__arrow {
+    transform: rotate(180deg);
+  }
+  .filter-dd__arrow {
+    width: 10px;
+    height: 10px;
+    color: var(--c-ink-muted);
+    transition: transform 120ms ease;
+  }
+  .filter-dd__count {
+    display: inline-block;
+    min-width: 18px;
+    padding: 0 6px;
+    border-radius: 999px;
+    background: var(--c-accent);
+    color: var(--c-accent-ink);
+    font-size: var(--fs-xs);
+    line-height: 1.4;
+    text-align: center;
+  }
+  .filter-dd__count[hidden] {
+    display: none;
+  }
+
+  .filter-dd__panel {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    z-index: 10;
+    min-width: 12rem;
+    max-height: 20rem;
+    overflow-y: auto;
+    padding: 8px 10px;
+    margin: 0;
+    border: 1px solid var(--c-rule-strong);
+    border-radius: var(--radius-md);
+    background: var(--c-surface);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .filter-dd__option {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 2px;
+    font-size: var(--fs-sm);
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  .filter-dd__option:hover {
+    color: var(--c-accent);
+  }
+  .filter-dd__option input {
+    margin: 0;
+  }
+
+  .filters__reset {
+    margin-left: auto;
+    border: none;
+    background: transparent;
+    color: var(--c-accent);
+    font-size: var(--fs-sm);
+    cursor: pointer;
+    padding: 4px 6px;
+  }
+  .filters__reset:hover {
+    text-decoration: underline;
+  }
+  .filters__count {
+    margin: 0;
+    min-height: 1em;
+  }
+</style>

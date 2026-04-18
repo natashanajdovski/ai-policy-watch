@@ -1,0 +1,87 @@
+---
+import type { Bill } from '@scripts/lib/schema';
+import { formatDateShort, truncate } from '../../lib/format';
+import { stageLabel } from '@scripts/lib/bill-status';
+
+const { entries } = Astro.props as { entries: Bill[] };
+
+// Option B color coding (per brief's muted palette, no red):
+//   Enacted           → green (chip-open)
+//   Advancing stages  → slate blue (chip-advancing)
+//   Everything else   → neutral tan
+const ADVANCING = new Set([
+  'passed_house',
+  'passed_senate',
+  'passed_both_chambers',
+  'at_president',
+]);
+function stageChipClass(stage: string | null | undefined): string {
+  if (stage === 'enacted') return 'chip chip-open';
+  if (stage && ADVANCING.has(stage)) return 'chip chip-advancing';
+  return 'chip';
+}
+
+// Numeric component of a bill number for natural sorting
+// ("HR.12" should sort after "HR.3").
+function billSortKey(b: Bill): string {
+  const num = b.bill_number.replace(/^[A-Z]+\./i, '').padStart(6, '0');
+  return `${b.chamber}-${num}`;
+}
+---
+
+<div class="table-wrap">
+  <table class="data-table bills-table">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 150px" data-sort-key="stage">Stage</th>
+        <th scope="col" style="width: 110px" data-sort-key="bill">Bill</th>
+        <th scope="col" data-sort-key="title">Title</th>
+        <th scope="col" style="width: 260px" data-sort-key="sponsor">Sponsor</th>
+        <th scope="col" style="width: 150px" data-sort-key="date">Last action</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        entries.map((b) => {
+          const searchBlob = [
+            b.title,
+            b.bill_number,
+            b.sponsor?.name,
+            b.committee,
+            b.policy_area,
+          ]
+            .filter(Boolean)
+            .join(' ')
+            .toLowerCase();
+          return (
+            <tr
+              data-row
+              data-search={searchBlob}
+              data-status={b.status}
+              data-chamber={b.chamber}
+              data-stage={b.stage ?? ''}
+              data-bill={billSortKey(b)}
+              data-title={b.title.toLowerCase()}
+              data-sponsor={(b.sponsor?.name ?? '').toLowerCase()}
+              data-date={b.last_action_date ?? ''}
+            >
+              <td>
+                <span class={stageChipClass(b.stage)}>
+                  {stageLabel(b.stage)}
+                </span>
+              </td>
+              <td class="cell-num">{b.bill_number}</td>
+              <td class="cell-title">
+                <a href={b.source_url} target="_blank" rel="noopener noreferrer" title={b.title}>
+                  {truncate(b.title, 80)}
+                </a>
+              </td>
+              <td class="cell-meta">{b.sponsor?.name ?? '—'}</td>
+              <td class="cell-num cell-meta">{formatDateShort(b.last_action_date)}</td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>

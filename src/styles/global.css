@@ -1,0 +1,254 @@
+@import './tokens.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: var(--c-bg);
+  color: var(--c-ink);
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  line-height: var(--lh-normal);
+  font-feature-settings: 'onum' 1, 'kern' 1;
+}
+
+/* Page titles and long-form intros use serif. Tables, meta, and controls
+   stay sans. Brief §3: "serif for body text, clean sans-serif for
+   metadata." Tabular data is metadata. */
+h1,
+h2,
+h3,
+h4,
+.prose {
+  font-family: var(--font-serif);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  line-height: var(--lh-tight);
+  margin: 0 0 var(--sp-3);
+  letter-spacing: -0.005em;
+}
+
+h1 {
+  font-size: var(--fs-3xl);
+}
+h2 {
+  font-size: var(--fs-xl);
+}
+h3 {
+  font-size: var(--fs-lg);
+}
+h4 {
+  font-size: var(--fs-md);
+}
+
+.prose {
+  font-size: var(--fs-md);
+  line-height: var(--lh-relaxed);
+}
+.prose p {
+  margin: 0 0 var(--sp-4);
+}
+
+p {
+  margin: 0 0 var(--sp-3);
+}
+
+a {
+  color: var(--c-accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+small,
+.meta {
+  font-size: var(--fs-sm);
+  color: var(--c-ink-muted);
+}
+
+hr {
+  border: none;
+  border-top: var(--border-thin);
+  margin: var(--sp-6) 0;
+}
+
+input,
+select,
+button,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+.container {
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 var(--sp-5);
+}
+
+.container-narrow {
+  max-width: var(--container-narrow);
+  margin: 0 auto;
+  padding: 0 var(--sp-5);
+}
+
+/* Small, quiet status chip. No red, no pulse, no urgency. */
+.chip {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--c-chip-bg);
+  color: var(--c-chip-ink);
+  font-size: var(--fs-xs);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  font-weight: 500;
+}
+.chip.chip-open,
+.chip.chip-upcoming {
+  background: var(--c-chip-open-bg);
+  color: var(--c-chip-open-ink);
+}
+.chip.chip-advancing {
+  background: var(--c-chip-advancing-bg);
+  color: var(--c-chip-advancing-ink);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+}
+
+/* --- Tables: the primary display mode for surfaces. --- */
+
+.table-wrap {
+  overflow-x: auto;
+  border: var(--border-thin);
+  border-radius: var(--radius-md);
+  background: var(--c-surface);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: var(--fs-table);
+  line-height: var(--lh-normal);
+}
+
+.data-table th,
+.data-table td {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.data-table thead th {
+  text-align: left;
+  padding: var(--theader-pad-y) var(--theader-pad-x);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--c-ink-muted);
+  background: var(--c-surface-tint);
+  border-bottom: var(--border-strong);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.data-table thead th[data-sort-key] {
+  cursor: pointer;
+  user-select: none;
+}
+.data-table thead th[data-sort-key]:hover {
+  color: var(--c-ink);
+}
+.data-table thead th[data-sort-key]::after {
+  content: '↕';
+  margin-left: 4px;
+  opacity: 0.35;
+  font-size: 0.9em;
+}
+.data-table thead th[aria-sort='ascending']::after {
+  content: '↑';
+  opacity: 1;
+  color: var(--c-accent);
+}
+.data-table thead th[aria-sort='descending']::after {
+  content: '↓';
+  opacity: 1;
+  color: var(--c-accent);
+}
+
+.data-table tbody td {
+  padding: var(--tcell-pad-y) var(--tcell-pad-x);
+  border-top: var(--border-thin);
+  vertical-align: top;
+}
+
+.data-table tbody tr:hover {
+  background: var(--c-row-hover);
+}
+
+.data-table tbody tr[hidden] {
+  display: none;
+}
+
+.data-table .cell-title {
+  font-weight: 500;
+  color: var(--c-ink);
+}
+.data-table .cell-title a {
+  color: var(--c-ink);
+  text-decoration: none;
+}
+.data-table .cell-title a:hover {
+  color: var(--c-accent);
+  text-decoration: underline;
+}
+
+.data-table .cell-meta {
+  color: var(--c-ink-muted);
+  font-size: var(--fs-sm);
+}
+
+.data-table .cell-num {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.data-table .cell-action a {
+  color: var(--c-accent);
+}

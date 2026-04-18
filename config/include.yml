@@ -1,0 +1,16 @@
+# AI Policy Watch — manual include list
+#
+# Use this file to force-include items that the automatic scope filter
+# misses. Each entry is a unique identifier from our normalized schema:
+#   bill-{congress}-{chamber}{number}      e.g., bill-119-hr5388
+#   rfi-{federal_register_document_number} e.g., rfi-2026-07123
+#   hearing-{event_id}                     e.g., hearing-119-116344
+#
+# Every force-include should have a one-line reason for auditability.
+# Format:
+#   - id: bill-119-hr5388
+#     reason: "About AI model safety, but originally tagged only as 'National Security'."
+
+bills: []
+rfis: []
+hearings: []

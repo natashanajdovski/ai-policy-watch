@@ -1,0 +1,162 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+import { loadMeta } from '../lib/load-data';
+import { formatDate } from '../lib/format';
+
+const meta = loadMeta();
+const lastSync = meta?.last_sync ? formatDate(meta.last_sync) : null;
+const GITHUB_URL = 'https://github.com/natashanajdovski/ai-policy-watch';
+---
+
+<PageShell
+  title="About"
+  description="AI Policy Watch: mission, scope, and how to contribute."
+>
+  <article class="container-narrow about prose">
+    <h1>About AI Policy Watch</h1>
+
+    <p class="about__lead">
+      AI Policy Watch is a public-interest aggregator of current federal
+      government activity related to artificial intelligence. It exists so
+      that members of the public can see what their government is deciding
+      about AI, form a view, and participate in the process if they choose to.
+    </p>
+
+    <h2>What this site tracks</h2>
+    <p>
+      Three kinds of federal activity, each linking out to the authoritative
+      source rather than hosting its own detail pages.
+    </p>
+    <ul>
+      <li>
+        <strong>Legislation</strong> — federal bills related to AI, in progress
+        or resolved. Source: Congress.gov.
+      </li>
+      <li>
+        <strong>RFIs</strong> — federal Requests for Information and similar
+        public-input opportunities. Source: Federal Register, with
+        Regulations.gov links where available.
+      </li>
+      <li>
+        <strong>Hearings</strong> — congressional committee meetings where AI
+        is on the agenda. Source: Congress.gov. Coverage is partial; committees
+        publish their own schedules and not all appear in the API.
+      </li>
+    </ul>
+
+    <h2>How we decide what counts as AI</h2>
+    <p>A bill, RFI, or hearing is included if either:</p>
+    <ul>
+      <li>
+        It carries the Library of Congress's "Artificial Intelligence" subject
+        tag (primary filter, bills only); or
+      </li>
+      <li>
+        Its title or abstract contains a term from a deliberately conservative
+        keyword list — artificial intelligence, generative AI, machine learning,
+        algorithmic accountability, automated decision-making, facial
+        recognition, deepfake, synthetic media, large language model, and a
+        handful of adjacent terms. The full list is at
+        <a href={`${GITHUB_URL}/blob/main/config/keywords.yml`}>config/keywords.yml</a>
+        and can be proposed for change via pull request.
+      </li>
+    </ul>
+    <p>
+      When in doubt we exclude rather than include. A manual include/exclude
+      list (in the repository) lets us correct specific edge cases and is
+      itself open to contribution.
+    </p>
+
+    <h2>What this site doesn't do</h2>
+    <ul>
+      <li>Take a position on AI policy. We present information; you decide.</li>
+      <li>
+        Replace enterprise trackers. If you're a lawyer, compliance officer,
+        or government-affairs professional, tools like MultiState, IAPP, and
+        Steptoe are built for your needs. This one is built for the general
+        public.
+      </li>
+      <li>
+        Cover state-level or international AI policy. V1 is federal-only.
+        State coverage is planned for V2.
+      </li>
+      <li>
+        Host editorial summaries. V1 mirrors source-language titles.
+        Plain-language summaries are planned for V2.
+      </li>
+      <li>Offer user accounts, saved searches, or email alerts.</li>
+    </ul>
+
+    <h2>How often data updates</h2>
+    <p>
+      Daily sync via GitHub Actions at 10:00 UTC (about 6:00 AM Eastern).
+      Tunable as we see API behavior in practice.
+      {lastSync && <>The dataset was most recently refreshed on {lastSync}.</>}
+    </p>
+
+    <h2>How to contribute</h2>
+    <p>
+      The project is open source. Corrections to the dataset, proposals to
+      adjust the keyword list, copy fixes, bug reports, and code contributions
+      are all welcome via GitHub.
+    </p>
+    <ul>
+      <li><a href={GITHUB_URL}>Repository</a></li>
+      <li><a href={`${GITHUB_URL}/blob/main/CONTRIBUTING.md`}>Contributing guide</a></li>
+      <li><a href={`${GITHUB_URL}/issues/new`}>File an issue</a></li>
+    </ul>
+    <p>
+      A non-technical feedback path (in-site forms that open issues) is
+      planned as the first fast-follow.
+    </p>
+
+    <h2>Who runs this</h2>
+    <p>
+      AI Policy Watch is maintained by Natasha Najdovski, with the intention
+      of adding co-maintainers as the project matures. It is independent and
+      non-commercial.
+    </p>
+    <p>
+      The project is built with substantial help from AI coding agents
+      (primarily Claude, from Anthropic), under human review. We disclose
+      this because it would be inconsistent not to: the mission of this site
+      is to make federal AI policy visible, and that includes being visible
+      about how this particular AI-adjacent tool is itself built. The rules
+      agents follow are documented in
+      <a href={`${GITHUB_URL}/blob/main/AGENTS.md`}>AGENTS.md</a>; agent-assisted
+      commits are tagged in the git history.
+    </p>
+
+    <h2>How to give feedback</h2>
+    <p>
+      The best path today is a GitHub issue. Bugs, missing items,
+      mis-included items, suggested keywords, and copy corrections are all
+      welcome.
+    </p>
+  </article>
+</PageShell>
+
+<style>
+  .about {
+    padding: var(--sp-10) 0 var(--sp-12);
+  }
+  .about h1 {
+    font-size: var(--fs-3xl);
+    margin-bottom: var(--sp-5);
+  }
+  .about h2 {
+    margin-top: var(--sp-8);
+    margin-bottom: var(--sp-3);
+    font-size: var(--fs-xl);
+  }
+  .about__lead {
+    font-size: var(--fs-md);
+    margin-bottom: var(--sp-6);
+  }
+  .about ul {
+    padding-left: var(--sp-5);
+  }
+  .about li {
+    margin-bottom: var(--sp-2);
+  }
+</style>

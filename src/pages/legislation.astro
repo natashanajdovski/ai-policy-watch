@@ -1,0 +1,83 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+import SurfaceHeader from '../components/surface/SurfaceHeader.astro';
+import FilterControls, {
+  type FilterDef,
+} from '../components/surface/FilterControls.astro';
+import BillsTable from '../components/surface/BillsTable.astro';
+import { loadBills } from '../lib/load-data';
+
+// Default sort: by legislative stage (most advanced / actionable first),
+// then by last-action date (newest within each stage). Users can click
+// any column header to override.
+const STAGE_ORDER: Array<string> = [
+  'at_president',
+  'passed_both_chambers',
+  'passed_senate',
+  'passed_house',
+  'introduced',
+  'enacted',
+  'vetoed',
+  'failed',
+  'expired',
+];
+
+const bills = loadBills().slice().sort((a, b) => {
+  const ai = STAGE_ORDER.indexOf(a.stage ?? '');
+  const bi = STAGE_ORDER.indexOf(b.stage ?? '');
+  const aRank = ai === -1 ? STAGE_ORDER.length : ai;
+  const bRank = bi === -1 ? STAGE_ORDER.length : bi;
+  if (aRank !== bRank) return aRank - bRank;
+  return (b.last_action_date ?? '').localeCompare(a.last_action_date ?? '');
+});
+
+const filters: FilterDef[] = [
+  {
+    key: 'status',
+    label: 'Status',
+    options: [
+      { value: 'in_progress', label: 'In Progress' },
+      { value: 'resolved', label: 'Resolved' },
+    ],
+  },
+  {
+    key: 'chamber',
+    label: 'Chamber',
+    options: [
+      { value: 'house', label: 'House' },
+      { value: 'senate', label: 'Senate' },
+    ],
+  },
+];
+
+const howThisWorks = `Bills appear here if the Library of Congress tags them with the "Artificial Intelligence" subject heading, or if their title contains a term from our keyword list. "In Progress" means introduced but not yet enacted, failed, or expired; "Resolved" means enacted, died, vetoed, or expired at end of Congress. Rows link to Congress.gov. Hover a title to see the bill's latest action text.`;
+---
+
+<PageShell
+  title="Federal AI Legislation"
+  description="Federal bills related to AI, organized by whether they can still be influenced."
+>
+  <section class="container" data-surface>
+    <SurfaceHeader
+      title="Legislation"
+      lead="Federal bills related to artificial intelligence. Rows link out to Congress.gov."
+      note={howThisWorks}
+      count={bills.length}
+    />
+    <FilterControls
+      searchPlaceholder="Search by bill number, title, sponsor…"
+      filters={filters}
+    />
+    <BillsTable entries={bills} />
+  </section>
+
+  <script>
+    import { initSurfaceFilter } from '../lib/surface-filter.ts';
+    import { initSurfaceSort } from '../lib/surface-sort.ts';
+    const root = document.querySelector<HTMLElement>('[data-surface]');
+    if (root) {
+      initSurfaceFilter(root);
+      initSurfaceSort(root);
+    }
+  </script>
+</PageShell>

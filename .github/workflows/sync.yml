@@ -1,0 +1,45 @@
+name: Sync data
+
+on:
+  schedule:
+    # Daily at 10:00 UTC (≈ 6:00 AM Eastern). Tune as we see API behavior.
+    - cron: '0 10 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: sync-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run sync
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          REGULATIONS_GOV_API_KEY: ${{ secrets.REGULATIONS_GOV_API_KEY }}
+        run: npm run sync:all
+
+      - name: Commit dataset changes
+        run: |
+          git config user.name "ai-policy-watch-bot"
+          git config user.email "bot@aipolicywatch.org"
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore(data): daily sync $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No dataset changes."
+          fi

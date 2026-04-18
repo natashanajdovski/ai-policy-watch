@@ -1,0 +1,83 @@
+---
+import type { Hearing } from '@scripts/lib/schema';
+import { chamberLabel, formatDateShort, statusLabel, truncate } from '../../lib/format';
+
+const { entries } = Astro.props as { entries: Hearing[] };
+
+function dateTime(iso: string | null) {
+  if (!iso) return { date: '—', time: '' };
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return { date: '—', time: '' };
+  const date = formatDateShort(iso);
+  const hours = d.getHours();
+  const mins = d.getMinutes();
+  const ampm = hours >= 12 ? 'PM' : 'AM';
+  const h12 = hours % 12 === 0 ? 12 : hours % 12;
+  const time = mins === 0 ? `${h12} ${ampm}` : `${h12}:${String(mins).padStart(2, '0')} ${ampm}`;
+  return { date, time };
+}
+---
+
+<div class="table-wrap">
+  <table class="data-table hearings-table">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 110px" data-sort-key="status">Status</th>
+        <th scope="col" style="width: 120px" data-sort-key="date">Date</th>
+        <th scope="col" style="width: 100px" data-sort-key="chamber">Chamber</th>
+        <th scope="col" data-sort-key="title">Topic</th>
+        <th scope="col" style="width: 300px" data-sort-key="committee">Committee</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        entries.map((h) => {
+          const searchBlob = [
+            h.title,
+            h.committee,
+            ...(h.witnesses ?? []),
+          ]
+            .filter(Boolean)
+            .join(' ')
+            .toLowerCase();
+          const dt = dateTime(h.date_time);
+          const fullTitle = (h.title ?? '').replace(/\s+/g, ' ').trim();
+          const displayTitle = truncate(fullTitle, 80);
+          return (
+            <tr
+              data-row
+              data-search={searchBlob}
+              data-status={h.status}
+              data-chamber={h.chamber}
+              data-date={h.date_time ?? ''}
+              data-title={fullTitle.toLowerCase()}
+              data-committee={h.committee.toLowerCase()}
+            >
+              <td>
+                <span class={`chip ${h.status === 'upcoming' ? 'chip-upcoming' : ''}`}>
+                  {statusLabel(h.status)}
+                </span>
+              </td>
+              <td class="cell-num cell-meta">
+                {dt.date}
+                {dt.time && (
+                  <>
+                    <br />
+                    <small>{dt.time}</small>
+                  </>
+                )}
+              </td>
+              <td class="cell-meta">{chamberLabel(h.chamber)}</td>
+              <td class="cell-title">
+                <a href={h.source_url} target="_blank" rel="noopener noreferrer" title={fullTitle}>
+                  {displayTitle}
+                </a>
+              </td>
+              <td class="cell-meta">{h.committee}</td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>

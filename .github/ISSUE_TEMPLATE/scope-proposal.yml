@@ -1,0 +1,32 @@
+name: Scope proposal (keyword add/remove)
+description: Add or remove a term in the AI-scope keyword list.
+title: "[scope] "
+labels: ["scope"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The keyword list lives at [config/keywords.yml](https://github.com/natashanajdovski/ai-policy-watch/blob/main/config/keywords.yml). We keep it deliberately conservative — when in doubt, exclude.
+  - type: dropdown
+    id: action
+    attributes:
+      label: Add or remove?
+      options:
+        - Add a term
+        - Remove a term
+    validations:
+      required: true
+  - type: input
+    id: term
+    attributes:
+      label: The term
+      placeholder: e.g., "predictive policing"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why?
+      description: One sentence on why this term is (or isn't) specific enough to AI to belong in the list. Examples of bills it would correctly pull in or exclude help.
+    validations:
+      required: true

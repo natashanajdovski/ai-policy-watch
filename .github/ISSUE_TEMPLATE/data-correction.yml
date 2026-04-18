@@ -1,0 +1,41 @@
+name: Data correction
+description: A bill, RFI, or hearing is missing, miscategorized, or shown incorrectly.
+title: "[data] "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for data problems: something should be listed but isn't, something's listed that shouldn't be, or a field is wrong (sponsor, dates, status, etc.).
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Which surface?
+      options:
+        - Legislation
+        - RFIs
+        - Hearings
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: authoritative-source
+    attributes:
+      label: Authoritative source URL
+      description: Link to Congress.gov, Federal Register, or Regulations.gov for the item in question.
+      placeholder: https://www.congress.gov/bill/119th-congress/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Plain-English description of the issue. One sentence is fine.
+      placeholder: HR.XXXX is missing from the Legislation page. It's about ...
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Proposed fix (optional)
+      description: If you already know the right answer (e.g., "add to config/include.yml"), paste the change here.

@@ -1,0 +1,33 @@
+---
+import '../../styles/global.css';
+import Nav from './Nav.astro';
+import Footer from './Footer.astro';
+
+const { title, description } = Astro.props as {
+  title: string;
+  description?: string;
+};
+
+const metaDescription =
+  description ??
+  'A public-interest aggregator of current federal government activity on artificial intelligence.';
+const path = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={metaDescription} />
+    <title>{title} — AI Policy Watch</title>
+  </head>
+  <body>
+    <a href="#main" class="visually-hidden">Skip to content</a>
+    <Nav path={path} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

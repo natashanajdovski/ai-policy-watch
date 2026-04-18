@@ -1,0 +1,30 @@
+{
+  "name": "ai-policy-watch",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "A public-interest aggregator of federal AI policy activity: legislation, RFIs, and hearings.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "sync:bills": "tsx scripts/sync-bills.ts",
+    "sync:rfis": "tsx scripts/sync-rfis.ts",
+    "sync:hearings": "tsx scripts/sync-hearings.ts",
+    "sync:all": "tsx scripts/sync-all.ts",
+    "typecheck": "astro check"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "dotenv": "^16.4.5",
+    "js-yaml": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "zod": "^3.23.8"
+  }
+}

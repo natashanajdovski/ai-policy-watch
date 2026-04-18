@@ -1,0 +1,62 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+import SurfaceHeader from '../components/surface/SurfaceHeader.astro';
+import FilterControls, {
+  type FilterDef,
+} from '../components/surface/FilterControls.astro';
+import HearingsTable from '../components/surface/HearingsTable.astro';
+import { loadHearings } from '../lib/load-data';
+
+const hearings = loadHearings();
+
+const filters: FilterDef[] = [
+  {
+    key: 'status',
+    label: 'Status',
+    options: [
+      { value: 'upcoming', label: 'Upcoming' },
+      { value: 'past', label: 'Past' },
+    ],
+  },
+  {
+    key: 'chamber',
+    label: 'Chamber',
+    options: [
+      { value: 'house', label: 'House' },
+      { value: 'senate', label: 'Senate' },
+      { value: 'joint', label: 'Joint' },
+    ],
+  },
+];
+
+const howThisWorks = `Congressional committee meetings where AI appears in the title or committee name. Coverage is partial — individual committees publish their own schedules and not all appear in the Congress.gov API. If you spot a missing AI-related hearing, file an issue on GitHub.`;
+---
+
+<PageShell
+  title="AI Congressional Hearings"
+  description="Congressional hearings and committee meetings where AI is a scheduled topic."
+>
+  <section class="container" data-surface>
+    <SurfaceHeader
+      title="Hearings"
+      lead="Congressional committee meetings where AI is on the agenda."
+      note={howThisWorks}
+      count={hearings.length}
+    />
+    <FilterControls
+      searchPlaceholder="Search by committee, topic, witness…"
+      filters={filters}
+    />
+    <HearingsTable entries={hearings} />
+  </section>
+
+  <script>
+    import { initSurfaceFilter } from '../lib/surface-filter.ts';
+    import { initSurfaceSort } from '../lib/surface-sort.ts';
+    const root = document.querySelector<HTMLElement>('[data-surface]');
+    if (root) {
+      initSurfaceFilter(root);
+      initSurfaceSort(root);
+    }
+  </script>
+</PageShell>

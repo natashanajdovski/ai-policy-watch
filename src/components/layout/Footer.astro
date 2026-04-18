@@ -1,0 +1,75 @@
+---
+import { loadMeta } from '../../lib/load-data';
+import { formatDate } from '../../lib/format';
+
+const meta = loadMeta();
+const lastSync = meta?.last_sync ? formatDate(meta.last_sync) : null;
+const GITHUB_URL = 'https://github.com/natashanajdovski/ai-policy-watch';
+---
+
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__col">
+      <p class="site-footer__heading">AI Policy Watch</p>
+      <p class="meta">
+        A public-interest aggregator of federal AI policy activity. Links out to
+        authoritative sources. Presents information; does not take a position.
+      </p>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__heading">Data</p>
+      <p class="meta">
+        Sources: Congress.gov, Federal Register, Regulations.gov.<br />
+        {lastSync && <>Last updated {lastSync}.</>}
+      </p>
+    </div>
+
+    <div class="site-footer__col">
+      <p class="site-footer__heading">Contribute</p>
+      <ul class="site-footer__links">
+        <li><a href={GITHUB_URL}>GitHub repository</a></li>
+        <li><a href={GITHUB_URL + '/issues/new'}>File an issue</a></li>
+        <li><a href="/about">About &amp; FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: var(--border-thin);
+    margin-top: var(--sp-16);
+    padding: var(--sp-10) 0 var(--sp-12);
+    background: var(--c-surface-tint);
+  }
+  .site-footer__inner {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--sp-8);
+  }
+  @media (max-width: 700px) {
+    .site-footer__inner {
+      grid-template-columns: 1fr;
+    }
+  }
+  .site-footer__heading {
+    font-family: var(--font-sans);
+    font-size: var(--fs-sm);
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--c-ink);
+    margin: 0 0 var(--sp-2);
+  }
+  .site-footer__links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: var(--font-sans);
+    font-size: var(--fs-sm);
+  }
+  .site-footer__links li {
+    padding: 2px 0;
+  }
+</style>

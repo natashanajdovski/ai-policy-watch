@@ -1,0 +1,954 @@
+[
+  {
+    "id": "hearing-119-119195",
+    "title": "“Protecting U.S. Leadership in Codes Development and Enhancing Public Access”",
+    "last_updated": "2026-04-14T13:34:16Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119195",
+    "added_at": "2026-04-17T23:40:59.303Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-04-21T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119195"
+  },
+  {
+    "id": "hearing-119-338329",
+    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, and the nominations of Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands for a term of ten years, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii for the term of four years.",
+    "last_updated": "2026-04-17T02:08:21Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338329",
+    "added_at": "2026-04-17T23:50:10.638Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Judiciary",
+    "chamber": "senate",
+    "date_time": "2026-04-23T14:15:00Z",
+    "location": "216, Hart Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338329"
+  },
+  {
+    "id": "hearing-119-119165",
+    "title": "Hearing:\r\nChina’s Campaign to Steal America’s AI Edge",
+    "last_updated": "2026-04-15T16:49:10Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119165",
+    "added_at": "2026-04-17T23:40:35.281Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Unknown committee",
+    "chamber": "house",
+    "date_time": "2026-04-16T15:00:00Z",
+    "location": "390, Cannon House Office Building",
+    "witnesses": [
+      "Mr. Yusuf Mahmood",
+      "Mr. Kyle Chan",
+      "Mr. Dmitri Alperotvitch"
+    ],
+    "cspan_url": null,
+    "event_id": "119165"
+  },
+  {
+    "id": "hearing-119-338140",
+    "title": "Hearings to examine S.465, to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, S.1327, to require the Federal Energy Regulatory Commission to establish a shared savings incentive to return a portion of the savings attributable to an investment in grid-enhancing technology to the developer of that grid-enhancing technology, S.3034, to amend the Federal Power Act to require the Federal Energy Regulatory Commission to review regulations that may affect the reliable operation of the bulk-power system, S.3192, to require Transmission Organizations to allow aggregators of retail customers to submit to organized wholesale electric markets bids that aggregate demand flexibility of customers of certain utilities, S.3269, to direct the Comptroller General of the United States to conduct a technology assessment focused on liquid cooling systems for artificial intelligence compute clusters and high-performance computing facilities, S.3947, to amend the Federal Power Act to establish a categorical exclusion for reconductoring within existing rights-of-way.",
+    "last_updated": "2026-04-14T22:08:24Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338140",
+    "added_at": "2026-04-17T23:50:43.669Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Energy and Natural Resources Subcommittee on Energy",
+    "chamber": "senate",
+    "date_time": "2026-04-15T18:30:00Z",
+    "location": "366, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338140"
+  },
+  {
+    "id": "hearing-119-119139",
+    "title": "\"Building an AI-Ready America: Understanding AI’s Economic Impact on Workers and Employers\"",
+    "last_updated": "2026-04-16T21:12:09Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119139",
+    "added_at": "2026-04-17T23:40:06.254Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Workforce Protections",
+    "chamber": "house",
+    "date_time": "2026-04-15T14:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Chatrane Birbal, CHRO Association",
+      "Mr. Matthew Gizzo, Ogletree Deakins",
+      "Ms. Sara Steffens, We Build Progress",
+      "Ms. Rachel Greszler, Advancing American Freedom"
+    ],
+    "cspan_url": null,
+    "event_id": "119139"
+  },
+  {
+    "id": "hearing-119-119119",
+    "title": "H.R. 8065, the Restoring Executive Branch Authorities to Oversee Offices of the United States Attorneys Act of 2026; \r\nH.R. 8037, the Protect American AI Act of 2026; \r\nH.R. 1468, the Protect America’s Innovation and Economic Security from CCP Act of 2025; \r\nH.R. 7730, the Bankruptcy Threshold Adjustment Act of 2026; \r\nH.R. 6194, the Protecting Americans from Russian Litigation Act of 2025; \r\nH.R. 3420, the Words Matter Act of 2025; and \r\nH.R. 6453, the ADA 30 Days to Comply Act",
+    "last_updated": "2026-03-27T13:42:57Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119119",
+    "added_at": "2026-04-17T23:42:13.388Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Judiciary",
+    "chamber": "house",
+    "date_time": "2026-03-26T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119119"
+  },
+  {
+    "id": "hearing-119-119110",
+    "title": "Innovation at the Speed of Markets: How Regulators Keep Pace with Technology",
+    "last_updated": "2026-03-25T21:58:28Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119110",
+    "added_at": "2026-04-17T23:42:26.397Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "chamber": "house",
+    "date_time": "2026-03-26T14:00:00Z",
+    "location": "2128, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Jay Gallagher, Office of the Comptroller of the Currency",
+      "Mr. Ryan Billingsley, Federal Deposit Insurance Corporation",
+      "Mr. Randall Guynn, Federal Reserve Board",
+      "Ms. Amanda Parkhill, National Credit Union Administration"
+    ],
+    "cspan_url": null,
+    "event_id": "119110"
+  },
+  {
+    "id": "hearing-119-119088",
+    "title": "“Oversight of the U.S. Patent and Trademark Office”",
+    "last_updated": "2026-04-17T18:27:20Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119088",
+    "added_at": "2026-04-17T23:39:49.235Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-03-25T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [
+      "The Honorable John Squires, U.S. Patent and Trademark Office"
+    ],
+    "cspan_url": null,
+    "event_id": "119088"
+  },
+  {
+    "id": "hearing-119-338066",
+    "title": "Member Day to examine S.297, to amend title XXVII of the Public Health Service Act to require group health plans and health insurance issuers offering group or individual health insurance coverage to provide coverage for prostate cancer screenings without the imposition of cost-sharing requirements, S.380, to improve obstetric emergency care, S.547, to require the Secretary of Health and Human Services and the Secretary of Labor to conduct a study and issue a report on grant programs to support the nursing workforce, S.846, to implement or strengthen programs that increase the supply of quality child care services by enhancing the wages of child care workers, S.864, to amend title XXVII of the Public Health Service Act to apply financial assistance towards the cost-sharing requirements of health insurance plans, S.880, to amend the Higher Education Act of 1965 to prohibit institutions of higher education participating in Federal student assistance programs from giving preferential treatment in the admissions process to legacy students or donors, S.942, to amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program, S.1269, to promote United States leadership in technical standards by directing the National Institute of Standards and Technology and the Department of State to take certain actions to encourage and enable United States participation in developing standards and specifications for artificial intelligence and other critical and emerging technologies, S.1380, to amend the Public Health Service Act to authorize a loan repayment program to encourage specialty medicine physicians to serve in rural communities experiencing a shortage of specialty medicine physicians, S.1387, to authorize the National Biotechnology Initiative, S.1482, to amend the Public Health Service Act to support and stabilize the existing nursing workforce, establish programs to increase the number of nurses, S.1677, to provide health insurance benefits for outpatient and inpatient items and services related to the diagnosis and treatment of a congenital anomaly or birth defect, S.1756, to amend the Public Health Service Act to prohibit discrimination against health care entities that do not participate in abortion, and to strengthen implementation and enforcement of Federal conscience laws, S.1784, to improve coordination of Federal efforts to identify and mitigate health and national security risks through maintaining a list of essential medicines, conducting a risk assessment of essential medicine supply chains, and creating a monitoring system to map essential medicine supply chains using data analytics, S.1813, to amend the Internal Revenue Code of 1986 to allow a credit against tax for charitable donations for the creation or expansion of charter schools, S.1830, to clarify that agencies of the Department of Health and Human Services do not have the authority to regulate the practice of medicine, S.2287, to amend the Public Health Service Act to increase the number of permanent faculty in palliative care at accredited allopathic and osteopathic medical schools, nursing schools, and other programs, including social work, physician assistant, and chaplaincy education programs, to promote education and research in palliative care and hospice, and to support the development of faculty careers in academic palliative and hospice care, S.2289, to amend titles XIX and XXI of the Social Security Act to improve maternal health coverage under Medicaid and CHIP, S.2323, to amend the Head Start Act to permit some teachers in Early Head Start programs to teach while earning a child development associate credential, S.2355, to amend the Public Health Service Act to provide for hospital and insurer price transparency, S.2531, to authorize the Secretary of Health and Human Services to award grants to increase early detection of and intervention for uterine fibroids, S.2658, to require sponsors of drug applications and holders of approved applications to provide certain submissions and communications to the Food and Drug Administration and the United States Patent and Trademark Office, S.2699, to amend the Public Health Service Act to reauthorize certain education and training programs relating to geriatrics, S.2762, to establish a commission on long-term care, S.2826, to direct the Secretary of Health and Human Services to dedicate sufficient resources for the support of LGBTQ+ youth seeking help from the 9-8-8 suicide prevention hotline, S.2828, to amend the Child Care and Development Block Grant Act of 1990 to reauthorize and update the Act, S.2833, to amend the Older Americans Act of 1965 to improve falls prevention research and activities, S.2841, to amend the American History and Civics Education program under the Elementary and Secondary Education Act of 1965 to require hands-on civic engagement activities for teachers",
+    "last_updated": "2026-03-19T22:08:24Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338066",
+    "added_at": "2026-04-17T23:51:08.704Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Health, Education, Labor, and Pensions",
+    "chamber": "senate",
+    "date_time": "2026-03-19T14:00:00Z",
+    "location": "430, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338066"
+  },
+  {
+    "id": "hearing-119-118982",
+    "title": "“DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies and Building a Secure U.S. Technology Base”",
+    "last_updated": "2026-03-17T18:20:42Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118982",
+    "added_at": "2026-04-17T23:43:25.468Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection",
+    "chamber": "house",
+    "date_time": "2026-03-17T18:00:00Z",
+    "location": "310, Cannon House Office Building",
+    "witnesses": [
+      "Rush Doshi, PhD, Council on Foreign Relations",
+      "Mr. Michael Robbins, Association for Uncrewed Vehicle Systems International (AUVSI)",
+      "Mr. Max Fenkell, Scale AI",
+      "Mr. Matthew Malchano, Boston Dynamics"
+    ],
+    "cspan_url": null,
+    "event_id": "118982"
+  },
+  {
+    "id": "hearing-119-119008",
+    "title": "\"Building an AI-Ready America: Strengthening Employer-Led Training\"",
+    "last_updated": "2026-03-19T16:35:13Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119008",
+    "added_at": "2026-04-17T23:42:50.426Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Higher Education and Workforce Development",
+    "chamber": "house",
+    "date_time": "2026-03-04T15:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Brent Parton, CareerWise",
+      "Ms. Mary Kate Morley Ryan, Transformation Americas, Accenture",
+      "Dr. Scott Ralls, Wake Technical Community College",
+      "Mr. Tim House, Wireless Infrastructure Association"
+    ],
+    "cspan_url": null,
+    "event_id": "119008"
+  },
+  {
+    "id": "hearing-119-338022",
+    "title": "Hearings to examine AI that improves safety, productivity, and care.",
+    "last_updated": "2026-03-03T00:23:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338022",
+    "added_at": "2026-04-17T23:51:49.748Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation Subcommittee on Science, Manufacturing, and Competitiveness",
+    "chamber": "senate",
+    "date_time": "2026-03-03T15:15:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338022"
+  },
+  {
+    "id": "hearing-119-118980",
+    "title": "\"Building an AI-Ready America: Teaching in the AI Age\"",
+    "last_updated": "2026-03-19T14:05:02Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118980",
+    "added_at": "2026-04-17T23:42:54.434Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education",
+    "chamber": "house",
+    "date_time": "2026-02-24T19:00:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Michele Blatt, West Virginia Department of Education",
+      "Mr. Aneesh Sohoni, Teach for America",
+      "Dr. David Slykhuis",
+      "Mrs. Allyson Knox, Microsoft"
+    ],
+    "cspan_url": null,
+    "event_id": "118980"
+  },
+  {
+    "id": "hearing-119-118969",
+    "title": "Powering America's AI Future: Assessing Policy Options to Increase Data Center Infrastructure",
+    "last_updated": "2026-03-03T14:27:53Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118969",
+    "added_at": "2026-04-17T23:45:38.370Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Science, Space, and Technology Subcommittee on Investigations and Oversight",
+    "chamber": "house",
+    "date_time": "2026-02-24T15:00:00Z",
+    "location": "2318, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Paige Lambermont, Competitive Enterprise Institute",
+      "Mr. Marsden Hanna, Google, LLC",
+      "Dr. Eric Masanet, Bren School of Environmental Science & Management, UC Santa Barbara"
+    ],
+    "cspan_url": null,
+    "event_id": "118969"
+  },
+  {
+    "id": "hearing-119-118953",
+    "title": "“Building an AI-Ready America: Safer Workplaces Through Smarter Technology”",
+    "last_updated": "2026-03-11T19:42:35Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118953",
+    "added_at": "2026-04-17T23:44:18.291Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Workforce Protections",
+    "chamber": "house",
+    "date_time": "2026-02-11T15:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Johan Land, Samsara",
+      "Mr. Johan Land, Samsara",
+      "Mr. Doug Parker, Center for Labor and a Just Economy at Harvard Law School",
+      "Mr. Johan Land, Samsara",
+      "Mr. Eric Hoplin, National Association of Wholesaler-Distributors",
+      "Mr. Doug Parker, Center for Labor and a Just Economy at Harvard Law School",
+      "Mr. Jeff Buczkiewicz, Mason Contractors Association of America",
+      "Mr. Eric Hoplin, National Association of Wholesaler-Distributors",
+      "Mr. Jeff Buczkiewicz, Mason Contractors Association of America"
+    ],
+    "cspan_url": null,
+    "event_id": "118953"
+  },
+  {
+    "id": "hearing-119-118908",
+    "title": "“Building an AI-Ready America: Adopting AI at Work”",
+    "last_updated": "2026-03-20T14:33:54Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118908",
+    "added_at": "2026-04-17T23:42:49.425Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Health, Employment, Labor, and Pensions",
+    "chamber": "house",
+    "date_time": "2026-02-03T15:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Revana Sharfuddin, Mercatus Center at George Mason University",
+      "Mr. David Walton, Fisher Phillips",
+      "Mr. Bradford Kelley, Littler Mendelson P.C.",
+      "Ms. Revana Sharfuddin, Mercatus Center at George Mason University",
+      "Ms. Tanya Goldman, Workshop",
+      "Mr. David Walton, Fisher Phillips",
+      "Mr. Bradford Kelley, Littler Mendelson P.C.",
+      "Ms. Tanya Goldman, Workshop"
+    ],
+    "cspan_url": null,
+    "event_id": "118908"
+  },
+  {
+    "id": "hearing-119-118819",
+    "title": "\"Building an AI-Ready America\"",
+    "last_updated": "2026-02-02T05:03:51Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118819",
+    "added_at": "2026-04-17T23:47:13.462Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce",
+    "chamber": "house",
+    "date_time": "2026-01-14T15:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Chaya Nayak, OpenAI",
+      "Mr. Adeel Khan, MagicSchool AI",
+      "Ms. Alexandra Givens, Center for Democracy & Technology",
+      "Mr. Kevin Frazier, University of Texas Law School"
+    ],
+    "cspan_url": null,
+    "event_id": "118819"
+  },
+  {
+    "id": "hearing-119-118817",
+    "title": "“Between a Rock and a Hard Place: Protecting the U.S. Stone Slab Industry from Lawfare”",
+    "last_updated": "2026-03-03T22:04:39Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118817",
+    "added_at": "2026-04-17T23:45:14.336Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-01-14T15:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Rebecca Shult, Cambria Company LLC",
+      "Mr. James Hieb, Natural Stone Institute",
+      "Mr. Gary Talwar, Natural Stone Resources",
+      "Mr. David Michaels, The George Washington University",
+      "Mr. David Michaels, The George Washington University"
+    ],
+    "cspan_url": null,
+    "event_id": "118817"
+  },
+  {
+    "id": "hearing-119-118803",
+    "title": "Assessing America's AI Action Plan",
+    "last_updated": "2026-02-02T05:02:44Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118803",
+    "added_at": "2026-04-17T23:47:24.481Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Science, Space, and Technology Subcommittee on Research and Technology",
+    "chamber": "house",
+    "date_time": "2026-01-14T15:00:00Z",
+    "location": "2318, Rayburn House Office Building",
+    "witnesses": [
+      "The Honorable Michael Kratsios"
+    ],
+    "cspan_url": null,
+    "event_id": "118803"
+  },
+  {
+    "id": "hearing-119-118814",
+    "title": "Winning the AI Arms Race Against the Chinese Communist Party",
+    "last_updated": "2026-02-02T05:03:35Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118814",
+    "added_at": "2026-04-17T23:47:15.470Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Foreign Affairs",
+    "chamber": "house",
+    "date_time": "2026-01-14T14:30:00Z",
+    "location": "2172, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Matt Pottinger",
+      "Mr. Oren Cass, American Compass",
+      "Mr. Jon Finer"
+    ],
+    "cspan_url": null,
+    "event_id": "118814"
+  },
+  {
+    "id": "hearing-119-118806",
+    "title": "Delivering for American Consumers: A Review of FinTech Innovations and Regulations",
+    "last_updated": "2026-02-02T05:03:03Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118806",
+    "added_at": "2026-04-17T23:47:21.473Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "chamber": "house",
+    "date_time": "2026-01-13T15:00:00Z",
+    "location": "2128, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Jodie Kelley, Electronic Transactions Association",
+      "Mr. Kevin Lefton, Stream",
+      "Mr. Ram Palaniappan, EarnIn",
+      "Mr. Todd Zywicki, George Mason University Antonin Scalia Law School",
+      "Ms. Delicia Reynolds Hand, Consumer Reports"
+    ],
+    "cspan_url": null,
+    "event_id": "118806"
+  },
+  {
+    "id": "hearing-119-118773",
+    "title": "Examining Biosecurity at the Intersection of AI and Biology",
+    "last_updated": "2026-03-31T20:04:32Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118773",
+    "added_at": "2026-04-17T23:41:52.367Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Energy and Commerce Subcommittee on Oversight and Investigations",
+    "chamber": "house",
+    "date_time": "2025-12-17T15:15:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [
+      "Matthew McKnight, Ginkgo Bioworks",
+      "Fiona Havers, Former Lead of the Centers for Disease Control and Prevention Respiratory Virus Hospitalization Surveillance Network Team",
+      "James Diggans, Twist Bioscience Corporation",
+      "Jassi Pannu, Johns Hopkins Bloomberg School of Public Health and Johns Hopkins Center for Health Security"
+    ],
+    "cspan_url": null,
+    "event_id": "118773"
+  },
+  {
+    "id": "hearing-119-118723",
+    "title": "“The Quantum, AI, and Cloud Landscape: Examining Opportunities, Vulnerabilities, and the Future of Cybersecurity”",
+    "last_updated": "2026-01-02T08:24:08Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118723",
+    "added_at": "2026-04-17T23:48:43.555Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection",
+    "chamber": "house",
+    "date_time": "2025-12-17T15:00:00Z",
+    "location": "310, Cannon House Office Building",
+    "witnesses": [
+      "Mr. Eddy Zervigon, Quantum Xchange",
+      "Mr. Royal Hansen, Google LLC",
+      "Mr. Logan Graham, PhD, Anthropic PBC",
+      "Mr. Michael Coates, Seven Hill Ventures"
+    ],
+    "cspan_url": null,
+    "event_id": "118723"
+  },
+  {
+    "id": "hearing-119-118735",
+    "title": "From Principles to Policy: Enabling 21st Century AI Innovation in Financial Services",
+    "last_updated": "2026-01-02T08:28:33Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118735",
+    "added_at": "2026-04-17T23:48:38.548Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Financial Services",
+    "chamber": "house",
+    "date_time": "2025-12-10T15:00:00Z",
+    "location": "2128, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Wendi Whitmore, Palo Alto Networks",
+      "Mr. Joshua Branch, Public Citizen",
+      "Ms. Jeanette Manfra, Google Cloud",
+      "Mr. Tal Cohen, Nasdaq",
+      "Mr. Nicholas Stevens, Zillow"
+    ],
+    "cspan_url": null,
+    "event_id": "118735"
+  },
+  {
+    "id": "hearing-119-337707",
+    "title": "Hearings to examine China's challenge to American AI leadership.",
+    "last_updated": "2025-12-01T23:08:21Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337707",
+    "added_at": "2026-04-17T23:54:27.915Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Foreign Relations Subcommittee on East Asia, the Pacific, and International Cybersecurity Policy",
+    "chamber": "senate",
+    "date_time": "2025-12-02T19:30:00Z",
+    "location": "419, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337707"
+  },
+  {
+    "id": "hearing-119-118669",
+    "title": "Innovation with Integrity: Examining the Risks and Benefits of AI Chatbots",
+    "last_updated": "2026-03-30T17:49:04Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118669",
+    "added_at": "2026-04-17T23:42:01.375Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Energy and Commerce Subcommittee on Oversight and Investigations",
+    "chamber": "house",
+    "date_time": "2025-11-18T19:00:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [
+      "Dr. Marlynn Wei, MD, JD",
+      "Dr. John Torous, MD, MBI, Director of Digital Psychiatry, Department of Psychiatry, Beth Israel Deaconess Medical Center and Associate Professor of Psychiatry, Harvard Medical",
+      "Dr. Jennifer King, PhD, Stanford Institute for Human-Centered Artificial Intelligence"
+    ],
+    "cspan_url": null,
+    "event_id": "118669"
+  },
+  {
+    "id": "hearing-119-337474",
+    "title": "Hearings to examine AI's potential to support patients, workers, children, and families.",
+    "last_updated": "2025-10-08T20:08:13Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337474",
+    "added_at": "2026-04-17T23:55:42.995Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Health, Education, Labor, and Pensions",
+    "chamber": "senate",
+    "date_time": "2025-10-09T14:00:00Z",
+    "location": "430, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337474"
+  },
+  {
+    "id": "hearing-119-118625",
+    "title": "Unlocking the Next Generation of AI in the U.S. Financial System for Consumers, Businesses, and Competitiveness",
+    "last_updated": "2026-01-02T08:03:17Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118625",
+    "added_at": "2026-04-17T23:49:38.616Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "chamber": "house",
+    "date_time": "2025-09-18T18:00:00Z",
+    "location": "2128, Rayburn House Office Building",
+    "witnesses": [
+      "Dr. Nicol Turner Lee, Center for Technology Innovation, Brookings Institution",
+      "Mr. Daniel Gorfine, Gattaca Horizons; Former Chief Innovation Officer & Director of LabCFTC",
+      "Mr. Matthew Reisman, Center for Information Policy Leadership",
+      "Dr. David Cox, IBM Director, MIT-IBM Watson AI Lab",
+      "Dr. Christian Lau, Dynamo AI"
+    ],
+    "cspan_url": null,
+    "event_id": "118625"
+  },
+  {
+    "id": "hearing-119-118623",
+    "title": "“AI at a Crossroads: A Nationwide Strategy or Californication?”",
+    "last_updated": "2026-01-02T08:03:06Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118623",
+    "added_at": "2026-04-17T23:49:40.619Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2025-09-18T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [
+      "Dr. David Bray",
+      "Mr. Kevin Frazier",
+      "Mr. Adam Thierer",
+      "Mr. Neil Richards"
+    ],
+    "cspan_url": null,
+    "event_id": "118623"
+  },
+  {
+    "id": "hearing-119-118621",
+    "title": "“Shaping Tomorrow: The Future of Artificial Intelligence”",
+    "last_updated": "2026-02-02T04:52:49Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118621",
+    "added_at": "2026-04-17T23:47:51.505Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Oversight and Government Reform Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+    "chamber": "house",
+    "date_time": "2025-09-17T18:00:00Z",
+    "location": "2247, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Kinsey Fabrizio, Consumer Technology Association",
+      "Mr. Samuel Hammond, Foundation for American Innovation",
+      "Dr. Nicol Turner Lee, The Brookings Institution"
+    ],
+    "cspan_url": null,
+    "event_id": "118621"
+  },
+  {
+    "id": "hearing-119-337424",
+    "title": "Hearings to examine AI chatbots.",
+    "last_updated": "2025-09-15T22:08:17Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337424",
+    "added_at": "2026-04-17T23:56:22.031Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
+    "chamber": "senate",
+    "date_time": "2025-09-16T18:30:00Z",
+    "location": "226, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337424"
+  },
+  {
+    "id": "hearing-119-118596",
+    "title": "Oversight: Advancing VA Care Through Artificial Intelligence",
+    "last_updated": "2026-01-02T07:54:52Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118596",
+    "added_at": "2026-04-17T23:50:00.638Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Veterans' Affairs Subcommittee on Technology Modernization",
+    "chamber": "house",
+    "date_time": "2025-09-15T19:00:00Z",
+    "location": "360, Cannon House Office Building",
+    "witnesses": [
+      "Dr. Mohammad Ghassemi, Michigan State University",
+      "Mr. Sid Ghatak, National Artificial Intelligence Association",
+      "Dr. Evan Carey, Veteran Health Administration, U.S. Department of Veterans Affairs",
+      "Mr. Charles Worthington, Office of Information & Technology, U.S. Department of Veterans Affairs",
+      "Ms. Carol Harris, U.S. Government Accountability Office"
+    ],
+    "cspan_url": null,
+    "event_id": "118596"
+  },
+  {
+    "id": "hearing-119-337395",
+    "title": "Hearings to examine America's AI action plan.",
+    "last_updated": "2025-09-09T22:08:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337395",
+    "added_at": "2026-04-17T23:56:35.043Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation Subcommittee on Science, Manufacturing, and Competitiveness",
+    "chamber": "senate",
+    "date_time": "2025-09-10T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337395"
+  },
+  {
+    "id": "hearing-119-118560",
+    "title": "Examining Opportunities to Advance American Health Care through the Use of Artificial Intelligence Technologies",
+    "last_updated": "2026-03-03T14:26:53Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118560",
+    "added_at": "2026-04-17T23:45:43.368Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Energy and Commerce Subcommittee on Health",
+    "chamber": "house",
+    "date_time": "2025-09-03T14:15:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Andrew Toy, Clover Health",
+      "Dr. Michelle Mello, Stanford University",
+      "Dr. Vaile Wright, American Psychological Association",
+      "Dr. Andrew Ibrahim, Viz.ai",
+      "Mr. TJ Parker, General Medicine"
+    ],
+    "cspan_url": null,
+    "event_id": "118560"
+  },
+  {
+    "id": "hearing-119-337317",
+    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
+    "added_at": "2026-04-17T23:57:04.074Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "538, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337317"
+  },
+  {
+    "id": "hearing-119-337316",
+    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
+    "added_at": "2026-04-17T23:57:05.086Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337316"
+  },
+  {
+    "id": "hearing-119-337253",
+    "title": "Hearings to examine the AI industry's mass ingestion of copyrighted works for AI training.",
+    "last_updated": "2026-01-21T18:49:40Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337253",
+    "added_at": "2026-04-17T23:53:22.841Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
+    "chamber": "senate",
+    "date_time": "2025-07-16T16:00:00Z",
+    "location": "226, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337253"
+  },
+  {
+    "id": "hearing-119-118333",
+    "title": "AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology",
+    "last_updated": "2026-04-02T18:27:58Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118333",
+    "added_at": "2026-04-17T23:41:39.354Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Energy and Commerce Subcommittee on Communications and Technology",
+    "chamber": "house",
+    "date_time": "2025-06-04T14:30:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [
+      "Chip Pickering, INCOMPAS",
+      "Ronnie Vasishta, NVIDIA",
+      "Jim Shea, DeepSig, Inc.",
+      "Asad Ramzanali, anderbilt Policy Accelerator, Vanderbilt University"
+    ],
+    "cspan_url": null,
+    "event_id": "118333"
+  },
+  {
+    "id": "hearing-119-336979",
+    "title": "Hearings to examine AI-generated deepfakes.",
+    "last_updated": "2025-05-20T22:08:17Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/336979",
+    "added_at": "2026-04-17T23:59:52.257Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "deepfake",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Judiciary Subcommittee on Privacy, Technology, and the Law",
+    "chamber": "senate",
+    "date_time": "2025-05-21T18:30:00Z",
+    "location": "226, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "336979"
+  },
+  {
+    "id": "hearing-119-336923",
+    "title": "Hearings to examine winning the AI race, focusing on strengthening United States capabilities in computing and innovation.",
+    "last_updated": "2025-07-16T14:47:24Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/336923",
+    "added_at": "2026-04-17T23:57:30.104Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation",
+    "chamber": "senate",
+    "date_time": "2025-05-08T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "336923"
+  },
+  {
+    "id": "hearing-119-336893",
+    "title": "Business meeting to consider S.29, to make daylight saving time permanent, S.191, to require the Secretary of Transportation to modify certain regulations relating to the requirements for commercial driver's license testing and commercial learner's permit holders, S.196, to improve online ticket sales and protect consumers, S.259, to direct the Federal Communications Commission to publish a list of entities that hold authorizations, licenses, or other grants of authority issued by the Commission and that have certain foreign ownership, S.320, to authorize the Earthquake Hazards Reduction Act of 1977, S.580, to require the Secretary of Commerce to provide training and guidance relating to human rights abuses, including such abuses perpetrated against the Uyghur population by the Government of the People's Republic of China, S.606, to authorize the Administrator of the National Aeronautics and Space Administration to reimburse the Town of Chincoteague, Virginia, for costs directly associated with the removal and replacement of certain drinking water wells, S.688, to combat illegal, unreported, and unregulated fishing at its sources globally, S.725, to direct the Federal Communications Commission to issue reports after activation of the Disaster Information Reporting System and to make improvements to network outage reporting, to categorize public safety telecommunicators as a protective service occupation under the Standard Occupational Classification system, S.769, to amend the Research and Development, Competition, and Innovation Act to clarify the definition of foreign country for purposes of malign foreign talent recruitment restriction, S.1003, to require the Federal Communications Commission to issue an order providing that a shark attack is an event for which a wireless emergency alert may be transmitted, S.1081, to require the Administrator of the National Aeronautics and Space Administration to submit certain reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives, S.1278, to require the Under Secretary of Commerce for Oceans and Atmosphere to conduct a project to improve forecasts of coastal marine fog, S.1378, to enhance the use by the National Oceanic and Atmospheric Administration of artificial intelligence for weather forecasting, S.1433, to reauthorize the Northwest Straits Marine Conservation Initiative Act to promote the protection of the resources of the Northwest Straits, S.1437, to require the Administrator of the National Aeronautics and Space Administration to establish a program to identify, evaluate, acquire, and disseminate commercial Earth remote sensing data and imagery in order to satisfy the scientific, operational, and educational requirements of the Administration, S.1492, to require the Secretary of Commerce support the leadership of the United States with respect to the deployment, use, application, and competitiveness of blockchain technology, and the nominations of Olivia Trusty, of Maryland, to be a Member of the Federal Communications Commission, Jared Isaacman, of Pennsylvania, to be Administrator of the National Aeronautics and Space Administration, and routine lists in the Coast Guard.",
+    "last_updated": "2025-07-16T14:47:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/336893",
+    "added_at": "2026-04-17T23:57:51.127Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation",
+    "chamber": "senate",
+    "date_time": "2025-04-30T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "336893"
+  }
+]

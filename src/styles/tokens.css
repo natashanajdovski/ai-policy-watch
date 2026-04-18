@@ -1,0 +1,79 @@
+/* AI Policy Watch — design tokens.
+ *
+ * Single point of reskin. The site's typography, palette, spacing, and
+ * table density all come from these variables. Iterate visual design by
+ * editing this file.
+ */
+
+:root {
+  /* Typography stacks. */
+  --font-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia,
+    'Times New Roman', serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter,
+    'Helvetica Neue', Arial, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace;
+
+  /* Type scale. Smaller + tighter than the first pass. Tables use
+     --fs-table, which is deliberately small. */
+  --fs-xs: 0.75rem;    /* 12px */
+  --fs-sm: 0.8125rem;  /* 13px */
+  --fs-table: 0.875rem;/* 14px — default table body */
+  --fs-base: 0.9375rem;/* 15px — body copy */
+  --fs-md: 1rem;       /* 16px */
+  --fs-lg: 1.125rem;   /* 18px */
+  --fs-xl: 1.25rem;    /* 20px */
+  --fs-2xl: 1.5rem;    /* 24px */
+  --fs-3xl: 2rem;      /* 32px */
+
+  --lh-tight: 1.25;
+  --lh-normal: 1.45;
+  --lh-relaxed: 1.55;
+
+  /* Palette — muted public-utility direction. */
+  --c-bg: #fbfaf6;
+  --c-surface: #ffffff;
+  --c-surface-tint: #f5f3ec;
+  --c-ink: #1f1f22;
+  --c-ink-muted: #565659;
+  --c-ink-dim: #8a8a8e;
+  --c-rule: #e2dfd6;
+  --c-rule-strong: #cbc7ba;
+  --c-accent: #3c5a6e;
+  --c-accent-ink: #ffffff;
+  --c-accent-muted: #7d94a4;
+  --c-chip-bg: #ece9df;
+  --c-chip-ink: #3a3a3e;
+  --c-chip-open-bg: #dbe6dc;
+  --c-chip-open-ink: #234930;
+  --c-chip-advancing-bg: #dde6ed;
+  --c-chip-advancing-ink: #2c4a5e;
+  --c-row-hover: #f3f1ea;
+
+  /* Spacing. */
+  --sp-1: 0.25rem;
+  --sp-2: 0.5rem;
+  --sp-3: 0.75rem;
+  --sp-4: 1rem;
+  --sp-5: 1.25rem;
+  --sp-6: 1.5rem;
+  --sp-8: 2rem;
+  --sp-10: 2.5rem;
+  --sp-12: 3rem;
+  --sp-16: 4rem;
+  --sp-24: 6rem;
+
+  /* Table density. */
+  --tcell-pad-y: 0.5rem;     /* 8px */
+  --tcell-pad-x: 0.75rem;    /* 12px */
+  --theader-pad-y: 0.375rem;
+  --theader-pad-x: 0.75rem;
+
+  /* Layout. */
+  --container-width: 80rem;  /* wider for tables */
+  --container-narrow: 44rem;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+
+  --border-thin: 1px solid var(--c-rule);
+  --border-strong: 1px solid var(--c-rule-strong);
+}

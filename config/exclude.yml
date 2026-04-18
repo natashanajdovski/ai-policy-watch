@@ -1,0 +1,14 @@
+# AI Policy Watch — manual exclude list
+#
+# Use this file to force-exclude items that the automatic scope filter
+# incorrectly includes. Each entry is a unique identifier from our
+# normalized schema (see include.yml for format).
+#
+# Every force-exclude should have a one-line reason for auditability.
+# Format:
+#   - id: bill-119-hr1234
+#     reason: "Matches 'AI' but is about AirForce One, not artificial intelligence."
+
+bills: []
+rfis: []
+hearings: []

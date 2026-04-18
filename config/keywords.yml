@@ -1,0 +1,44 @@
+# AI Policy Watch — scope keyword list
+#
+# This file controls the SECONDARY filter for deciding whether a bill, RFI,
+# or hearing counts as "AI-related" for this site. The PRIMARY filter is the
+# CRS "Artificial Intelligence" subject tag on bills (applied automatically
+# in code). This list is the fallback when no such tag is available, and
+# the only filter available for RFIs and hearings.
+#
+# Deliberately conservative — err on exclusion. When in doubt, leave out.
+# See PRODUCT_BRIEF.md §7 and Appendix A.
+#
+# Proposals to add or remove terms are a first-class contribution. Open a
+# PR with a one-sentence rationale.
+
+# If the title or abstract contains ANY of these (case-insensitive,
+# word-boundary where sensible), the item is in scope.
+included:
+  - artificial intelligence
+  - generative ai
+  - machine learning
+  - algorithmic accountability
+  - algorithmic decision-making
+  - algorithmic decision making
+  - algorithmic disclosure
+  - automated decision-making
+  - automated decision making
+  - automated decision systems
+  - facial recognition
+  - deepfake
+  - synthetic media
+  - large language model
+  - large language models
+  # "AI" as a standalone acronym: matched with word boundaries in code
+  # to avoid false positives like "AIR" or "MAIL". Kept last for clarity.
+  - ai
+
+# Matching these in a title or abstract does NOT by itself trigger
+# inclusion. Documented so the reasoning is visible.
+excluded_from_matching:
+  - algorithm          # too broad; captures non-AI algorithms
+  - data privacy       # unless paired with AI explicitly
+  - section 230        # unless paired with AI explicitly
+  - autonomous vehicle # separate policy domain
+  - self-driving       # separate policy domain
