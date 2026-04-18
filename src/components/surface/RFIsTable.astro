@@ -11,9 +11,9 @@ const { entries } = Astro.props as { entries: RFI[] };
       <tr>
         <th scope="col" style="width: 100px" data-sort-key="status">Status</th>
         <th scope="col" data-sort-key="title">Title</th>
-        <th scope="col" style="width: 260px" data-sort-key="agency">Agency</th>
+        <th scope="col" class="hide-mobile" style="width: 260px" data-sort-key="agency">Agency</th>
         <th scope="col" style="width: 130px" data-sort-key="close">Closes</th>
-        <th scope="col" style="width: 140px">Submit comment</th>
+        <th scope="col" class="hide-mobile" style="width: 140px">Submit comment</th>
       </tr>
     </thead>
     <tbody>
@@ -43,7 +43,7 @@ const { entries } = Astro.props as { entries: RFI[] };
                   {truncate(r.title, 80)}
                 </a>
               </td>
-              <td class="cell-meta">{r.agency}</td>
+              <td class="cell-meta hide-mobile">{r.agency}</td>
               <td class="cell-num cell-meta">
                 {formatDateShort(r.close_date)}
                 {remaining && (
@@ -53,7 +53,7 @@ const { entries } = Astro.props as { entries: RFI[] };
                   </>
                 )}
               </td>
-              <td class="cell-action">
+              <td class="cell-action hide-mobile">
                 {r.status === 'open' && r.comment_submission_url ? (
                   <a href={r.comment_submission_url} target="_blank" rel="noopener noreferrer">
                     Regulations.gov &rarr;

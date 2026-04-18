@@ -22,9 +22,9 @@ function dateTime(iso: string | null) {
   <table class="data-table hearings-table">
     <thead>
       <tr>
-        <th scope="col" style="width: 110px" data-sort-key="status">Status</th>
+        <th scope="col" class="hide-mobile" style="width: 110px" data-sort-key="status">Status</th>
         <th scope="col" style="width: 120px" data-sort-key="date">Date</th>
-        <th scope="col" style="width: 100px" data-sort-key="chamber">Chamber</th>
+        <th scope="col" class="hide-mobile" style="width: 100px" data-sort-key="chamber">Chamber</th>
         <th scope="col" data-sort-key="title">Topic</th>
         <th scope="col" style="width: 300px" data-sort-key="committee">Committee</th>
       </tr>
@@ -53,7 +53,7 @@ function dateTime(iso: string | null) {
               data-title={fullTitle.toLowerCase()}
               data-committee={h.committee.toLowerCase()}
             >
-              <td>
+              <td class="hide-mobile">
                 <span class={`chip ${h.status === 'upcoming' ? 'chip-upcoming' : ''}`}>
                   {statusLabel(h.status)}
                 </span>
@@ -67,7 +67,7 @@ function dateTime(iso: string | null) {
                   </>
                 )}
               </td>
-              <td class="cell-meta">{chamberLabel(h.chamber)}</td>
+              <td class="cell-meta hide-mobile">{chamberLabel(h.chamber)}</td>
               <td class="cell-title">
                 <a href={h.source_url} target="_blank" rel="noopener noreferrer" title={fullTitle}>
                   {displayTitle}
