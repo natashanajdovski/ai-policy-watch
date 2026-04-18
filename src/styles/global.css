@@ -252,3 +252,32 @@ textarea {
 .data-table .cell-action a {
   color: var(--c-accent);
 }
+
+/* Column-hide utility for table cells that are too low-priority to show
+   on narrow viewports. Applied via class="hide-mobile" on the th and the
+   matching td. display:none removes the cell from layout entirely. */
+@media (max-width: 639.98px) {
+  .data-table .hide-mobile {
+    display: none;
+  }
+
+  /* On mobile, let the remaining columns size to their content.
+     !important is needed to defeat the inline style="width: Xpx"
+     attrs on desktop column widths, which would otherwise force
+     the title column too narrow. */
+  .data-table {
+    table-layout: auto;
+  }
+  .data-table th,
+  .data-table td {
+    width: auto !important;
+  }
+  /* Tighten horizontal padding on mobile — the existing rules on
+     thead th / tbody td are more specific than a plain .data-table
+     td selector, so the override has to match their specificity. */
+  .data-table thead th,
+  .data-table tbody td {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
