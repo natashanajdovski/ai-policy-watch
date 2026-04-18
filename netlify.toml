@@ -1,0 +1,11 @@
+# Netlify build configuration.
+# The site is a static Astro build — no server-side runtime, just HTML/CSS/JS
+# in dist/. Netlify watches the GitHub repo and rebuilds on every push to
+# main, so the daily data-sync workflow automatically triggers redeploys.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
