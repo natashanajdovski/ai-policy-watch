@@ -8,8 +8,7 @@ artificial intelligence: pending and resolved federal legislation, open and
 closed Requests for Information, and upcoming and past congressional hearings.
 
 The site links out to authoritative sources (Congress.gov, Federal Register,
-Regulations.gov, C-SPAN). It does not host its own detail pages and does not
-take a position on AI policy. See [PRODUCT_BRIEF.md](./PRODUCT_BRIEF.md) for
+Regulations.gov, C-SPAN). See [docs/PRODUCT_BRIEF.md](./docs/PRODUCT_BRIEF.md) for
 the full purpose, tone, and scope.
 
 ## How this works
@@ -84,13 +83,12 @@ keyword list from the brief's Appendix A) and two override files:
 (force-exclude). All three are plain YAML and editable by PR; no code change
 needed to tune the scope.
 
-See [PRODUCT_BRIEF.md §7](./PRODUCT_BRIEF.md#7-data-architecture) for the
+See [docs/PRODUCT_BRIEF.md §7](./docs/PRODUCT_BRIEF.md#7-data-architecture) for the
 full rationale.
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md). V1 is a technical-contributor flow
-(git + PR). A non-technical feedback path is planned for V1.1.
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Built with AI agent assistance
 

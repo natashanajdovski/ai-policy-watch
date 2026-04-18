@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before writing: please skim [PRODUCT_BRIEF.md](https://github.com/natashanajdovski/ai-policy-watch/blob/main/PRODUCT_BRIEF.md) sections 5 (V1 scope), 9 (Roadmap), and the "out of scope" / "explicit non-goals" lists. Many "obvious" features are deliberately out of scope.
+        Before writing: please skim [PRODUCT_BRIEF.md](https://github.com/natashanajdovski/ai-policy-watch/blob/main/docs/PRODUCT_BRIEF.md) sections 5 (V1 scope), 9 (Roadmap), and the "out of scope" / "explicit non-goals" lists. Many "obvious" features are deliberately out of scope.
   - type: textarea
     id: problem
     attributes:
@@ -24,7 +24,7 @@ body:
     id: roadmap-phase
     attributes:
       label: Which roadmap phase does this belong in?
-      description: See PRODUCT_BRIEF.md §9.
+      description: See docs/PRODUCT_BRIEF.md §9.
       options:
         - V1 (current)
         - V1.1 (fast-follow — in-site feedback forms)

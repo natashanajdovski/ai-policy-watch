@@ -14,7 +14,7 @@ and fewer social cues.
 AI Policy Watch is a public-interest aggregator of federal government
 activity related to artificial intelligence. It is non-partisan and
 deliberately non-advocacy: the site presents information, the reader
-decides. See [PRODUCT_BRIEF.md](./PRODUCT_BRIEF.md) for the full
+decides. See [docs/PRODUCT_BRIEF.md](./docs/PRODUCT_BRIEF.md) for the full
 authorial intent — read at least sections 1–5, 7, and 12 before making
 non-trivial changes.
 
@@ -38,7 +38,7 @@ federal agency site, not a startup landing page.
 4. **Do not expand scope without a human decision.** Federal-only is a
    deliberate v1 choice. State-level, international, non-AI tech policy,
    user accounts, email alerts, editorial summaries — all explicitly out
-   of scope. See PRODUCT_BRIEF.md §5.
+   of scope. See docs/PRODUCT_BRIEF.md §5.
 5. **Do not delete or reinterpret the include/exclude override lists.**
    `config/include.yml` and `config/exclude.yml` are the human override
    layer. If you think an entry is wrong, raise it as an issue; don't
@@ -171,12 +171,12 @@ automated verification, so I trust the human maintainer's eye on this.
 ## File-layout summary
 
 ```
-config/       human-editable scope rules (YAML)
-data/         the committed dataset (JSON)
-scripts/      sync jobs + shared library
-src/          Astro site (pages, components, lib, styles)
-.github/      issue templates, PR template, workflows, CODEOWNERS
-PRODUCT_BRIEF.md  authorial intent (read this first)
+config/           human-editable scope rules (YAML)
+data/             the committed dataset (JSON)
+scripts/          sync jobs + shared library
+src/              Astro site (pages, components, lib, styles)
+docs/             product documentation (PRODUCT_BRIEF.md, epics, ADRs)
+.github/          issue templates, PR template, workflows, CODEOWNERS
 CONTRIBUTING.md   contributor-facing guide
 AGENTS.md         this file
 ```

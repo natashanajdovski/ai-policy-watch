@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Read the Product Brief
-    url: https://github.com/natashanajdovski/ai-policy-watch/blob/main/PRODUCT_BRIEF.md
+    url: https://github.com/natashanajdovski/ai-policy-watch/blob/main/docs/PRODUCT_BRIEF.md
     about: Mission, scope, and non-goals for AI Policy Watch. Read this first if you're proposing something new.
   - name: Contributor guide
     url: https://github.com/natashanajdovski/ai-policy-watch/blob/main/CONTRIBUTING.md

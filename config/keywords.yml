@@ -7,7 +7,7 @@
 # the only filter available for RFIs and hearings.
 #
 # Deliberately conservative — err on exclusion. When in doubt, leave out.
-# See PRODUCT_BRIEF.md §7 and Appendix A.
+# See docs/PRODUCT_BRIEF.md §7 and Appendix A.
 #
 # Proposals to add or remove terms are a first-class contribution. Open a
 # PR with a one-sentence rationale.
