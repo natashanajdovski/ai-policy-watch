@@ -76,7 +76,8 @@ const {
     border: 1px solid var(--c-rule-strong);
     border-radius: var(--radius-md);
     background: var(--c-surface);
-    font-size: var(--fs-table);
+    /* 16px prevents iOS Safari's auto-zoom on focus. */
+    font-size: var(--fs-md);
     color: var(--c-ink);
   }
   .filters__search-input::placeholder {
