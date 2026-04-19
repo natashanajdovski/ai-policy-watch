@@ -3163,35 +3163,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-s3162",
-    "title": "TEST AI Act of 2024",
-    "last_updated": "2025-01-14T18:57:03Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3162",
-    "added_at": "2026-04-18T01:42:43.915Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "S.3162",
-    "chamber": "senate",
-    "congress": 118,
-    "sponsor": {
-      "name": "Sen. Lujan, Ben Ray [D-NM]",
-      "party": "D",
-      "state": "NM",
-      "bioguide_id": "L000570"
-    },
-    "introduced_date": "2023-10-30",
-    "last_action_date": "2024-12-17",
-    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.",
-    "committee": null,
-    "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-s4495",
     "title": "PREPARED for AI Act",
     "last_updated": "2025-05-27T14:16:21Z",
@@ -3395,93 +3366,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-118-hr9497",
-    "title": "AI Advancement and Reliability Act of 2024",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
-    "added_at": "2026-04-18T01:43:44.185Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9497",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2024-09-09",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 11,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9197",
-    "title": "Small Business Artificial Intelligence Advancement Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
-    "added_at": "2026-04-18T01:43:50.201Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9197",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Collins, Mike [R-GA-10]",
-      "party": "R",
-      "state": "GA",
-      "bioguide_id": "C001129"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9466",
-    "title": "AI Development Practices Act of 2024",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9466",
-    "added_at": "2026-04-18T01:44:05.221Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9466",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Baird, James R. [R-IN-4]",
-      "party": "R",
-      "state": "IN",
-      "bioguide_id": "B001307"
-    },
-    "introduced_date": "2024-09-06",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9402",
     "title": "NSF AI Education Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3511,11 +3395,11 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9211",
-    "title": "LIFT AI Act",
+    "id": "bill-118-hr9466",
+    "title": "AI Development Practices Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
-    "added_at": "2026-04-18T01:43:56.318Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9466",
+    "added_at": "2026-04-18T01:44:05.221Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
       "ai"
@@ -3523,20 +3407,20 @@
     "type": "bill",
     "status": "resolved",
     "stage": "expired",
-    "bill_number": "HR.9211",
+    "bill_number": "HR.9466",
     "chamber": "house",
     "congress": 118,
     "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "name": "Rep. Baird, James R. [R-IN-4]",
       "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
+      "state": "IN",
+      "bioguide_id": "B001307"
     },
-    "introduced_date": "2024-07-30",
+    "introduced_date": "2024-09-06",
     "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "last_action_text": "Ordered to be Reported by Voice Vote.",
     "committee": null,
-    "cosponsors_count": 13,
+    "cosponsors_count": 7,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -3595,6 +3479,93 @@
     "last_action_text": "Ordered to be Reported by Voice Vote.",
     "committee": null,
     "cosponsors_count": 7,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9497",
+    "title": "AI Advancement and Reliability Act of 2024",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
+    "added_at": "2026-04-18T01:43:44.185Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9497",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2024-09-09",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 11,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9197",
+    "title": "Small Business Artificial Intelligence Advancement Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
+    "added_at": "2026-04-18T01:43:50.201Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9197",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Collins, Mike [R-GA-10]",
+      "party": "R",
+      "state": "GA",
+      "bioguide_id": "C001129"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 4,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9211",
+    "title": "LIFT AI Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
+    "added_at": "2026-04-18T01:43:56.318Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9211",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 13,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4415,35 +4386,6 @@
     "title": "AI CONSENT Act",
     "last_updated": "2025-01-14T18:51:33Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3975",
-    "added_at": "2026-04-18T01:42:38.084Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "S.3975",
-    "chamber": "senate",
-    "congress": 118,
-    "sponsor": {
-      "name": "Sen. Welch, Peter [D-VT]",
-      "party": "D",
-      "state": "VT",
-      "bioguide_id": "W000800"
-    },
-    "introduced_date": "2024-03-19",
-    "last_action_date": "2024-03-19",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Commerce"
-  },
-  {
-    "id": "bill-118-s3975",
-    "title": "AI CONSENT Act",
-    "last_updated": "2025-01-14T18:51:33Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3975",
     "added_at": "2026-04-18T01:42:40.907Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
@@ -5018,35 +4960,6 @@
     "committee": null,
     "cosponsors_count": 9,
     "policy_area": "International Affairs"
-  },
-  {
-    "id": "bill-118-hr4503",
-    "title": "AI Training Expansion Act of 2023",
-    "last_updated": "2025-05-27T14:13:15Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/4503",
-    "added_at": "2026-04-18T04:05:31.052Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.4503",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Mace, Nancy [R-SC-1]",
-      "party": "R",
-      "state": "SC",
-      "bioguide_id": "M000194"
-    },
-    "introduced_date": "2023-07-10",
-    "last_action_date": "2023-07-12",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 39 - 2.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-118-hr4503",
