@@ -42,7 +42,7 @@
   {
     "id": "hearing-119-119165",
     "title": "Hearing:\r\nChina’s Campaign to Steal America’s AI Edge",
-    "last_updated": "2026-04-15T16:49:10Z",
+    "last_updated": "2026-04-20T21:57:10Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119165",
     "added_at": "2026-04-17T23:40:35.281Z",
     "scope_reason": "keyword_match",
@@ -734,32 +734,6 @@
     "event_id": "337424"
   },
   {
-    "id": "hearing-119-118596",
-    "title": "Oversight: Advancing VA Care Through Artificial Intelligence",
-    "last_updated": "2026-01-02T07:54:52Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118596",
-    "added_at": "2026-04-17T23:50:00.638Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Veterans' Affairs Subcommittee on Technology Modernization",
-    "chamber": "house",
-    "date_time": "2025-09-15T19:00:00Z",
-    "location": "360, Cannon House Office Building",
-    "witnesses": [
-      "Dr. Mohammad Ghassemi, Michigan State University",
-      "Mr. Sid Ghatak, National Artificial Intelligence Association",
-      "Dr. Evan Carey, Veteran Health Administration, U.S. Department of Veterans Affairs",
-      "Mr. Charles Worthington, Office of Information & Technology, U.S. Department of Veterans Affairs",
-      "Ms. Carol Harris, U.S. Government Accountability Office"
-    ],
-    "cspan_url": null,
-    "event_id": "118596"
-  },
-  {
     "id": "hearing-119-337395",
     "title": "Hearings to examine America's AI action plan.",
     "last_updated": "2025-09-09T22:08:23Z",
@@ -806,26 +780,6 @@
     "event_id": "118560"
   },
   {
-    "id": "hearing-119-337317",
-    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
-    "added_at": "2026-04-17T23:57:04.074Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "538, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337317"
-  },
-  {
     "id": "hearing-119-337316",
     "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
     "last_updated": "2025-07-30T00:08:22Z",
@@ -844,6 +798,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337316"
+  },
+  {
+    "id": "hearing-119-337317",
+    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
+    "added_at": "2026-04-17T23:57:04.074Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "538, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337317"
   },
   {
     "id": "hearing-119-337253",
