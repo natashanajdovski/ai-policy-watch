@@ -1,0 +1,48 @@
+---
+import PageShell from '../components/layout/PageShell.astro';
+---
+
+<PageShell
+  title="US State"
+  description="State and local AI policy activity. Coverage is in development."
+>
+  <article class="container-narrow us-state prose">
+    <p class="us-state__kicker meta">STATE</p>
+    <h1>State &amp; local coverage</h1>
+    <p class="us-state__lead">
+      State and local AI policy coverage is planned. This page is a
+      placeholder while the data pipeline and scope rules are being
+      designed.
+    </p>
+    <p>
+      The intent mirrors the federal side: a neutral ledger of pending and
+      resolved activity, sourced from official publications, with the same
+      conservative keyword scope. Rows will link out to the authoritative
+      source rather than hosting detail pages.
+    </p>
+    <p>
+      If you have a state or city whose AI activity you think belongs here,
+      or a data source we should be reading, suggestions are welcome on
+      GitHub.
+    </p>
+  </article>
+</PageShell>
+
+<style>
+  .us-state {
+    padding-block: var(--sp-10) var(--sp-12);
+  }
+  .us-state__kicker {
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 0 0 var(--sp-3);
+  }
+  .us-state h1 {
+    font-size: var(--fs-3xl);
+    margin-bottom: var(--sp-5);
+  }
+  .us-state__lead {
+    font-size: var(--fs-md);
+    margin-bottom: var(--sp-5);
+  }
+</style>

@@ -2,16 +2,13 @@
 const { path } = Astro.props as { path: string };
 
 const links = [
-  { href: '/', label: 'Home' },
-  { href: '/legislation', label: 'Legislation' },
-  { href: '/rfis', label: 'RFIs' },
-  { href: '/hearings', label: 'Hearings' },
-  { href: '/about', label: 'About' },
+  { href: '/us-federal/legislation', label: 'US Federal', match: '/us-federal' },
+  { href: '/us-state', label: 'US State', match: '/us-state' },
+  { href: '/about', label: 'About', match: '/about' },
 ];
 
-function isActive(linkHref: string) {
-  if (linkHref === '/') return path === '/';
-  return path === linkHref || path.startsWith(linkHref + '/');
+function isActive(match: string) {
+  return path === match || path.startsWith(match + '/');
 }
 ---
 
@@ -21,18 +18,16 @@ function isActive(linkHref: string) {
     <nav aria-label="Primary">
       <ul class="site-nav__list">
         {
-          links
-            .filter((l) => l.href !== '/')
-            .map((l) => (
-              <li>
-                <a
-                  href={l.href}
-                  class:list={['site-nav__link', { 'is-active': isActive(l.href) }]}
-                >
-                  {l.label}
-                </a>
-              </li>
-            ))
+          links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                class:list={['site-nav__link', { 'is-active': isActive(l.match) }]}
+              >
+                {l.label}
+              </a>
+            </li>
+          ))
         }
       </ul>
     </nav>
