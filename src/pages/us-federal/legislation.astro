@@ -1,11 +1,12 @@
 ---
-import PageShell from '../components/layout/PageShell.astro';
-import SurfaceHeader from '../components/surface/SurfaceHeader.astro';
+import PageShell from '../../components/layout/PageShell.astro';
+import FederalTabs from '../../components/layout/FederalTabs.astro';
+import SurfaceHeader from '../../components/surface/SurfaceHeader.astro';
 import FilterControls, {
   type FilterDef,
-} from '../components/surface/FilterControls.astro';
-import BillsTable from '../components/surface/BillsTable.astro';
-import { loadBills } from '../lib/load-data';
+} from '../../components/surface/FilterControls.astro';
+import BillsTable from '../../components/surface/BillsTable.astro';
+import { loadBills } from '../../lib/load-data';
 
 // Default sort: by legislative stage (most advanced / actionable first),
 // then by last-action date (newest within each stage). Users can click
@@ -57,12 +58,12 @@ const howThisWorks = `Bills appear here if the Library of Congress tags them wit
   title="Federal AI Legislation"
   description="Federal bills related to AI, organized by whether they can still be influenced."
 >
+  <FederalTabs path={Astro.url.pathname} />
   <section class="container" data-surface>
     <SurfaceHeader
       title="Legislation"
       lead="Federal bills related to artificial intelligence. Rows link out to Congress.gov."
       note={howThisWorks}
-      count={bills.length}
     />
     <FilterControls
       searchPlaceholder="Search by bill number, title, sponsor…"
@@ -72,8 +73,8 @@ const howThisWorks = `Bills appear here if the Library of Congress tags them wit
   </section>
 
   <script>
-    import { initSurfaceFilter } from '../lib/surface-filter.ts';
-    import { initSurfaceSort } from '../lib/surface-sort.ts';
+    import { initSurfaceFilter } from '../../lib/surface-filter.ts';
+    import { initSurfaceSort } from '../../lib/surface-sort.ts';
     const root = document.querySelector<HTMLElement>('[data-surface]');
     if (root) {
       initSurfaceFilter(root);

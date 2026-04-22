@@ -1,11 +1,12 @@
 ---
-import PageShell from '../components/layout/PageShell.astro';
-import SurfaceHeader from '../components/surface/SurfaceHeader.astro';
+import PageShell from '../../components/layout/PageShell.astro';
+import FederalTabs from '../../components/layout/FederalTabs.astro';
+import SurfaceHeader from '../../components/surface/SurfaceHeader.astro';
 import FilterControls, {
   type FilterDef,
-} from '../components/surface/FilterControls.astro';
-import HearingsTable from '../components/surface/HearingsTable.astro';
-import { loadHearings } from '../lib/load-data';
+} from '../../components/surface/FilterControls.astro';
+import HearingsTable from '../../components/surface/HearingsTable.astro';
+import { loadHearings } from '../../lib/load-data';
 
 const hearings = loadHearings();
 
@@ -36,12 +37,12 @@ const howThisWorks = `Congressional committee meetings where AI appears in the t
   title="AI Congressional Hearings"
   description="Congressional hearings and committee meetings where AI is a scheduled topic."
 >
+  <FederalTabs path={Astro.url.pathname} />
   <section class="container" data-surface>
     <SurfaceHeader
       title="Hearings"
       lead="Congressional committee meetings where AI is on the agenda."
       note={howThisWorks}
-      count={hearings.length}
     />
     <FilterControls
       searchPlaceholder="Search by committee, topic, witness…"
@@ -51,8 +52,8 @@ const howThisWorks = `Congressional committee meetings where AI appears in the t
   </section>
 
   <script>
-    import { initSurfaceFilter } from '../lib/surface-filter.ts';
-    import { initSurfaceSort } from '../lib/surface-sort.ts';
+    import { initSurfaceFilter } from '../../lib/surface-filter.ts';
+    import { initSurfaceSort } from '../../lib/surface-sort.ts';
     const root = document.querySelector<HTMLElement>('[data-surface]');
     if (root) {
       initSurfaceFilter(root);
