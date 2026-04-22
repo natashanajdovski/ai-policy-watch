@@ -2,7 +2,7 @@
   {
     "id": "bill-119-hr8382",
     "title": "To prohibit the manufacture and conveyance of certain products for children that incorporate an artificial intelligence chatbot, and for other purposes.",
-    "last_updated": "2026-04-21T08:05:42Z",
+    "last_updated": "2026-04-21T11:28:23Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8382",
     "added_at": "2026-04-21T11:10:54.296Z",
     "scope_reason": "keyword_match",
@@ -60,7 +60,7 @@
   {
     "id": "bill-119-hr8283",
     "title": "Deterring American AI Model Theft Act of 2026",
-    "last_updated": "2026-04-21T08:05:52Z",
+    "last_updated": "2026-04-22T08:06:41Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
     "added_at": "2026-04-18T04:01:57.035Z",
     "scope_reason": "keyword_match",
@@ -83,7 +83,7 @@
     "last_action_date": "2026-04-15",
     "last_action_text": "Referred to the House Committee on Foreign Affairs.",
     "committee": null,
-    "cosponsors_count": 2,
+    "cosponsors_count": 3,
     "policy_area": "International Affairs"
   },
   {
@@ -1453,7 +1453,7 @@
   {
     "id": "bill-119-hr6529",
     "title": "Protecting Families from AI Data Center Energy Costs Act",
-    "last_updated": "2026-04-17T08:07:23Z",
+    "last_updated": "2026-04-22T08:07:13Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "added_at": "2026-04-18T04:02:09.028Z",
     "scope_reason": "keyword_match",
@@ -1476,7 +1476,7 @@
     "last_action_date": "2025-12-09",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 15,
+    "cosponsors_count": 16,
     "policy_area": "Energy"
   },
   {
@@ -1625,6 +1625,35 @@
     "policy_area": "Labor and Employment"
   },
   {
+    "id": "bill-119-hr6356",
+    "title": "Artificial Intelligence Civil Rights Act of 2025",
+    "last_updated": "2026-04-22T08:06:57Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
+    "added_at": "2026-04-18T01:39:12.923Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6356",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "party": "D",
+      "state": "NY",
+      "bioguide_id": "C001067"
+    },
+    "introduced_date": "2025-12-02",
+    "last_action_date": "2025-12-02",
+    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 27,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-s3308",
     "title": "Artificial Intelligence Civil Rights Act of 2025",
     "last_updated": "2026-01-07T14:09:18Z",
@@ -1681,35 +1710,6 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": "Health"
-  },
-  {
-    "id": "bill-119-hr6356",
-    "title": "Artificial Intelligence Civil Rights Act of 2025",
-    "last_updated": "2026-03-26T08:06:44Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6356",
-    "added_at": "2026-04-18T01:39:12.923Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6356",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Clarke, Yvette D. [D-NY-9]",
-      "party": "D",
-      "state": "NY",
-      "bioguide_id": "C001067"
-    },
-    "introduced_date": "2025-12-02",
-    "last_action_date": "2025-12-02",
-    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 26,
-    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr6334",
@@ -2237,7 +2237,7 @@
   {
     "id": "bill-119-hr5351",
     "title": "NSF AI Education Act of 2025",
-    "last_updated": "2026-04-21T08:05:51Z",
+    "last_updated": "2026-04-22T08:07:03Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
     "added_at": "2026-04-18T01:39:21.713Z",
     "scope_reason": "keyword_match",
@@ -2260,7 +2260,7 @@
     "last_action_date": "2025-09-15",
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
-    "cosponsors_count": 21,
+    "cosponsors_count": 23,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -3308,35 +3308,6 @@
     "policy_area": "Crime and Law Enforcement"
   },
   {
-    "id": "bill-118-hr9671",
-    "title": "Department of Energy Artificial Intelligence Act of 2024",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9671",
-    "added_at": "2026-04-18T01:44:02.199Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9671",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Williams, Brandon [R-NY-22]",
-      "party": "R",
-      "state": "NY",
-      "bioguide_id": "W000828"
-    },
-    "introduced_date": "2024-09-18",
-    "last_action_date": "2024-09-25",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9720",
     "title": "AI Incident Reporting and Security Enhancement Act",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3363,6 +3334,35 @@
     "last_action_text": "Ordered to be Reported by Voice Vote.",
     "committee": null,
     "cosponsors_count": 3,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9671",
+    "title": "Department of Energy Artificial Intelligence Act of 2024",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9671",
+    "added_at": "2026-04-18T01:44:02.199Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9671",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Williams, Brandon [R-NY-22]",
+      "party": "R",
+      "state": "NY",
+      "bioguide_id": "W000828"
+    },
+    "introduced_date": "2024-09-18",
+    "last_action_date": "2024-09-25",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 1,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -3395,64 +3395,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-118-hr9215",
-    "title": "Workforce for AI Trust Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9215",
-    "added_at": "2026-04-18T01:43:58.983Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9215",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Lofgren, Zoe [D-CA-18]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "L000397"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9211",
-    "title": "LIFT AI Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
-    "added_at": "2026-04-18T01:43:56.318Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9211",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
-      "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 13,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9466",
     "title": "AI Development Practices Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3482,35 +3424,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9402",
-    "title": "NSF AI Education Act of 2024",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9402",
-    "added_at": "2026-04-18T01:43:47.204Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9402",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Fong, Vince [R-CA-20]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "F000480"
-    },
-    "introduced_date": "2024-08-23",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 12,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9197",
     "title": "Small Business Artificial Intelligence Advancement Act",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3533,35 +3446,6 @@
       "bioguide_id": "C001129"
     },
     "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9403",
-    "title": "Expanding AI Voices Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
-    "added_at": "2026-04-18T01:43:52.977Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9403",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "F000477"
-    },
-    "introduced_date": "2024-08-23",
     "last_action_date": "2024-09-11",
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
@@ -3595,6 +3479,122 @@
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
     "cosponsors_count": 11,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9403",
+    "title": "Expanding AI Voices Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
+    "added_at": "2026-04-18T01:43:52.977Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9403",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "F000477"
+    },
+    "introduced_date": "2024-08-23",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 4,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9211",
+    "title": "LIFT AI Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
+    "added_at": "2026-04-18T01:43:56.318Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9211",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 13,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9402",
+    "title": "NSF AI Education Act of 2024",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9402",
+    "added_at": "2026-04-18T01:43:47.204Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9402",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Fong, Vince [R-CA-20]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "F000480"
+    },
+    "introduced_date": "2024-08-23",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 12,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9215",
+    "title": "Workforce for AI Trust Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9215",
+    "added_at": "2026-04-18T01:43:58.983Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9215",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Lofgren, Zoe [D-CA-18]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "L000397"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 7,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4147,6 +4147,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr8668",
+    "title": "AI Transparency in Elections Act of 2024",
+    "last_updated": "2024-09-18T16:27:12Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/8668",
+    "added_at": "2026-04-22T11:13:34.833Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.8668",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "party": "D",
+      "state": "NY",
+      "bioguide_id": "M001206"
+    },
+    "introduced_date": "2024-06-07",
+    "last_action_date": "2024-06-07",
+    "last_action_text": "Referred to the House Committee on House Administration.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-118-s2770",
