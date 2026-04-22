@@ -20,7 +20,7 @@ const closingSoon = [...openRFIs]
 <PageShell title="Home">
   <section class="container hero">
     <h1 class="hero__title">
-      See what the federal government is deciding about AI.
+      See what the government is deciding about AI.
     </h1>
     <p class="hero__lead">
       A non-partisan aggregator of current federal activity on artificial
@@ -31,6 +31,7 @@ const closingSoon = [...openRFIs]
 
     <div class="home-grid">
       <a class="home-card" href="/us-federal/legislation">
+        <span class="home-card__sublabel">Federal</span>
         <span class="home-card__label">Legislation</span>
         <span class="home-card__stat">
           <span class="home-card__num">{inProgressBills.length}</span>
@@ -39,6 +40,7 @@ const closingSoon = [...openRFIs]
         <span class="home-card__sub meta">{resolvedBills.length} resolved · {bills.length} total</span>
       </a>
       <a class="home-card" href="/us-federal/rfis">
+        <span class="home-card__sublabel">Federal</span>
         <span class="home-card__label">RFIs</span>
         <span class="home-card__stat">
           <span class="home-card__num">{openRFIs.length}</span>
@@ -47,6 +49,7 @@ const closingSoon = [...openRFIs]
         <span class="home-card__sub meta">{rfis.length} total tracked</span>
       </a>
       <a class="home-card" href="/us-federal/hearings">
+        <span class="home-card__sublabel">Federal</span>
         <span class="home-card__label">Hearings</span>
         <span class="home-card__stat">
           <span class="home-card__num">{upcomingHearings.length}</span>
@@ -148,6 +151,11 @@ const closingSoon = [...openRFIs]
     text-transform: uppercase;
     letter-spacing: 0.06em;
     color: var(--c-ink-muted);
+  }
+  .home-card__sublabel {
+    font-family: var(--font-serif);
+    font-size: var(--fs-base);
+    color: var(--c-ink);
   }
   .home-card__stat {
     display: flex;
