@@ -20,7 +20,10 @@ const GITHUB_URL = 'https://github.com/natashanajdovski/ai-policy-watch';
     <div class="site-footer__col">
       <p class="site-footer__heading">Data</p>
       <p class="meta">
-        Sources: Congress.gov, Federal Register, Regulations.gov.<br />
+        Sources:
+        {' '}<a href="https://www.congress.gov/" rel="noopener noreferrer">Congress.gov</a>,
+        {' '}<a href="https://www.federalregister.gov/" rel="noopener noreferrer">Federal Register</a>,
+        {' '}<a href="https://www.regulations.gov/" rel="noopener noreferrer">Regulations.gov</a>.<br />
         {lastSync && <>Last updated {lastSync}.</>}
       </p>
     </div>
