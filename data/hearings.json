@@ -1,25 +1,5 @@
 [
   {
-    "id": "hearing-119-338329",
-    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, and the nominations of Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands for a term of ten years, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii for the term of four years.",
-    "last_updated": "2026-04-17T02:08:21Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338329",
-    "added_at": "2026-04-17T23:50:10.638Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "Senate Judiciary",
-    "chamber": "senate",
-    "date_time": "2026-04-23T14:15:00Z",
-    "location": "216, Hart Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "338329"
-  },
-  {
     "id": "hearing-119-119195",
     "title": "“Protecting U.S. Leadership in Codes Development and Enhancing Public Access”",
     "last_updated": "2026-04-21T18:27:18Z",
@@ -298,7 +278,7 @@
   {
     "id": "hearing-119-118969",
     "title": "Powering America's AI Future: Assessing Policy Options to Increase Data Center Infrastructure",
-    "last_updated": "2026-03-03T14:27:53Z",
+    "last_updated": "2026-04-22T13:26:46Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/118969",
     "added_at": "2026-04-17T23:45:38.370Z",
     "scope_reason": "keyword_match",
@@ -406,7 +386,7 @@
   {
     "id": "hearing-119-118817",
     "title": "“Between a Rock and a Hard Place: Protecting the U.S. Stone Slab Industry from Lawfare”",
-    "last_updated": "2026-03-03T22:04:39Z",
+    "last_updated": "2026-04-22T13:28:41Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/118817",
     "added_at": "2026-04-17T23:45:14.336Z",
     "scope_reason": "keyword_match",
@@ -669,32 +649,6 @@
     "event_id": "118625"
   },
   {
-    "id": "hearing-119-118623",
-    "title": "“AI at a Crossroads: A Nationwide Strategy or Californication?”",
-    "last_updated": "2026-01-02T08:03:06Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118623",
-    "added_at": "2026-04-17T23:49:40.619Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence",
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
-    "chamber": "house",
-    "date_time": "2025-09-18T14:00:00Z",
-    "location": "2141, Rayburn House Office Building",
-    "witnesses": [
-      "Dr. David Bray",
-      "Mr. Kevin Frazier",
-      "Mr. Adam Thierer",
-      "Mr. Neil Richards"
-    ],
-    "cspan_url": null,
-    "event_id": "118623"
-  },
-  {
     "id": "hearing-119-118621",
     "title": "“Shaping Tomorrow: The Future of Artificial Intelligence”",
     "last_updated": "2026-02-02T04:52:49Z",
@@ -761,7 +715,7 @@
   {
     "id": "hearing-119-118560",
     "title": "Examining Opportunities to Advance American Health Care through the Use of Artificial Intelligence Technologies",
-    "last_updated": "2026-03-03T14:26:53Z",
+    "last_updated": "2026-04-22T13:26:30Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/118560",
     "added_at": "2026-04-17T23:45:43.368Z",
     "scope_reason": "keyword_match",
@@ -785,26 +739,6 @@
     "event_id": "118560"
   },
   {
-    "id": "hearing-119-337317",
-    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
-    "added_at": "2026-04-17T23:57:04.074Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "538, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337317"
-  },
-  {
     "id": "hearing-119-337316",
     "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
     "last_updated": "2025-07-30T00:08:22Z",
@@ -823,6 +757,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337316"
+  },
+  {
+    "id": "hearing-119-337317",
+    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
+    "added_at": "2026-04-17T23:57:04.074Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "538, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337317"
   },
   {
     "id": "hearing-119-337253",
