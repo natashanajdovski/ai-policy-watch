@@ -1,5 +1,25 @@
 [
   {
+    "id": "hearing-119-119189",
+    "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
+    "last_updated": "2026-04-23T15:27:47Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119189",
+    "added_at": "2026-04-24T11:15:43.998Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Energy and Commerce Subcommittee on Energy",
+    "chamber": "house",
+    "date_time": "2026-04-29T14:15:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119189"
+  },
+  {
     "id": "hearing-119-119195",
     "title": "“Protecting U.S. Leadership in Codes Development and Enhancing Public Access”",
     "last_updated": "2026-04-21T18:27:18Z",
@@ -620,33 +640,6 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337474"
-  },
-  {
-    "id": "hearing-119-118625",
-    "title": "Unlocking the Next Generation of AI in the U.S. Financial System for Consumers, Businesses, and Competitiveness",
-    "last_updated": "2026-01-02T08:03:17Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118625",
-    "added_at": "2026-04-17T23:49:38.616Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence",
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
-    "chamber": "house",
-    "date_time": "2025-09-18T18:00:00Z",
-    "location": "2128, Rayburn House Office Building",
-    "witnesses": [
-      "Dr. Nicol Turner Lee, Center for Technology Innovation, Brookings Institution",
-      "Mr. Daniel Gorfine, Gattaca Horizons; Former Chief Innovation Officer & Director of LabCFTC",
-      "Mr. Matthew Reisman, Center for Information Policy Leadership",
-      "Dr. David Cox, IBM Director, MIT-IBM Watson AI Lab",
-      "Dr. Christian Lau, Dynamo AI"
-    ],
-    "cspan_url": null,
-    "event_id": "118625"
   },
   {
     "id": "hearing-119-118621",
