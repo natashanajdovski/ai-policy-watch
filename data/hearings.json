@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119189",
     "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
-    "last_updated": "2026-04-23T15:27:47Z",
+    "last_updated": "2026-04-27T21:43:20Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119189",
     "added_at": "2026-04-24T11:15:43.998Z",
     "scope_reason": "keyword_match",
@@ -15,7 +15,12 @@
     "chamber": "house",
     "date_time": "2026-04-29T14:15:00Z",
     "location": "2123, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Tom Falcone, Large Public Power Council",
+      "Mr. Nelson Peeler, Duke Energy",
+      "Ms. Whitney Muse, Muse Energy",
+      "Mr. Nick Myers, Arizona Corporation Commission"
+    ],
     "cspan_url": null,
     "event_id": "119189"
   },
@@ -42,7 +47,7 @@
   {
     "id": "hearing-119-119195",
     "title": "“Protecting U.S. Leadership in Codes Development and Enhancing Public Access”",
-    "last_updated": "2026-04-21T18:27:18Z",
+    "last_updated": "2026-04-27T14:41:38Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119195",
     "added_at": "2026-04-17T23:40:59.303Z",
     "scope_reason": "keyword_match",
