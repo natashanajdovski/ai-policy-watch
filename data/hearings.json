@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119189",
     "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
-    "last_updated": "2026-04-27T21:43:20Z",
+    "last_updated": "2026-04-28T15:33:49Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119189",
     "added_at": "2026-04-24T11:15:43.998Z",
     "scope_reason": "keyword_match",
@@ -16,18 +16,18 @@
     "date_time": "2026-04-29T14:15:00Z",
     "location": "2123, Rayburn House Office Building",
     "witnesses": [
+      "Mr. Nick Myers, Arizona Corporation Commission",
       "Mr. Tom Falcone, Large Public Power Council",
       "Mr. Nelson Peeler, Duke Energy",
-      "Ms. Whitney Muse, Muse Energy",
-      "Mr. Nick Myers, Arizona Corporation Commission"
+      "Ms. Whitney Muse, Muse Energy"
     ],
     "cspan_url": null,
     "event_id": "119189"
   },
   {
     "id": "hearing-119-338353",
-    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands for a term of ten years, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, Kenneth Sorenson, to be United States Attorney for the District of Hawaii for the term of four years, and Johnson TeeHee II, of Oklahoma, to be United States Marshal for the Eastern District of Oklahoma for the term of four years.",
-    "last_updated": "2026-04-24T23:41:50Z",
+    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, S.736, to increase the penalty for prohibited provision of a phone in a correctional facility, S.825, to require the Attorney General to propose a program for making treatment for post-traumatic stress disorder and acute stress disorder available to public safety officers, S.4394, to amend the Omnibus Crime Control and Safe Streets Act of 1968 to improve the COPS program with respect to training command-level personnel, and the nominations of Justin D. Smith, of Missouri, to be United States Circuit Judge for the Eighth Circuit, Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Jeffrey M. Kuhlman, Anthony W. Mattivi, and Anthony J. Powell, each to be a United States District Judge for the District of Kansas, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii, Timothy VerHey, to be United States Attorney for the Western District of Michigan, James Arnott, to be United States Marshal for the Western District of Missouri, Jack Chambers, to be United States Marshal for the Southern District of West Virginia, Jason Holt, to be United States Marshal for the Northern District of Oklahoma, and Johnson TeeHee II, to be United States Marshal for the Eastern District of Oklahoma, all of the Department of Justice.",
+    "last_updated": "2026-04-28T18:08:28Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338353",
     "added_at": "2026-04-25T11:06:04.769Z",
     "scope_reason": "keyword_match",
@@ -45,9 +45,29 @@
     "event_id": "338353"
   },
   {
+    "id": "hearing-119-338329",
+    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, and the nominations of Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands for a term of ten years, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii for the term of four years.",
+    "last_updated": "2026-04-28T13:05:37Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338329",
+    "added_at": "2026-04-29T11:58:00.146Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Judiciary",
+    "chamber": "senate",
+    "date_time": "2026-04-23T14:15:00Z",
+    "location": "216, Hart Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338329"
+  },
+  {
     "id": "hearing-119-119195",
     "title": "“Protecting U.S. Leadership in Codes Development and Enhancing Public Access”",
-    "last_updated": "2026-04-27T14:41:38Z",
+    "last_updated": "2026-04-28T17:57:33Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119195",
     "added_at": "2026-04-17T23:40:59.303Z",
     "scope_reason": "keyword_match",
@@ -840,27 +860,6 @@
     ],
     "cspan_url": null,
     "event_id": "118333"
-  },
-  {
-    "id": "hearing-119-336979",
-    "title": "Hearings to examine AI-generated deepfakes.",
-    "last_updated": "2025-05-20T22:08:17Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/336979",
-    "added_at": "2026-04-17T23:59:52.257Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "deepfake",
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Judiciary Subcommittee on Privacy, Technology, and the Law",
-    "chamber": "senate",
-    "date_time": "2025-05-21T18:30:00Z",
-    "location": "226, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "336979"
   },
   {
     "id": "hearing-119-336923",

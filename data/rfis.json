@@ -1,5 +1,26 @@
 [
   {
+    "id": "rfi-2026-08281",
+    "title": "AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information",
+    "last_updated": "2026-04-29",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/29/2026-08281/ai-enabled-optimization-of-early-phase-clinical-trials-pilot-program-request-for-information",
+    "added_at": "2026-04-29T11:47:16.689Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "open",
+    "agency": "Health and Human Services Department",
+    "docket_id": "Docket No. FDA-2026-N-4390",
+    "open_date": "2026-04-29",
+    "close_date": "2026-05-29",
+    "comment_submission_url": "https://www.regulations.gov/docket/Docket No. FDA-2026-N-4390",
+    "document_number": "2026-08281",
+    "document_type": "Notice"
+  },
+  {
     "id": "rfi-2026-00206",
     "title": "Request for Information Regarding Security Considerations for Artificial Intelligence Agents",
     "last_updated": "2026-01-08",
