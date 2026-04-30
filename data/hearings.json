@@ -1,33 +1,8 @@
 [
   {
-    "id": "hearing-119-119189",
-    "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
-    "last_updated": "2026-04-28T15:33:49Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119189",
-    "added_at": "2026-04-24T11:15:43.998Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "House Energy and Commerce Subcommittee on Energy",
-    "chamber": "house",
-    "date_time": "2026-04-29T14:15:00Z",
-    "location": "2123, Rayburn House Office Building",
-    "witnesses": [
-      "Mr. Nick Myers, Arizona Corporation Commission",
-      "Mr. Tom Falcone, Large Public Power Council",
-      "Mr. Nelson Peeler, Duke Energy",
-      "Ms. Whitney Muse, Muse Energy"
-    ],
-    "cspan_url": null,
-    "event_id": "119189"
-  },
-  {
     "id": "hearing-119-338353",
     "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, S.736, to increase the penalty for prohibited provision of a phone in a correctional facility, S.825, to require the Attorney General to propose a program for making treatment for post-traumatic stress disorder and acute stress disorder available to public safety officers, S.4394, to amend the Omnibus Crime Control and Safe Streets Act of 1968 to improve the COPS program with respect to training command-level personnel, and the nominations of Justin D. Smith, of Missouri, to be United States Circuit Judge for the Eighth Circuit, Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Jeffrey M. Kuhlman, Anthony W. Mattivi, and Anthony J. Powell, each to be a United States District Judge for the District of Kansas, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii, Timothy VerHey, to be United States Attorney for the Western District of Michigan, James Arnott, to be United States Marshal for the Western District of Missouri, Jack Chambers, to be United States Marshal for the Southern District of West Virginia, Jason Holt, to be United States Marshal for the Northern District of Oklahoma, and Johnson TeeHee II, to be United States Marshal for the Eastern District of Oklahoma, all of the Department of Justice.",
-    "last_updated": "2026-04-28T18:08:28Z",
+    "last_updated": "2026-04-29T22:08:31Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338353",
     "added_at": "2026-04-25T11:06:04.769Z",
     "scope_reason": "keyword_match",
@@ -43,6 +18,31 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338353"
+  },
+  {
+    "id": "hearing-119-119189",
+    "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
+    "last_updated": "2026-04-29T21:04:12Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119189",
+    "added_at": "2026-04-24T11:15:43.998Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Energy and Commerce Subcommittee on Energy",
+    "chamber": "house",
+    "date_time": "2026-04-29T14:15:00Z",
+    "location": "2123, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Nick Myers, Arizona Corporation Commission",
+      "Mr. Tom Falcone, Large Public Power Council",
+      "Mr. Nelson Peeler, Duke Energy",
+      "Ms. Whitney Muse, Muse Energy"
+    ],
+    "cspan_url": null,
+    "event_id": "119189"
   },
   {
     "id": "hearing-119-338329",
