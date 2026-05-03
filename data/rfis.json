@@ -203,25 +203,5 @@
     "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0118",
     "document_number": "2025-13650",
     "document_type": "Proposed Rule"
-  },
-  {
-    "id": "rfi-2025-07617",
-    "title": "Workado, LLC, f/k/a Content at Scale AI; Analysis of Proposed Consent Order To Aid Public Comment",
-    "last_updated": "2025-05-02",
-    "source_url": "https://www.federalregister.gov/documents/2025/05/02/2025-07617/workado-llc-fka-content-at-scale-ai-analysis-of-proposed-consent-order-to-aid-public-comment",
-    "added_at": "2026-04-17T23:39:35.885Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "rfi",
-    "status": "closed",
-    "agency": "Federal Trade Commission",
-    "docket_id": "FTC-2025-0033",
-    "open_date": "2025-05-02",
-    "close_date": "2025-06-02",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FTC-2025-0033",
-    "document_number": "2025-07617",
-    "document_type": "Notice"
   }
 ]
