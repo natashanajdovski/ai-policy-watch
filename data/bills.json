@@ -3540,35 +3540,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-s3162",
-    "title": "TEST AI Act of 2024",
-    "last_updated": "2025-01-14T18:57:03Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3162",
-    "added_at": "2026-04-18T01:42:43.915Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "S.3162",
-    "chamber": "senate",
-    "congress": 118,
-    "sponsor": {
-      "name": "Sen. Lujan, Ben Ray [D-NM]",
-      "party": "D",
-      "state": "NM",
-      "bioguide_id": "L000570"
-    },
-    "introduced_date": "2023-10-30",
-    "last_action_date": "2024-12-17",
-    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.",
-    "committee": null,
-    "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-s4495",
     "title": "PREPARED for AI Act",
     "last_updated": "2025-05-27T14:16:21Z",
@@ -3772,64 +3743,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-118-hr9497",
-    "title": "AI Advancement and Reliability Act of 2024",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
-    "added_at": "2026-04-18T01:43:44.185Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9497",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2024-09-09",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 11,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9197",
-    "title": "Small Business Artificial Intelligence Advancement Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
-    "added_at": "2026-04-18T01:43:50.201Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9197",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Collins, Mike [R-GA-10]",
-      "party": "R",
-      "state": "GA",
-      "bioguide_id": "C001129"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9215",
     "title": "Workforce for AI Trust Act",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3917,35 +3830,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9403",
-    "title": "Expanding AI Voices Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
-    "added_at": "2026-04-18T01:43:52.977Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9403",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "F000477"
-    },
-    "introduced_date": "2024-08-23",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9402",
     "title": "NSF AI Education Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -3972,6 +3856,93 @@
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
     "cosponsors_count": 12,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9497",
+    "title": "AI Advancement and Reliability Act of 2024",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9497",
+    "added_at": "2026-04-18T01:43:44.185Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9497",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2024-09-09",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 11,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9197",
+    "title": "Small Business Artificial Intelligence Advancement Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
+    "added_at": "2026-04-18T01:43:50.201Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9197",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Collins, Mike [R-GA-10]",
+      "party": "R",
+      "state": "GA",
+      "bioguide_id": "C001129"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 4,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9403",
+    "title": "Expanding AI Voices Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
+    "added_at": "2026-04-18T01:43:52.977Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9403",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "F000477"
+    },
+    "introduced_date": "2024-08-23",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4584,35 +4555,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-118-s3875",
-    "title": "AI Transparency in Elections Act of 2024",
-    "last_updated": "2025-05-27T14:16:16Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3875",
-    "added_at": "2026-04-18T01:44:38.272Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "S.3875",
-    "chamber": "senate",
-    "congress": 118,
-    "sponsor": {
-      "name": "Sen. Klobuchar, Amy [D-MN]",
-      "party": "D",
-      "state": "MN",
-      "bioguide_id": "K000367"
-    },
-    "introduced_date": "2024-03-06",
-    "last_action_date": "2024-05-15",
-    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Government Operations and Politics"
-  },
-  {
     "id": "bill-118-s3897",
     "title": "Preparing Election Administrators for AI Act",
     "last_updated": "2025-05-27T14:16:16Z",
@@ -4639,6 +4581,35 @@
     "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.",
     "committee": null,
     "cosponsors_count": 2,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-118-s3875",
+    "title": "AI Transparency in Elections Act of 2024",
+    "last_updated": "2025-05-27T14:16:16Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3875",
+    "added_at": "2026-04-18T01:44:38.272Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "S.3875",
+    "chamber": "senate",
+    "congress": 118,
+    "sponsor": {
+      "name": "Sen. Klobuchar, Amy [D-MN]",
+      "party": "D",
+      "state": "MN",
+      "bioguide_id": "K000367"
+    },
+    "introduced_date": "2024-03-06",
+    "last_action_date": "2024-05-15",
+    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.",
+    "committee": null,
+    "cosponsors_count": 1,
     "policy_area": "Government Operations and Politics"
   },
   {
