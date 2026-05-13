@@ -1,8 +1,8 @@
 {
-  "last_sync": "2026-05-12T12:27:55.143Z",
-  "bills_count": 193,
+  "last_sync": "2026-05-13T12:36:18.886Z",
+  "bills_count": 195,
   "rfis_count": 10,
-  "hearings_count": 39,
+  "hearings_count": 38,
   "sync_sources": {
     "bills": "api.congress.gov",
     "rfis": "federalregister.gov",
