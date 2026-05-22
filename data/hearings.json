@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119310",
     "title": "“Court Packing: A Threat to the Supreme Court’s Legitimacy”",
-    "last_updated": "2026-05-13T19:48:02Z",
+    "last_updated": "2026-05-21T19:57:39Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119310",
     "added_at": "2026-05-14T12:02:03.362Z",
     "scope_reason": "keyword_match",
@@ -10,12 +10,17 @@
       "artificial intelligence"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
     "chamber": "house",
     "date_time": "2026-05-21T14:00:00Z",
     "location": "2141, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Louis Capozzi, Missouri Attorney General's Office",
+      "Mr. William Ross, Samford University",
+      "Mr. Gene Schaerr, Schaerr Jaffe LLC",
+      "Mr. Nikolas Bowie, Harvard School of Law"
+    ],
     "cspan_url": null,
     "event_id": "119310"
   },
