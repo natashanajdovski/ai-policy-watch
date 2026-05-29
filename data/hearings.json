@@ -1,8 +1,68 @@
 [
   {
+    "id": "hearing-119-119338",
+    "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
+    "last_updated": "2026-05-27T13:56:53Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
+    "added_at": "2026-05-29T12:56:37.259Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Education and Workforce Subcommittee on Higher Education and Workforce Development",
+    "chamber": "house",
+    "date_time": "2026-06-03T14:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119338"
+  },
+  {
+    "id": "hearing-119-119346",
+    "title": "“Medicines and IP: Balancing Innovation and Access”",
+    "last_updated": "2026-05-28T12:49:19Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119346",
+    "added_at": "2026-05-29T12:56:22.250Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-06-04T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119346"
+  },
+  {
+    "id": "hearing-119-119258",
+    "title": "“The AI Security Landscape: How Frontier Models, Agentic AI, and AI Coding Tools Are Reshaping Cybersecurity and Critical Infrastructure Resilience”",
+    "last_updated": "2026-05-28T18:11:45Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119258",
+    "added_at": "2026-05-29T12:56:13.250Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection",
+    "chamber": "house",
+    "date_time": "2026-06-04T14:30:00Z",
+    "location": "310, Cannon House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119258"
+  },
+  {
     "id": "hearing-119-119310",
     "title": "“Court Packing: A Threat to the Supreme Court’s Legitimacy”",
-    "last_updated": "2026-05-22T14:42:49Z",
+    "last_updated": "2026-05-27T15:12:05Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119310",
     "added_at": "2026-05-14T12:02:03.362Z",
     "scope_reason": "keyword_match",
@@ -685,30 +745,6 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337474"
-  },
-  {
-    "id": "hearing-119-118621",
-    "title": "“Shaping Tomorrow: The Future of Artificial Intelligence”",
-    "last_updated": "2026-02-02T04:52:49Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118621",
-    "added_at": "2026-04-17T23:47:51.505Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Oversight and Government Reform Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
-    "chamber": "house",
-    "date_time": "2025-09-17T18:00:00Z",
-    "location": "2247, Rayburn House Office Building",
-    "witnesses": [
-      "Ms. Kinsey Fabrizio, Consumer Technology Association",
-      "Mr. Samuel Hammond, Foundation for American Innovation",
-      "Dr. Nicol Turner Lee, The Brookings Institution"
-    ],
-    "cspan_url": null,
-    "event_id": "118621"
   },
   {
     "id": "hearing-119-337424",
