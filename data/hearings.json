@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119338",
     "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
-    "last_updated": "2026-05-27T13:56:53Z",
+    "last_updated": "2026-06-01T15:11:31Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
     "added_at": "2026-05-29T12:56:37.259Z",
     "scope_reason": "keyword_match",
@@ -15,7 +15,12 @@
     "chamber": "house",
     "date_time": "2026-06-03T14:15:00Z",
     "location": "2175, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Jonathan Fozard, Florida State University",
+      "Dr. Dave Duke, McGraw Hill",
+      "Dr. Bridget Burns, University Innovation Alliance",
+      "Mr. Michael Horn, Harvard Graduate School of Education"
+    ],
     "cspan_url": null,
     "event_id": "119338"
   },
