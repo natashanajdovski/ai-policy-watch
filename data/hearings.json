@@ -1,30 +1,5 @@
 [
   {
-    "id": "hearing-119-119338",
-    "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
-    "last_updated": "2026-06-01T15:33:26Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
-    "added_at": "2026-05-29T12:56:37.259Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "House Education and Workforce Subcommittee on Higher Education and Workforce Development",
-    "chamber": "house",
-    "date_time": "2026-06-03T14:15:00Z",
-    "location": "2175, Rayburn House Office Building",
-    "witnesses": [
-      "Mr. Jonathan Fozard, Florida State University",
-      "Dr. Dave Duke, McGraw Hill",
-      "Dr. Bridget Burns, University Innovation Alliance",
-      "Mr. Michael Horn, Harvard Graduate School of Education"
-    ],
-    "cspan_url": null,
-    "event_id": "119338"
-  },
-  {
     "id": "hearing-119-119346",
     "title": "“Medicines and IP: Balancing Innovation and Access”",
     "last_updated": "2026-05-28T12:49:19Z",
@@ -63,6 +38,31 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "119258"
+  },
+  {
+    "id": "hearing-119-119338",
+    "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
+    "last_updated": "2026-06-01T15:33:26Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
+    "added_at": "2026-05-29T12:56:37.259Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Higher Education and Workforce Development",
+    "chamber": "house",
+    "date_time": "2026-06-03T14:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Jonathan Fozard, Florida State University",
+      "Dr. Dave Duke, McGraw Hill",
+      "Dr. Bridget Burns, University Innovation Alliance",
+      "Mr. Michael Horn, Harvard Graduate School of Education"
+    ],
+    "cspan_url": null,
+    "event_id": "119338"
   },
   {
     "id": "hearing-119-119310",
@@ -589,28 +589,6 @@
     ],
     "cspan_url": null,
     "event_id": "118817"
-  },
-  {
-    "id": "hearing-119-118803",
-    "title": "Assessing America's AI Action Plan",
-    "last_updated": "2026-02-02T05:02:44Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118803",
-    "added_at": "2026-04-17T23:47:24.481Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Science, Space, and Technology Subcommittee on Research and Technology",
-    "chamber": "house",
-    "date_time": "2026-01-14T15:00:00Z",
-    "location": "2318, Rayburn House Office Building",
-    "witnesses": [
-      "The Honorable Michael Kratsios"
-    ],
-    "cspan_url": null,
-    "event_id": "118803"
   },
   {
     "id": "hearing-119-118814",
