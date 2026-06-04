@@ -22,7 +22,7 @@
   {
     "id": "hearing-119-119258",
     "title": "“The AI Security Landscape: How Frontier Models, Agentic AI, and AI Coding Tools Are Reshaping Cybersecurity and Critical Infrastructure Resilience”",
-    "last_updated": "2026-05-28T18:11:45Z",
+    "last_updated": "2026-06-03T14:34:08Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119258",
     "added_at": "2026-05-29T12:56:13.250Z",
     "scope_reason": "keyword_match",
@@ -35,14 +35,19 @@
     "chamber": "house",
     "date_time": "2026-06-04T14:30:00Z",
     "location": "310, Cannon House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Ms. Sandra Joyce, Google LLC",
+      "Dr. Chris Meserole, Frontier Model Forum",
+      "Mr. Jack Cable, Corridor Security Inc.",
+      "Dr. Matthew Guariglia, Electronic Frontier Foundation"
+    ],
     "cspan_url": null,
     "event_id": "119258"
   },
   {
     "id": "hearing-119-119338",
     "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
-    "last_updated": "2026-06-01T15:33:26Z",
+    "last_updated": "2026-06-03T21:12:05Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
     "added_at": "2026-05-29T12:56:37.259Z",
     "scope_reason": "keyword_match",
@@ -56,10 +61,11 @@
     "date_time": "2026-06-03T14:15:00Z",
     "location": "2175, Rayburn House Office Building",
     "witnesses": [
+      "Mr. Michael Horn, Harvard Graduate School of Education",
+      "Mr. Michael Horn, Harvard Graduate School of Education",
       "Mr. Jonathan Fozard, Florida State University",
       "Dr. Dave Duke, McGraw Hill",
-      "Dr. Bridget Burns, University Innovation Alliance",
-      "Mr. Michael Horn, Harvard Graduate School of Education"
+      "Dr. Bridget Burns, University Innovation Alliance"
     ],
     "cspan_url": null,
     "event_id": "119338"
@@ -613,32 +619,6 @@
     ],
     "cspan_url": null,
     "event_id": "118814"
-  },
-  {
-    "id": "hearing-119-118806",
-    "title": "Delivering for American Consumers: A Review of FinTech Innovations and Regulations",
-    "last_updated": "2026-02-02T05:03:03Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118806",
-    "added_at": "2026-04-17T23:47:21.473Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
-    "chamber": "house",
-    "date_time": "2026-01-13T15:00:00Z",
-    "location": "2128, Rayburn House Office Building",
-    "witnesses": [
-      "Ms. Jodie Kelley, Electronic Transactions Association",
-      "Mr. Kevin Lefton, Stream",
-      "Mr. Ram Palaniappan, EarnIn",
-      "Mr. Todd Zywicki, George Mason University Antonin Scalia Law School",
-      "Ms. Delicia Reynolds Hand, Consumer Reports"
-    ],
-    "cspan_url": null,
-    "event_id": "118806"
   },
   {
     "id": "hearing-119-118773",
