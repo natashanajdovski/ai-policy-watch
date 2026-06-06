@@ -47,7 +47,7 @@
   {
     "id": "hearing-119-119346",
     "title": "“Medicines and IP: Balancing Innovation and Access”",
-    "last_updated": "2026-06-04T17:34:27Z",
+    "last_updated": "2026-06-05T18:11:46Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119346",
     "added_at": "2026-05-29T12:56:22.250Z",
     "scope_reason": "keyword_match",
@@ -569,31 +569,6 @@
     ],
     "cspan_url": null,
     "event_id": "118908"
-  },
-  {
-    "id": "hearing-119-118819",
-    "title": "\"Building an AI-Ready America\"",
-    "last_updated": "2026-02-02T05:03:51Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118819",
-    "added_at": "2026-04-17T23:47:13.462Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Education and Workforce",
-    "chamber": "house",
-    "date_time": "2026-01-14T15:15:00Z",
-    "location": "2175, Rayburn House Office Building",
-    "witnesses": [
-      "Ms. Chaya Nayak, OpenAI",
-      "Mr. Adeel Khan, MagicSchool AI",
-      "Ms. Alexandra Givens, Center for Democracy & Technology",
-      "Mr. Kevin Frazier, University of Texas Law School"
-    ],
-    "cspan_url": null,
-    "event_id": "118819"
   },
   {
     "id": "hearing-119-118817",
