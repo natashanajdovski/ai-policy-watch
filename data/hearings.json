@@ -20,6 +20,26 @@
     "event_id": "338552"
   },
   {
+    "id": "hearing-119-338562",
+    "title": "Hearings to examine the future of K-12 education in the age of artificial intelligence.",
+    "last_updated": "2026-06-09T22:23:26Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338562",
+    "added_at": "2026-06-10T13:17:02.946Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Health, Education, Labor, and Pensions Subcommittee on Education and the American Family",
+    "chamber": "senate",
+    "date_time": "2026-06-16T18:00:00Z",
+    "location": "430, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338562"
+  },
+  {
     "id": "hearing-119-119258",
     "title": "“The AI Security Landscape: How Frontier Models, Agentic AI, and AI Coding Tools Are Reshaping Cybersecurity and Critical Infrastructure Resilience”",
     "last_updated": "2026-06-04T14:42:08Z",
@@ -47,7 +67,7 @@
   {
     "id": "hearing-119-119346",
     "title": "“Medicines and IP: Balancing Innovation and Access”",
-    "last_updated": "2026-06-05T18:11:46Z",
+    "last_updated": "2026-06-09T19:34:45Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119346",
     "added_at": "2026-05-29T12:56:22.250Z",
     "scope_reason": "keyword_match",
@@ -61,8 +81,8 @@
     "date_time": "2026-06-04T14:00:00Z",
     "location": "2141, Rayburn House Office Building",
     "witnesses": [
-      "Mr. Michael Carrier, Rutgers Law School",
       "Ms. Krista Hessler Carver, Covington & Burling LLP",
+      "Mr. Michael Carrier, Rutgers Law School",
       "Ms. Rachel Goode, Head of Legal and Intellectual Property",
       "Ms. Jamie Simpson, Council for Innovation Promotion"
     ],
