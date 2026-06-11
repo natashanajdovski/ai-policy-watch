@@ -1,25 +1,5 @@
 [
   {
-    "id": "hearing-119-338552",
-    "title": "Hearings to examine AI and the American dream, focusing on promoting innovation, affordability and American dominance.",
-    "last_updated": "2026-06-05T00:08:31Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338552",
-    "added_at": "2026-06-05T12:58:31.694Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "Senate Banking, Housing, and Urban Affairs",
-    "chamber": "senate",
-    "date_time": "2026-06-11T14:00:00Z",
-    "location": "538, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "338552"
-  },
-  {
     "id": "hearing-119-338562",
     "title": "Hearings to examine the future of K-12 education in the age of artificial intelligence.",
     "last_updated": "2026-06-09T22:23:26Z",
@@ -38,6 +18,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338562"
+  },
+  {
+    "id": "hearing-119-338552",
+    "title": "Hearings to examine AI and the American dream, focusing on promoting innovation, affordability and American dominance.",
+    "last_updated": "2026-06-11T00:08:24Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338552",
+    "added_at": "2026-06-05T12:58:31.694Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Banking, Housing, and Urban Affairs",
+    "chamber": "senate",
+    "date_time": "2026-06-11T14:00:00Z",
+    "location": "538, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338552"
   },
   {
     "id": "hearing-119-119258",
