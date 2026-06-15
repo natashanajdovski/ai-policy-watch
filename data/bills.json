@@ -4352,6 +4352,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-118-hr9211",
+    "title": "LIFT AI Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
+    "added_at": "2026-04-18T01:43:56.318Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9211",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 13,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-118-hr9215",
     "title": "Workforce for AI Trust Act",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -4439,32 +4468,32 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9211",
-    "title": "LIFT AI Act",
+    "id": "bill-118-hr9197",
+    "title": "Small Business Artificial Intelligence Advancement Act",
     "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
-    "added_at": "2026-04-18T01:43:56.318Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
+    "added_at": "2026-04-18T01:43:50.201Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "ai"
+      "artificial intelligence"
     ],
     "type": "bill",
     "status": "resolved",
     "stage": "expired",
-    "bill_number": "HR.9211",
+    "bill_number": "HR.9197",
     "chamber": "house",
     "congress": 118,
     "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "name": "Rep. Collins, Mike [R-GA-10]",
       "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
+      "state": "GA",
+      "bioguide_id": "C001129"
     },
     "introduced_date": "2024-07-30",
     "last_action_date": "2024-09-11",
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
-    "cosponsors_count": 13,
+    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4523,35 +4552,6 @@
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
     "cosponsors_count": 12,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-118-hr9197",
-    "title": "Small Business Artificial Intelligence Advancement Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
-    "added_at": "2026-04-18T01:43:50.201Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9197",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Collins, Mike [R-GA-10]",
-      "party": "R",
-      "state": "GA",
-      "bioguide_id": "C001129"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
