@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-338562",
     "title": "Hearings to examine the future of K-12 education in the age of artificial intelligence.",
-    "last_updated": "2026-06-09T22:23:26Z",
+    "last_updated": "2026-06-15T22:08:23Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338562",
     "added_at": "2026-06-10T13:17:02.946Z",
     "scope_reason": "keyword_match",
@@ -118,7 +118,7 @@
   {
     "id": "hearing-119-119310",
     "title": "“Court Packing: A Threat to the Supreme Court’s Legitimacy”",
-    "last_updated": "2026-05-27T15:12:05Z",
+    "last_updated": "2026-06-15T22:49:54Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119310",
     "added_at": "2026-05-14T12:02:03.362Z",
     "scope_reason": "keyword_match",
@@ -210,26 +210,6 @@
     ],
     "cspan_url": null,
     "event_id": "119189"
-  },
-  {
-    "id": "hearing-119-338329",
-    "title": "Business meeting to consider S.1572, to amend title 18, United States Code, to improve the Federal carjacking statute, S.3062, to require artificial intelligence chatbots to implement age verification measures and make certain disclosures, S.3966, to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, and the nominations of Sheria Akins Clarke, to be United States District Judge for the District of South Carolina, Kathleen S. Lane, to be United States District Judge for the District of Montana, Evan Rikhye, to be Judge for the District Court of the Virgin Islands for a term of ten years, Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade, and Kenneth Sorenson, to be United States Attorney for the District of Hawaii for the term of four years.",
-    "last_updated": "2026-04-28T13:05:37Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338329",
-    "added_at": "2026-04-29T11:58:00.146Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Judiciary",
-    "chamber": "senate",
-    "date_time": "2026-04-23T14:15:00Z",
-    "location": "216, Hart Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "338329"
   },
   {
     "id": "hearing-119-119195",
