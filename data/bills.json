@@ -1,32 +1,206 @@
 [
   {
-    "id": "bill-119-hr8881",
-    "title": "SBA Artificial Intelligence Utilization Act of 2026",
-    "last_updated": "2026-06-24T08:08:41Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
-    "added_at": "2026-05-20T12:28:07.109Z",
+    "id": "bill-119-hr9427",
+    "title": "To direct the Comptroller General of the United States to conduct a study on the impacts of artificial intelligence on the workforce in the United States, and for other purposes.",
+    "last_updated": "2026-06-25T08:07:47Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9427",
+    "added_at": "2026-06-25T12:24:41.427Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
       "artificial intelligence"
     ],
     "type": "bill",
     "status": "in_progress",
-    "stage": "passed_house",
-    "bill_number": "HR.8881",
+    "stage": "introduced",
+    "bill_number": "HR.9427",
     "chamber": "house",
     "congress": 119,
     "sponsor": {
-      "name": "Rep. Finstad, Brad [R-MN-1]",
-      "party": "R",
-      "state": "MN",
-      "bioguide_id": "F000475"
+      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "F000477"
     },
-    "introduced_date": "2026-05-19",
-    "last_action_date": "2026-06-23",
-    "last_action_text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+    "introduced_date": "2026-06-24",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Referred to the House Committee on Education and Workforce.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": "Commerce"
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr9439",
+    "title": "To amend the National Institute of Standards and Technology Act to direct the Director of the National Institute of Standards and Technology to establish a pilot program and develop voluntary disclosure standards relating to the use of artificial intelligence systems by private sector entities, and for other purposes.",
+    "last_updated": "2026-06-25T08:08:35Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9439",
+    "added_at": "2026-06-25T12:24:50.455Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9439",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Lofgren, Zoe [D-CA-18]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "L000397"
+    },
+    "introduced_date": "2026-06-24",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr4801",
+    "title": "Unleashing AI Innovation in Financial Services Act",
+    "last_updated": "2026-06-25T08:08:41Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
+    "added_at": "2026-04-18T01:36:09.011Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.4801",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Hill, J. French [R-AR-2]",
+      "party": "R",
+      "state": "AR",
+      "bioguide_id": "H001072"
+    },
+    "introduced_date": "2025-07-29",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Placed on the Union Calendar, Calendar No. 619.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "id": "bill-119-hr2152",
+    "title": "AI PLAN Act",
+    "last_updated": "2026-06-25T08:08:43Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2152",
+    "added_at": "2026-04-18T01:36:34.120Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.2152",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Nunn, Zachary [R-IA-3]",
+      "party": "R",
+      "state": "IA",
+      "bioguide_id": "N000193"
+    },
+    "introduced_date": "2025-03-14",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Placed on the Union Calendar, Calendar No. 615.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "id": "bill-119-hr9442",
+    "title": "Artificial Intelligence Data Center Moratorium Act",
+    "last_updated": "2026-06-25T08:23:31Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+    "added_at": "2026-06-25T12:24:59.480Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9442",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+      "party": "D",
+      "state": "NY",
+      "bioguide_id": "O000172"
+    },
+    "introduced_date": "2026-06-24",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 9,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s4915",
+    "title": "A bill to require disclosures for covered AI-generated content, and for other purposes.",
+    "last_updated": "2026-06-25T12:08:54Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4915",
+    "added_at": "2026-06-25T12:25:05.263Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4915",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Schatz, Brian [D-HI]",
+      "party": "D",
+      "state": "HI",
+      "bioguide_id": "S001194"
+    },
+    "introduced_date": "2026-06-24",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s4916",
+    "title": "A bill to address the effects of artificial intelligence-enabled systems, including artificial intelligence chatbots, on older adults, and for other purposes.",
+    "last_updated": "2026-06-25T12:09:04Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4916",
+    "added_at": "2026-06-25T12:25:08.269Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4916",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kelly, Mark [D-AZ]",
+      "party": "D",
+      "state": "AZ",
+      "bioguide_id": "K000377"
+    },
+    "introduced_date": "2026-06-24",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": null
   },
   {
     "id": "bill-119-s4855",
@@ -56,6 +230,35 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": null
+  },
+  {
+    "id": "bill-119-hr8881",
+    "title": "SBA Artificial Intelligence Utilization Act of 2026",
+    "last_updated": "2026-06-25T12:04:16Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+    "added_at": "2026-05-20T12:28:07.109Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "passed_house",
+    "bill_number": "HR.8881",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Finstad, Brad [R-MN-1]",
+      "party": "R",
+      "state": "MN",
+      "bioguide_id": "F000475"
+    },
+    "introduced_date": "2026-05-19",
+    "last_action_date": "2026-06-23",
+    "last_action_text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Commerce"
   },
   {
     "id": "bill-119-s4825",
@@ -116,35 +319,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr9333",
-    "title": "AI Flaw Reporting and Security Enhancement Act",
-    "last_updated": "2026-06-19T11:28:27Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
-    "added_at": "2026-06-19T13:37:16.988Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9333",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Ross, Deborah K. [D-NC-2]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "R000305"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-18",
-    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr9352",
     "title": "To require reports regarding artificial intelligence-related job impacts, and for other purposes.",
     "last_updated": "2026-06-19T11:28:28Z",
@@ -171,35 +345,6 @@
     "last_action_text": "Referred to the House Committee on Education and Workforce.",
     "committee": null,
     "cosponsors_count": 2,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr9363",
-    "title": "To amend the National Artificial Intelligence Initiative Act of 2020 to establish a center on artificial intelligence to ensure continued United States leadership in research, development, and evaluation of artificial intelligence systems, and for other purposes.",
-    "last_updated": "2026-06-23T08:05:56Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
-    "added_at": "2026-06-19T13:37:28.991Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9363",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-18",
-    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
-    "committee": null,
-    "cosponsors_count": 6,
     "policy_area": null
   },
   {
@@ -259,6 +404,64 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr9333",
+    "title": "AI Flaw Reporting and Security Enhancement Act",
+    "last_updated": "2026-06-24T20:54:17Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+    "added_at": "2026-06-19T13:37:16.988Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9333",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Ross, Deborah K. [D-NC-2]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "R000305"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-18",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr9363",
+    "title": "AI Security and Innovation Act",
+    "last_updated": "2026-06-25T08:53:33Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+    "added_at": "2026-06-19T13:37:28.991Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9363",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-18",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": 6,
+    "policy_area": null
   },
   {
     "id": "bill-119-hr9323",
@@ -524,13 +727,13 @@
   },
   {
     "id": "bill-119-s4743",
-    "title": "A bill to require the Office of Financial Research to compel data relating to the financing of artificial intelligence development, provide that data to Congress, and issue recommendations to financial regulatory agencies and Congress to mitigate financial stability risk, and for other purposes.",
-    "last_updated": "2026-06-11T12:29:35Z",
+    "title": "AI Bubble Transparency Act",
+    "last_updated": "2026-06-24T14:23:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4743",
     "added_at": "2026-06-11T14:01:32.900Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -581,38 +784,9 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr9183",
-    "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-    "last_updated": "2026-06-24T08:09:51Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
-    "added_at": "2026-06-09T12:40:39.286Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9183",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Beyer, Donald S. [D-VA-8]",
-      "party": "D",
-      "state": "VA",
-      "bioguide_id": "B001292"
-    },
-    "introduced_date": "2026-06-08",
-    "last_action_date": "2026-06-08",
-    "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 12,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-s4707",
-    "title": "A bill to amend title 10, United States Code, to establish a policy for the Department of Defense on maximizing autonomy and artificial intelligence systems, to establish requirements relating to Department review and verification of autonomous weapon systems, and artificial intelligence capabilities, and for other purposes.",
-    "last_updated": "2026-06-09T10:56:33Z",
+    "title": "Responsible Artificial Intelligence Defense Act of 2026",
+    "last_updated": "2026-06-24T14:38:30Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4707",
     "added_at": "2026-06-09T12:40:42.287Z",
     "scope_reason": "keyword_match",
@@ -636,6 +810,35 @@
     "last_action_text": "Read twice and referred to the Committee on Armed Services.",
     "committee": null,
     "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr9183",
+    "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+    "last_updated": "2026-06-25T08:07:40Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
+    "added_at": "2026-06-09T12:40:39.286Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9183",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Beyer, Donald S. [D-VA-8]",
+      "party": "D",
+      "state": "VA",
+      "bioguide_id": "B001292"
+    },
+    "introduced_date": "2026-06-08",
+    "last_action_date": "2026-06-08",
+    "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 14,
     "policy_area": null
   },
   {
@@ -811,64 +1014,6 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": null
-  },
-  {
-    "id": "bill-119-hr4801",
-    "title": "Unleashing AI Innovation in Financial Services Act",
-    "last_updated": "2026-05-19T13:42:55Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/4801",
-    "added_at": "2026-04-18T01:36:09.011Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.4801",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Hill, J. French [R-AR-2]",
-      "party": "R",
-      "state": "AR",
-      "bioguide_id": "H001072"
-    },
-    "introduced_date": "2025-07-29",
-    "last_action_date": "2026-05-13",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 19.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Finance and Financial Sector"
-  },
-  {
-    "id": "bill-119-hr2152",
-    "title": "AI PLAN Act",
-    "last_updated": "2026-05-18T19:15:53Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2152",
-    "added_at": "2026-04-18T01:36:34.120Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.2152",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Nunn, Zachary [R-IA-3]",
-      "party": "R",
-      "state": "IA",
-      "bioguide_id": "N000193"
-    },
-    "introduced_date": "2025-03-14",
-    "last_action_date": "2026-05-13",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "Finance and Financial Sector"
   },
   {
     "id": "bill-119-hr8747",
@@ -1801,7 +1946,7 @@
   {
     "id": "bill-119-hr7907",
     "title": "AI-Ready Bio-Data Standards Act",
-    "last_updated": "2026-06-19T08:07:04Z",
+    "last_updated": "2026-06-25T08:08:15Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7907",
     "added_at": "2026-04-18T01:39:51.941Z",
     "scope_reason": "keyword_match",
@@ -1824,7 +1969,7 @@
     "last_action_date": "2026-03-12",
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
-    "cosponsors_count": 3,
+    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -2350,6 +2495,64 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr6875",
+    "title": "AI OVERWATCH Act",
+    "last_updated": "2026-06-25T08:07:20Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+    "added_at": "2026-04-18T01:39:18.919Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6875",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Mast, Brian J. [R-FL-21]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "M001199"
+    },
+    "introduced_date": "2025-12-18",
+    "last_action_date": "2026-01-21",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
+    "committee": null,
+    "cosponsors_count": 36,
+    "policy_area": "International Affairs"
+  },
+  {
+    "id": "bill-119-hr6275",
+    "title": "China AI Power Report Act",
+    "last_updated": "2026-06-25T08:08:16Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+    "added_at": "2026-04-18T01:37:48.803Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6275",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Del. Moylan, James C. [R-GU-At Large]",
+      "party": "R",
+      "state": "GU",
+      "bioguide_id": "M001219"
+    },
+    "introduced_date": "2025-11-21",
+    "last_action_date": "2026-01-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": "International Affairs"
+  },
+  {
     "id": "bill-119-hr7158",
     "title": "Expanding AI Voices Act",
     "last_updated": "2026-05-27T08:06:17Z",
@@ -2493,35 +2696,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Government Operations and Politics"
-  },
-  {
-    "id": "bill-119-hr6875",
-    "title": "AI OVERWATCH Act",
-    "last_updated": "2026-06-12T13:43:09Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
-    "added_at": "2026-04-18T01:39:18.919Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6875",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Mast, Brian J. [R-FL-21]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "M001199"
-    },
-    "introduced_date": "2025-12-18",
-    "last_action_date": "2025-12-18",
-    "last_action_text": "Referred to the House Committee on Foreign Affairs.",
-    "committee": null,
-    "cosponsors_count": 36,
-    "policy_area": "International Affairs"
   },
   {
     "id": "bill-119-hres963",
@@ -3045,35 +3219,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Crime and Law Enforcement"
-  },
-  {
-    "id": "bill-119-hr6275",
-    "title": "China AI Power Report Act",
-    "last_updated": "2026-02-12T09:06:18Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
-    "added_at": "2026-04-18T01:37:48.803Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6275",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Del. Moylan, James C. [R-GU-At Large]",
-      "party": "R",
-      "state": "GU",
-      "bioguide_id": "M001219"
-    },
-    "introduced_date": "2025-11-21",
-    "last_action_date": "2025-11-21",
-    "last_action_text": "Referred to the House Committee on Foreign Affairs.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "International Affairs"
   },
   {
     "id": "bill-119-hr1736",
@@ -4556,35 +4701,6 @@
     "policy_area": "Crime and Law Enforcement"
   },
   {
-    "id": "bill-118-hr9720",
-    "title": "AI Incident Reporting and Security Enhancement Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9720",
-    "added_at": "2026-04-18T01:43:41.205Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9720",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Ross, Deborah K. [D-NC-2]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "R000305"
-    },
-    "introduced_date": "2024-09-20",
-    "last_action_date": "2024-09-25",
-    "last_action_text": "Ordered to be Reported by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9671",
     "title": "Department of Energy Artificial Intelligence Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -4611,6 +4727,35 @@
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
     "cosponsors_count": 1,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9720",
+    "title": "AI Incident Reporting and Security Enhancement Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9720",
+    "added_at": "2026-04-18T01:43:41.205Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9720",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Ross, Deborah K. [D-NC-2]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "R000305"
+    },
+    "introduced_date": "2024-09-20",
+    "last_action_date": "2024-09-25",
+    "last_action_text": "Ordered to be Reported by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 3,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4672,11 +4817,11 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9403",
-    "title": "Expanding AI Voices Act",
+    "id": "bill-118-hr9211",
+    "title": "LIFT AI Act",
     "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
-    "added_at": "2026-04-18T01:43:52.977Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
+    "added_at": "2026-04-18T01:43:56.318Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
       "ai"
@@ -4684,20 +4829,20 @@
     "type": "bill",
     "status": "resolved",
     "stage": "expired",
-    "bill_number": "HR.9403",
+    "bill_number": "HR.9211",
     "chamber": "house",
     "congress": 118,
     "sponsor": {
-      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "F000477"
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
     },
-    "introduced_date": "2024-08-23",
+    "introduced_date": "2024-07-30",
     "last_action_date": "2024-09-11",
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
-    "cosponsors_count": 4,
+    "cosponsors_count": 13,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4730,35 +4875,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9211",
-    "title": "LIFT AI Act",
-    "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9211",
-    "added_at": "2026-04-18T01:43:56.318Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "HR.9211",
-    "chamber": "house",
-    "congress": 118,
-    "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
-      "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
-    },
-    "introduced_date": "2024-07-30",
-    "last_action_date": "2024-09-11",
-    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 13,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-118-hr9402",
     "title": "NSF AI Education Act of 2024",
     "last_updated": "2025-05-27T14:13:19Z",
@@ -4788,28 +4904,28 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-118-hr9197",
-    "title": "Small Business Artificial Intelligence Advancement Act",
+    "id": "bill-118-hr9403",
+    "title": "Expanding AI Voices Act",
     "last_updated": "2025-05-27T14:13:19Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
-    "added_at": "2026-04-18T01:43:50.201Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9403",
+    "added_at": "2026-04-18T01:43:52.977Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "resolved",
     "stage": "expired",
-    "bill_number": "HR.9197",
+    "bill_number": "HR.9403",
     "chamber": "house",
     "congress": 118,
     "sponsor": {
-      "name": "Rep. Collins, Mike [R-GA-10]",
-      "party": "R",
-      "state": "GA",
-      "bioguide_id": "C001129"
+      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "F000477"
     },
-    "introduced_date": "2024-07-30",
+    "introduced_date": "2024-08-23",
     "last_action_date": "2024-09-11",
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
@@ -4843,6 +4959,35 @@
     "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
     "committee": null,
     "cosponsors_count": 11,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-118-hr9197",
+    "title": "Small Business Artificial Intelligence Advancement Act",
+    "last_updated": "2025-05-27T14:13:19Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/9197",
+    "added_at": "2026-04-18T01:43:50.201Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "HR.9197",
+    "chamber": "house",
+    "congress": 118,
+    "sponsor": {
+      "name": "Rep. Collins, Mike [R-GA-10]",
+      "party": "R",
+      "state": "GA",
+      "bioguide_id": "C001129"
+    },
+    "introduced_date": "2024-07-30",
+    "last_action_date": "2024-09-11",
+    "last_action_text": "Ordered to be Reported (Amended) by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -5455,35 +5600,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-118-s3875",
-    "title": "AI Transparency in Elections Act of 2024",
-    "last_updated": "2025-05-27T14:16:16Z",
-    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3875",
-    "added_at": "2026-04-18T01:44:38.272Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "resolved",
-    "stage": "expired",
-    "bill_number": "S.3875",
-    "chamber": "senate",
-    "congress": 118,
-    "sponsor": {
-      "name": "Sen. Klobuchar, Amy [D-MN]",
-      "party": "D",
-      "state": "MN",
-      "bioguide_id": "K000367"
-    },
-    "introduced_date": "2024-03-06",
-    "last_action_date": "2024-05-15",
-    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Government Operations and Politics"
-  },
-  {
     "id": "bill-118-s3897",
     "title": "Preparing Election Administrators for AI Act",
     "last_updated": "2025-05-27T14:16:16Z",
@@ -5510,6 +5626,35 @@
     "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.",
     "committee": null,
     "cosponsors_count": 2,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-118-s3875",
+    "title": "AI Transparency in Elections Act of 2024",
+    "last_updated": "2025-05-27T14:16:16Z",
+    "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3875",
+    "added_at": "2026-04-18T01:44:38.272Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "resolved",
+    "stage": "expired",
+    "bill_number": "S.3875",
+    "chamber": "senate",
+    "congress": 118,
+    "sponsor": {
+      "name": "Sen. Klobuchar, Amy [D-MN]",
+      "party": "D",
+      "state": "MN",
+      "bioguide_id": "K000367"
+    },
+    "introduced_date": "2024-03-06",
+    "last_action_date": "2024-05-15",
+    "last_action_text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.",
+    "committee": null,
+    "cosponsors_count": 1,
     "policy_area": "Government Operations and Politics"
   },
   {
