@@ -1,8 +1,28 @@
 [
   {
+    "id": "hearing-119-119417",
+    "title": "“A Midlife Crisis? IP and the Internet After 40”",
+    "last_updated": "2026-06-23T13:27:13Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119417",
+    "added_at": "2026-06-24T12:29:06.216Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-06-30T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119417"
+  },
+  {
     "id": "hearing-119-119420",
     "title": "H.R. 8476, \"No Antisemitism in Education Act of 2026\"; H.R. 4795, \"Protect Economic and Academic Freedom Act of 2025\"; H.R. 9203, \"Student Protection and University Accountability Act\"; H.R. 2555, \"Freedom of Association in Higher Education Act of 2025\"; H.R. 5505, \"Equal Campus Access Act of 2025\"; H.R. 2332, \"States Handling Access to Reciprocity for Employment (SHARE) Act of 2025\"; H.R. 4122, \"Health Care for Energy Workers Act of 2025\"; H.R. 8822, \"Federal Workers’ Compensation Integrity and Care Act\"; H.R. 8823, \"Putting Patients First by Strengthening Provider Accountability in FECA Act\"; H.R. 9381, \"AI Workforce Assessment and Research Enhancement (AWARE) Act\"; H.R. 9228, \"Health Data Access, Transparency, and Affordability Act of 2026\"",
-    "last_updated": "2026-06-24T13:42:24Z",
+    "last_updated": "2026-06-25T21:19:10Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119420",
     "added_at": "2026-06-24T12:29:02.218Z",
     "scope_reason": "keyword_match",
@@ -10,7 +30,7 @@
       "ai"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "House Education and Workforce",
     "chamber": "house",
     "date_time": "2026-06-25T14:15:00Z",
@@ -30,7 +50,7 @@
       "ai"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "Committee on House Administration",
     "chamber": "house",
     "date_time": "2026-06-25T14:15:00Z",
@@ -40,26 +60,6 @@
     ],
     "cspan_url": null,
     "event_id": "119397"
-  },
-  {
-    "id": "hearing-119-119417",
-    "title": "“A Midlife Crisis? IP and the Internet After 40”",
-    "last_updated": "2026-06-23T13:27:13Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119417",
-    "added_at": "2026-06-24T12:29:06.216Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
-    "chamber": "house",
-    "date_time": "2026-06-30T14:00:00Z",
-    "location": "2141, Rayburn House Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "119417"
   },
   {
     "id": "hearing-119-338562",
