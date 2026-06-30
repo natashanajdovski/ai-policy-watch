@@ -1,26 +1,5 @@
 [
   {
-    "id": "rfi-2026-10602",
-    "title": "AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information; Extension of Comment Period",
-    "last_updated": "2026-05-28",
-    "source_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10602/ai-enabled-optimization-of-early-phase-clinical-trials-pilot-program-request-for-information",
-    "added_at": "2026-05-29T12:56:03.537Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence",
-      "ai"
-    ],
-    "type": "rfi",
-    "status": "open",
-    "agency": "Health and Human Services Department",
-    "docket_id": "FDA-2026-N-4390",
-    "open_date": "2026-05-28",
-    "close_date": "2026-06-29",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FDA-2026-N-4390",
-    "document_number": "2026-10602",
-    "document_type": "Notice"
-  },
-  {
     "id": "rfi-2026-11353",
     "title": "Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support",
     "last_updated": "2026-06-05",
@@ -40,6 +19,27 @@
     "comment_submission_url": "https://www.regulations.gov/docket/WC Docket Nos. 26-96, 10-90",
     "document_number": "2026-11353",
     "document_type": "Proposed Rule"
+  },
+  {
+    "id": "rfi-2026-10602",
+    "title": "AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information; Extension of Comment Period",
+    "last_updated": "2026-05-28",
+    "source_url": "https://www.federalregister.gov/documents/2026/05/28/2026-10602/ai-enabled-optimization-of-early-phase-clinical-trials-pilot-program-request-for-information",
+    "added_at": "2026-05-29T12:56:03.537Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Health and Human Services Department",
+    "docket_id": "FDA-2026-N-4390",
+    "open_date": "2026-05-28",
+    "close_date": "2026-06-29",
+    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FDA-2026-N-4390",
+    "document_number": "2026-10602",
+    "document_type": "Notice"
   },
   {
     "id": "rfi-2026-08281",
