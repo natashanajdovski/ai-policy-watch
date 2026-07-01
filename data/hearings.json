@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119417",
     "title": "“A Midlife Crisis? IP and the Internet After 40”",
-    "last_updated": "2026-06-23T13:27:13Z",
+    "last_updated": "2026-06-30T19:04:24Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119417",
     "added_at": "2026-06-24T12:29:06.216Z",
     "scope_reason": "keyword_match",
@@ -10,12 +10,18 @@
       "artificial intelligence"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
     "chamber": "house",
     "date_time": "2026-06-30T14:00:00Z",
     "location": "2141, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Sean Astin, Screen Actors Guild – American Federation of Television and Radio Artists",
+      "Mr. Chris Floyd, Amblin Entertainment",
+      "Mr. Steve Francis, IP House",
+      "Mr. Christopher Mohr, Software and Information Industry Association",
+      "Dr. Bhamati Viswanathan, Kernochan Center for Law, Media and the Arts"
+    ],
     "cspan_url": null,
     "event_id": "119417"
   },
@@ -154,7 +160,7 @@
   {
     "id": "hearing-119-119338",
     "title": "\"Building an AI-Ready America: Higher Education in the Age of AI\"",
-    "last_updated": "2026-06-03T21:12:05Z",
+    "last_updated": "2026-06-30T17:49:34Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119338",
     "added_at": "2026-05-29T12:56:37.259Z",
     "scope_reason": "keyword_match",
