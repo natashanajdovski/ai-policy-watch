@@ -1,5 +1,26 @@
 [
   {
+    "id": "rfi-2026-13628",
+    "title": "Policy Statement Concerning the Suppression of Accuracy in Artificial Intelligence Systems",
+    "last_updated": "2026-07-07",
+    "source_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+    "added_at": "2026-07-07T12:36:24.229Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "open",
+    "agency": "Federal Trade Commission",
+    "docket_id": "File No. P264200",
+    "open_date": "2026-07-07",
+    "close_date": "2026-07-31",
+    "comment_submission_url": "https://www.regulations.gov/docket/File No. P264200",
+    "document_number": "2026-13628",
+    "document_type": "Notice"
+  },
+  {
     "id": "rfi-2026-11353",
     "title": "Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support",
     "last_updated": "2026-06-05",
