@@ -1,5 +1,47 @@
 [
   {
+    "id": "hearing-119-119444",
+    "title": "FY27 BIS Budget: the AI Arms Race and the ICTS Office",
+    "last_updated": "2026-07-07T14:18:57Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119444",
+    "added_at": "2026-07-08T11:55:46.699Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Foreign Affairs",
+    "chamber": "house",
+    "date_time": "2026-07-14T14:00:00Z",
+    "location": "2172, Rayburn House Office Building",
+    "witnesses": [
+      "The Honorable Jeffrey Kessler, U.S. Department of Commerce"
+    ],
+    "cspan_url": null,
+    "event_id": "119444"
+  },
+  {
+    "id": "hearing-119-119446",
+    "title": "“AI on Main Street: How AI is Shaping the Future of Small Business.”",
+    "last_updated": "2026-07-07T13:33:39Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119446",
+    "added_at": "2026-07-08T11:55:52.701Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Small Business",
+    "chamber": "house",
+    "date_time": "2026-07-14T14:00:00Z",
+    "location": "2360, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119446"
+  },
+  {
     "id": "hearing-119-119417",
     "title": "“A Midlife Crisis? IP and the Internet After 40”",
     "last_updated": "2026-07-06T16:41:29Z",
@@ -135,7 +177,7 @@
   {
     "id": "hearing-119-119346",
     "title": "“Medicines and IP: Balancing Innovation and Access”",
-    "last_updated": "2026-07-01T17:26:37Z",
+    "last_updated": "2026-07-07T18:03:42Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119346",
     "added_at": "2026-05-29T12:56:22.250Z",
     "scope_reason": "keyword_match",
@@ -820,26 +862,6 @@
     "event_id": "118560"
   },
   {
-    "id": "hearing-119-337317",
-    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
-    "added_at": "2026-04-17T23:57:04.074Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "538, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337317"
-  },
-  {
     "id": "hearing-119-337316",
     "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
     "last_updated": "2025-07-30T00:08:22Z",
@@ -858,6 +880,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337316"
+  },
+  {
+    "id": "hearing-119-337317",
+    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
+    "added_at": "2026-04-17T23:57:04.074Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "538, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337317"
   },
   {
     "id": "hearing-119-337253",
