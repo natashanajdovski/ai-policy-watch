@@ -177,7 +177,7 @@
   {
     "id": "hearing-119-119346",
     "title": "“Medicines and IP: Balancing Innovation and Access”",
-    "last_updated": "2026-07-07T18:03:42Z",
+    "last_updated": "2026-07-08T13:48:31Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119346",
     "added_at": "2026-05-29T12:56:22.250Z",
     "scope_reason": "keyword_match",
@@ -228,7 +228,7 @@
   {
     "id": "hearing-119-119310",
     "title": "“Court Packing: A Threat to the Supreme Court’s Legitimacy”",
-    "last_updated": "2026-06-22T17:49:10Z",
+    "last_updated": "2026-07-08T13:18:42Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119310",
     "added_at": "2026-05-14T12:02:03.362Z",
     "scope_reason": "keyword_match",
@@ -862,26 +862,6 @@
     "event_id": "118560"
   },
   {
-    "id": "hearing-119-337316",
-    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
-    "added_at": "2026-04-17T23:57:05.086Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Commerce, Science, and Transportation",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "253, Russell Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337316"
-  },
-  {
     "id": "hearing-119-337317",
     "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
     "last_updated": "2025-07-30T00:08:22Z",
@@ -900,6 +880,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337317"
+  },
+  {
+    "id": "hearing-119-337316",
+    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
+    "added_at": "2026-04-17T23:57:05.086Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337316"
   },
   {
     "id": "hearing-119-337253",
@@ -947,26 +947,6 @@
     "event_id": "118333"
   },
   {
-    "id": "hearing-119-336923",
-    "title": "Hearings to examine winning the AI race, focusing on strengthening United States capabilities in computing and innovation.",
-    "last_updated": "2025-07-16T14:47:24Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/336923",
-    "added_at": "2026-04-17T23:57:30.104Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Commerce, Science, and Transportation",
-    "chamber": "senate",
-    "date_time": "2025-05-08T14:00:00Z",
-    "location": "253, Russell Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "336923"
-  },
-  {
     "id": "hearing-119-118046",
     "title": "H.R. 1327, (Mr. Luttrell) the “Syria Terrorism Threat Assessment Act”; H.R. 1508, (Ms. Titus) the “DHS Special Events Program and Support Act”; H.R. 1736, (Mr. Pfluger) the “Generative AI Terrorism Risk Assessment Act”; H.R. 2116, (Mr. Evans of CO) the “Law Enforcement Support and Counter Transnational Repression Act”; H.R. 2139, (Mr. Magaziner) the “Strengthening State and Local Efforts to Counter Transnational Repression Act”; H.R. 2158, (Mr. Pfluger) the “Countering Transnational Repression Act of 2025”; H.R. 2212, (Mr. Mackenzie) the “DHS Intelligence Rotational Assignment Program and Law Enforcement Support Act”; H.R. 2259, (Mr. Tony Gonzales of TX) the “National Strategy for School Security Act of 2025”; H.R. 2261, (Mr. Hernández) the “Strengthening Oversight of DHS Intelligence Act\"; and H.R. 2285, (Ms. Pou) the “DHS Basic Training Accreditation Improvement Act of 2025”",
     "last_updated": "2026-05-14T21:04:29Z",
@@ -979,7 +959,7 @@
     ],
     "type": "hearing",
     "status": "past",
-    "committee": "Unknown committee",
+    "committee": "Homeland Security Subcommittee on Counterterrorism and Intelligence",
     "chamber": "house",
     "date_time": "2025-03-25T18:00:00Z",
     "location": "310, Cannon House Office Building",

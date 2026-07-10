@@ -42,6 +42,27 @@
     "document_type": "Proposed Rule"
   },
   {
+    "id": "rfi-2026-13928",
+    "title": "Proposed Information Collection; ATUS Artificial Intelligence (AI) Questions",
+    "last_updated": "2026-07-10",
+    "source_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13928/proposed-information-collection-atus-artificial-intelligence-ai-questions",
+    "added_at": "2026-07-10T12:35:29.705Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "open",
+    "agency": "Labor Department",
+    "docket_id": null,
+    "open_date": "2026-07-10",
+    "close_date": "2026-09-08",
+    "comment_submission_url": null,
+    "document_number": "2026-13928",
+    "document_type": "Notice"
+  },
+  {
     "id": "rfi-2026-10602",
     "title": "AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information; Extension of Comment Period",
     "last_updated": "2026-05-28",
