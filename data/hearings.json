@@ -1,5 +1,30 @@
 [
   {
+    "id": "hearing-119-119446",
+    "title": "“AI on Main Street: How AI is Shaping the Future of Small Business.”",
+    "last_updated": "2026-07-10T17:11:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119446",
+    "added_at": "2026-07-08T11:55:52.701Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Small Business",
+    "chamber": "house",
+    "date_time": "2026-07-14T14:00:00Z",
+    "location": "2360, Rayburn House Office Building",
+    "witnesses": [
+      "Mr. Jordan Crenshaw, U.S. Chamber of Commerce",
+      "Mr. Anthony Qaiyum, Merz Apothecary",
+      "Mr. France Hoang, BoodleBox",
+      "Mr. Chike Aguh, Kapor Center"
+    ],
+    "cspan_url": null,
+    "event_id": "119446"
+  },
+  {
     "id": "hearing-119-119444",
     "title": "FY27 BIS Budget: the AI Arms Race and the ICTS Office",
     "last_updated": "2026-07-07T14:18:57Z",
@@ -22,24 +47,44 @@
     "event_id": "119444"
   },
   {
-    "id": "hearing-119-119446",
-    "title": "“AI on Main Street: How AI is Shaping the Future of Small Business.”",
-    "last_updated": "2026-07-07T13:33:39Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119446",
-    "added_at": "2026-07-08T11:55:52.701Z",
+    "id": "hearing-119-119461",
+    "title": "Building the Future of Finance: How the CLARITY Act Unlocks Innovation",
+    "last_updated": "2026-07-10T16:33:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119461",
+    "added_at": "2026-07-11T11:16:05.684Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "chamber": "house",
+    "date_time": "2026-07-17T14:00:00Z",
+    "location": "{\"building_name\": \"Federal Hall National Memorial\", \"street-address\": \"15 Pine Street\", \"city\": \"New York\", \"state\": \"NY\", \"postal_code\": \"10005\"}",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119461"
+  },
+  {
+    "id": "hearing-119-119460",
+    "title": "“Building an AI-Ready America: How AI Is Creating Opportunities Across America's Workforce”",
+    "last_updated": "2026-07-10T14:03:29Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119460",
+    "added_at": "2026-07-11T11:16:08.685Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
       "ai"
     ],
     "type": "hearing",
     "status": "upcoming",
-    "committee": "House Small Business",
+    "committee": "House Education and Workforce",
     "chamber": "house",
-    "date_time": "2026-07-14T14:00:00Z",
-    "location": "2360, Rayburn House Office Building",
+    "date_time": "2026-07-24T14:00:00Z",
+    "location": "{\"building_name\": \"Georgia Cyber Innovation and Training Center, Hull McKnight Building, Augusta University\", \"street-address\": \"1 11th Street\", \"city\": \"Augusta\", \"state\": \"GA\", \"postal_code\": \"30901\"}",
     "witnesses": [],
     "cspan_url": null,
-    "event_id": "119446"
+    "event_id": "119460"
   },
   {
     "id": "hearing-119-119417",
