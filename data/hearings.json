@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119461",
     "title": "Building the Future of Finance: How the CLARITY Act Unlocks Innovation",
-    "last_updated": "2026-07-14T20:57:22Z",
+    "last_updated": "2026-07-15T19:12:06Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119461",
     "added_at": "2026-07-11T11:16:05.684Z",
     "scope_reason": "keyword_match",
@@ -16,10 +16,10 @@
     "date_time": "2026-07-17T14:00:00Z",
     "location": "{\"building_name\": \"Federal Hall National Memorial\", \"street-address\": \"15 Pine Street\", \"city\": \"New York\", \"state\": \"NY\", \"postal_code\": \"10005\"}",
     "witnesses": [
-      "Ms. Sarah Aberg, Nova Labs Inc.",
       "Ms. Randi Abernethy, Bullish",
       "Mr. Ryan Louvar, WisdomTree",
-      "Mr. Jason Somensatto, Coin Center"
+      "Mr. Jason Somensatto, Coin Center",
+      "Ms. Sarah Aberg, Nova Labs Inc."
     ],
     "cspan_url": null,
     "event_id": "119461"
@@ -45,31 +45,9 @@
     "event_id": "119460"
   },
   {
-    "id": "hearing-119-119444",
-    "title": "FY27 BIS Budget: the AI Arms Race and the ICTS Office",
-    "last_updated": "2026-07-14T18:27:15Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119444",
-    "added_at": "2026-07-08T11:55:46.699Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Foreign Affairs",
-    "chamber": "house",
-    "date_time": "2026-07-14T14:00:00Z",
-    "location": "2172, Rayburn House Office Building",
-    "witnesses": [
-      "The Honorable Jeffrey Kessler, U.S. Department of Commerce"
-    ],
-    "cspan_url": null,
-    "event_id": "119444"
-  },
-  {
     "id": "hearing-119-119446",
     "title": "“AI on Main Street: How AI is Shaping the Future of Small Business.”",
-    "last_updated": "2026-07-14T17:34:17Z",
+    "last_updated": "2026-07-15T19:20:09Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119446",
     "added_at": "2026-07-08T11:55:52.701Z",
     "scope_reason": "keyword_match",
@@ -90,6 +68,28 @@
     ],
     "cspan_url": null,
     "event_id": "119446"
+  },
+  {
+    "id": "hearing-119-119444",
+    "title": "FY27 BIS Budget: the AI Arms Race and the ICTS Office",
+    "last_updated": "2026-07-14T18:27:15Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119444",
+    "added_at": "2026-07-08T11:55:46.699Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Foreign Affairs",
+    "chamber": "house",
+    "date_time": "2026-07-14T14:00:00Z",
+    "location": "2172, Rayburn House Office Building",
+    "witnesses": [
+      "The Honorable Jeffrey Kessler, U.S. Department of Commerce"
+    ],
+    "cspan_url": null,
+    "event_id": "119444"
   },
   {
     "id": "hearing-119-119417",
@@ -598,31 +598,6 @@
     "event_id": "338022"
   },
   {
-    "id": "hearing-119-118980",
-    "title": "\"Building an AI-Ready America: Teaching in the AI Age\"",
-    "last_updated": "2026-03-19T14:05:02Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118980",
-    "added_at": "2026-04-17T23:42:54.434Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Education and Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education",
-    "chamber": "house",
-    "date_time": "2026-02-24T19:00:00Z",
-    "location": "2175, Rayburn House Office Building",
-    "witnesses": [
-      "Ms. Michele Blatt, West Virginia Department of Education",
-      "Mr. Aneesh Sohoni, Teach for America",
-      "Dr. David Slykhuis",
-      "Mrs. Allyson Knox, Microsoft"
-    ],
-    "cspan_url": null,
-    "event_id": "118980"
-  },
-  {
     "id": "hearing-119-118969",
     "title": "Powering America's AI Future: Assessing Policy Options to Increase Data Center Infrastructure",
     "last_updated": "2026-04-22T13:26:46Z",
@@ -887,26 +862,6 @@
     "event_id": "118560"
   },
   {
-    "id": "hearing-119-337316",
-    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
-    "added_at": "2026-04-17T23:57:05.086Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Commerce, Science, and Transportation",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "253, Russell Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337316"
-  },
-  {
     "id": "hearing-119-337317",
     "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
     "last_updated": "2025-07-30T00:08:22Z",
@@ -925,6 +880,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337317"
+  },
+  {
+    "id": "hearing-119-337316",
+    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
+    "last_updated": "2025-07-30T00:08:22Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
+    "added_at": "2026-04-17T23:57:05.086Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Commerce, Science, and Transportation",
+    "chamber": "senate",
+    "date_time": "2025-07-30T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "337316"
   },
   {
     "id": "hearing-119-337253",
