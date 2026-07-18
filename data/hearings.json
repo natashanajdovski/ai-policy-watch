@@ -1,28 +1,23 @@
 [
   {
-    "id": "hearing-119-119461",
-    "title": "Building the Future of Finance: How the CLARITY Act Unlocks Innovation",
-    "last_updated": "2026-07-15T19:12:06Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119461",
-    "added_at": "2026-07-11T11:16:05.684Z",
+    "id": "hearing-119-119491",
+    "title": "H.R. 8781, \"Title IX Clarification Act of 2026\"; H.R. 4986, \"Parents Opt-in Protection Act\"; H.R. 8747, \"K-12 AI Literacy and Readiness Act of 2026\"; H.R. 8183, \"Modernizing Access to Talents, Credentials, and Hiring (MATCH) Act of 2026\"; H.R. 9723, \"Fit Future Act\"; H.R. 8660, \"Valuing Employee Stock Today Act\"; H.R. 8347, \"Reinforcing Underserved, Rural, and Local (RURAL) Healthcare Act\"; H.R. 6213, \"Heat Workforce Standards Act of 2025\"; H.R. 8775, \"Ending Predator Access to Union Power Act\"; H.R. 5267, \"American Franchise Act\"",
+    "last_updated": "2026-07-17T14:27:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119491",
+    "added_at": "2026-07-18T11:15:49.447Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "hearing",
     "status": "upcoming",
-    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "committee": "House Education and Workforce",
     "chamber": "house",
-    "date_time": "2026-07-17T14:00:00Z",
-    "location": "{\"building_name\": \"Federal Hall National Memorial\", \"street-address\": \"15 Pine Street\", \"city\": \"New York\", \"state\": \"NY\", \"postal_code\": \"10005\"}",
-    "witnesses": [
-      "Ms. Randi Abernethy, Bullish",
-      "Mr. Ryan Louvar, WisdomTree",
-      "Mr. Jason Somensatto, Coin Center",
-      "Ms. Sarah Aberg, Nova Labs Inc."
-    ],
+    "date_time": "2026-07-21T14:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [],
     "cspan_url": null,
-    "event_id": "119461"
+    "event_id": "119491"
   },
   {
     "id": "hearing-119-119460",
@@ -43,6 +38,31 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "119460"
+  },
+  {
+    "id": "hearing-119-119461",
+    "title": "Building the Future of Finance: How the CLARITY Act Unlocks Innovation",
+    "last_updated": "2026-07-15T19:12:06Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119461",
+    "added_at": "2026-07-11T11:16:05.684Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "chamber": "house",
+    "date_time": "2026-07-17T14:00:00Z",
+    "location": "{\"building_name\": \"Federal Hall National Memorial\", \"street-address\": \"15 Pine Street\", \"city\": \"New York\", \"state\": \"NY\", \"postal_code\": \"10005\"}",
+    "witnesses": [
+      "Ms. Randi Abernethy, Bullish",
+      "Mr. Ryan Louvar, WisdomTree",
+      "Mr. Jason Somensatto, Coin Center",
+      "Ms. Sarah Aberg, Nova Labs Inc."
+    ],
+    "cspan_url": null,
+    "event_id": "119461"
   },
   {
     "id": "hearing-119-119446",
@@ -553,31 +573,6 @@
     "event_id": "338066"
   },
   {
-    "id": "hearing-119-119008",
-    "title": "\"Building an AI-Ready America: Strengthening Employer-Led Training\"",
-    "last_updated": "2026-03-19T16:35:13Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119008",
-    "added_at": "2026-04-17T23:42:50.426Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Education and Workforce Subcommittee on Higher Education and Workforce Development",
-    "chamber": "house",
-    "date_time": "2026-03-04T15:15:00Z",
-    "location": "2175, Rayburn House Office Building",
-    "witnesses": [
-      "Mr. Brent Parton, CareerWise",
-      "Ms. Mary Kate Morley Ryan, Transformation Americas, Accenture",
-      "Dr. Scott Ralls, Wake Technical Community College",
-      "Mr. Tim House, Wireless Infrastructure Association"
-    ],
-    "cspan_url": null,
-    "event_id": "119008"
-  },
-  {
     "id": "hearing-119-338022",
     "title": "Hearings to examine AI that improves safety, productivity, and care.",
     "last_updated": "2026-03-03T00:23:23Z",
@@ -650,35 +645,6 @@
     ],
     "cspan_url": null,
     "event_id": "118953"
-  },
-  {
-    "id": "hearing-119-118908",
-    "title": "“Building an AI-Ready America: Adopting AI at Work”",
-    "last_updated": "2026-03-20T14:33:54Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118908",
-    "added_at": "2026-04-17T23:42:49.425Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Education and Workforce Subcommittee on Health, Employment, Labor, and Pensions",
-    "chamber": "house",
-    "date_time": "2026-02-03T15:15:00Z",
-    "location": "2175, Rayburn House Office Building",
-    "witnesses": [
-      "Ms. Revana Sharfuddin, Mercatus Center at George Mason University",
-      "Mr. David Walton, Fisher Phillips",
-      "Mr. Bradford Kelley, Littler Mendelson P.C.",
-      "Ms. Revana Sharfuddin, Mercatus Center at George Mason University",
-      "Ms. Tanya Goldman, Workshop",
-      "Mr. David Walton, Fisher Phillips",
-      "Mr. Bradford Kelley, Littler Mendelson P.C.",
-      "Ms. Tanya Goldman, Workshop"
-    ],
-    "cspan_url": null,
-    "event_id": "118908"
   },
   {
     "id": "hearing-119-118817",
