@@ -267,25 +267,5 @@
     "comment_submission_url": null,
     "document_number": "2025-14744",
     "document_type": "Notice"
-  },
-  {
-    "id": "rfi-2025-13650",
-    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education",
-    "last_updated": "2025-07-21",
-    "source_url": "https://www.federalregister.gov/documents/2025/07/21/2025-13650/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing",
-    "added_at": "2026-04-17T23:39:35.884Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "rfi",
-    "status": "closed",
-    "agency": "Education Department",
-    "docket_id": "ED-2025-OS-0118",
-    "open_date": "2025-07-21",
-    "close_date": "2025-08-20",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0118",
-    "document_number": "2025-13650",
-    "document_type": "Proposed Rule"
   }
 ]
