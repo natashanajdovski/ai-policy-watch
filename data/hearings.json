@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119460",
     "title": "“Building an AI-Ready America: How AI Is Creating Opportunities Across America's Workforce”",
-    "last_updated": "2026-07-10T14:03:29Z",
+    "last_updated": "2026-07-22T17:12:24Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119460",
     "added_at": "2026-07-11T11:16:08.685Z",
     "scope_reason": "keyword_match",
@@ -15,14 +15,60 @@
     "chamber": "house",
     "date_time": "2026-07-24T14:00:00Z",
     "location": "{\"building_name\": \"Georgia Cyber Innovation and Training Center, Hull McKnight Building, Augusta University\", \"street-address\": \"1 11th Street\", \"city\": \"Augusta\", \"state\": \"GA\", \"postal_code\": \"30901\"}",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Ajikumar Parayil, Manus Bio",
+      "Mr. Brad Edenfield, RT Farms, Inc.",
+      "Mr. Tony Barlow, Communications Workers of America, Local 3204",
+      "Dr. Jeffery Talbert, Medical College of Georgia, Augusta University"
+    ],
     "cspan_url": null,
     "event_id": "119460"
   },
   {
+    "id": "hearing-119-338686",
+    "title": "Hearings to examine the impact of AI on the workplace.",
+    "last_updated": "2026-07-22T22:08:25Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338686",
+    "added_at": "2026-07-23T12:14:46.058Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Health, Education, Labor, and Pensions Subcommittee on Employment and Workplace Safety",
+    "chamber": "senate",
+    "date_time": "2026-07-29T18:00:00Z",
+    "location": "430, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338686"
+  },
+  {
+    "id": "hearing-119-338685",
+    "title": "Hearings to examine the AI deception machine, focusing on deepfakes, chatbots, and the new frontier of senior fraud.",
+    "last_updated": "2026-07-22T20:08:26Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338685",
+    "added_at": "2026-07-23T12:14:49.061Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "deepfake",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Aging (Special)",
+    "chamber": "senate",
+    "date_time": "2026-07-29T19:30:00Z",
+    "location": "562, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338685"
+  },
+  {
     "id": "hearing-119-119491",
     "title": "H.R. 8781, \"Title IX Clarification Act of 2026\"; H.R. 4986, \"Parents Opt-in Protection Act\"; H.R. 8747, \"K-12 AI Literacy and Readiness Act of 2026\"; H.R. 8183, \"Modernizing Access to Talents, Credentials, and Hiring (MATCH) Act of 2026\"; H.R. 9723, \"Fit Future Act\"; H.R. 8660, \"Valuing Employee Stock Today Act\"; H.R. 8347, \"Reinforcing Underserved, Rural, and Local (RURAL) Healthcare Act\"; H.R. 6213, \"Heat Workforce Standards Act of 2025\"; H.R. 8775, \"Ending Predator Access to Union Power Act\"; H.R. 5267, \"American Franchise Act\"",
-    "last_updated": "2026-07-21T21:58:08Z",
+    "last_updated": "2026-07-22T21:13:01Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119491",
     "added_at": "2026-07-18T11:15:49.447Z",
     "scope_reason": "keyword_match",
@@ -68,7 +114,7 @@
   {
     "id": "hearing-119-119446",
     "title": "“AI on Main Street: How AI is Shaping the Future of Small Business.”",
-    "last_updated": "2026-07-20T19:57:37Z",
+    "last_updated": "2026-07-22T20:20:10Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119446",
     "added_at": "2026-07-08T11:55:52.701Z",
     "scope_reason": "keyword_match",
@@ -828,46 +874,6 @@
     ],
     "cspan_url": null,
     "event_id": "118560"
-  },
-  {
-    "id": "hearing-119-337317",
-    "title": "Hearings to examine guardrails and growth, focusing on AI's role in capital and insurance markets.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337317",
-    "added_at": "2026-04-17T23:57:04.074Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Banking, Housing, and Urban Affairs Subcommittee on Securities, Insurance, and Investment",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "538, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337317"
-  },
-  {
-    "id": "hearing-119-337316",
-    "title": "Business meeting to consider S.1691, to limit the use of facial recognition technology in airports, S.2314, to direct the Secretary of Commerce to establish a task force regarding shark depredation, S.2318, to amend the National Institute of Standards and Technology Act to require the periodic update to the strategic plan to guide the Manufacturing USA Program to align with the mandatory updates to the National Strategy for Advanced Manufacturing, S.2351, to supplement existing lease authorities available to the Administrator of the National Aeronautics and Space Administration to support research, education, and training, and the nominations of Neil Jacobs, of North Carolina, to be Under Secretary for Oceans and Atmosphere, Taylor Jordan, of the District of Columbia, to be an Assistant Secretary, and Harry Kumar, of New York, to be an Assistant Secretary, all of the Department of Commerce, Paul Roberti, of Rhode Island, to be Administrator of the Pipeline and Hazardous Materials Safety Administration, Jonathan Morrison, of California, to be Administrator of the National Highway Traffic Safety Administration, Seval Oz, of California, to be an Assistant Secretary, Michael Rutherford, of Florida, to be an Assistant Secretary, and Gregory Zerzan, of Texas, to be General Counsel, all of the Department of Transportation, and Derek Barrs, of Florida, to be Administrator of the Federal Motor Carrier Safety Administration.",
-    "last_updated": "2025-07-30T00:08:22Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337316",
-    "added_at": "2026-04-17T23:57:05.086Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Commerce, Science, and Transportation",
-    "chamber": "senate",
-    "date_time": "2025-07-30T14:00:00Z",
-    "location": "253, Russell Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337316"
   },
   {
     "id": "hearing-119-337253",
