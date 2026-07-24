@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119460",
     "title": "“Building an AI-Ready America: How AI Is Creating Opportunities Across America's Workforce”",
-    "last_updated": "2026-07-22T17:12:24Z",
+    "last_updated": "2026-07-23T16:28:32Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119460",
     "added_at": "2026-07-11T11:16:08.685Z",
     "scope_reason": "keyword_match",
@@ -64,6 +64,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338685"
+  },
+  {
+    "id": "hearing-119-338689",
+    "title": "Hearings to examine intelligent networks, focusing on powering artificial intelligence and transforming communications.",
+    "last_updated": "2026-07-24T00:08:20Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338689",
+    "added_at": "2026-07-24T12:04:34.577Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Commerce, Science, and Transportation Subcommittee on Telecommunications and Media",
+    "chamber": "senate",
+    "date_time": "2026-07-30T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338689"
   },
   {
     "id": "hearing-119-119491",
