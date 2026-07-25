@@ -1,30 +1,5 @@
 [
   {
-    "id": "hearing-119-119460",
-    "title": "“Building an AI-Ready America: How AI Is Creating Opportunities Across America's Workforce”",
-    "last_updated": "2026-07-23T16:28:32Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119460",
-    "added_at": "2026-07-11T11:16:08.685Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "House Education and Workforce",
-    "chamber": "house",
-    "date_time": "2026-07-24T14:00:00Z",
-    "location": "{\"building_name\": \"Georgia Cyber Innovation and Training Center, Hull McKnight Building, Augusta University\", \"street-address\": \"1 11th Street\", \"city\": \"Augusta\", \"state\": \"GA\", \"postal_code\": \"30901\"}",
-    "witnesses": [
-      "Mr. Ajikumar Parayil, Manus Bio",
-      "Mr. Brad Edenfield, RT Farms, Inc.",
-      "Mr. Tony Barlow, Communications Workers of America, Local 3204",
-      "Dr. Jeffery Talbert, Medical College of Georgia, Augusta University"
-    ],
-    "cspan_url": null,
-    "event_id": "119460"
-  },
-  {
     "id": "hearing-119-338686",
     "title": "Hearings to examine the impact of AI on the workplace.",
     "last_updated": "2026-07-22T22:08:25Z",
@@ -84,6 +59,31 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338689"
+  },
+  {
+    "id": "hearing-119-119460",
+    "title": "“Building an AI-Ready America: How AI Is Creating Opportunities Across America's Workforce”",
+    "last_updated": "2026-07-24T14:03:26Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119460",
+    "added_at": "2026-07-11T11:16:08.685Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce",
+    "chamber": "house",
+    "date_time": "2026-07-24T14:00:00Z",
+    "location": "{\"building_name\": \"Georgia Cyber Innovation and Training Center, Hull McKnight Building, Augusta University\", \"street-address\": \"1 11th Street\", \"city\": \"Augusta\", \"state\": \"GA\", \"postal_code\": \"30901\"}",
+    "witnesses": [
+      "Mr. Ajikumar Parayil, Manus Bio",
+      "Dr. Jeffery Talbert, Medical College of Georgia, Augusta University",
+      "Mr. Brad Edenfield, RT Farms, Inc.",
+      "Mr. Tony Barlow, Communications Workers of America, Local 3204"
+    ],
+    "cspan_url": null,
+    "event_id": "119460"
   },
   {
     "id": "hearing-119-119491",
