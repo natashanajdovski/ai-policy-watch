@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-338686",
     "title": "Hearings to examine the impact of AI on the workplace.",
-    "last_updated": "2026-07-22T22:08:25Z",
+    "last_updated": "2026-07-29T00:08:25Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338686",
     "added_at": "2026-07-23T12:14:46.058Z",
     "scope_reason": "keyword_match",
@@ -22,7 +22,7 @@
   {
     "id": "hearing-119-338685",
     "title": "Hearings to examine the AI deception machine, focusing on deepfakes, chatbots, and the new frontier of senior fraud.",
-    "last_updated": "2026-07-22T20:08:26Z",
+    "last_updated": "2026-07-29T00:08:25Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338685",
     "added_at": "2026-07-23T12:14:49.061Z",
     "scope_reason": "keyword_match",
@@ -34,7 +34,7 @@
     "status": "upcoming",
     "committee": "Senate Aging (Special)",
     "chamber": "senate",
-    "date_time": "2026-07-29T19:30:00Z",
+    "date_time": "2026-07-29T19:45:00Z",
     "location": "562, Dirksen Senate Office Building",
     "witnesses": [],
     "cspan_url": null,
@@ -59,6 +59,26 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338689"
+  },
+  {
+    "id": "hearing-119-338698",
+    "title": "Hearings to examine data and profit, focusing on the consumer cost of AI surveillance pricing.",
+    "last_updated": "2026-07-29T00:08:26Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338698",
+    "added_at": "2026-07-29T12:20:53.909Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
+    "chamber": "senate",
+    "date_time": "2026-08-04T18:30:00Z",
+    "location": "226, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338698"
   },
   {
     "id": "hearing-119-119460",
