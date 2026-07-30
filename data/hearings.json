@@ -1,49 +1,8 @@
 [
   {
-    "id": "hearing-119-338686",
-    "title": "Hearings to examine the impact of AI on the workplace.",
-    "last_updated": "2026-07-29T00:08:25Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338686",
-    "added_at": "2026-07-23T12:14:46.058Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "Senate Health, Education, Labor, and Pensions Subcommittee on Employment and Workplace Safety",
-    "chamber": "senate",
-    "date_time": "2026-07-29T18:00:00Z",
-    "location": "430, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "338686"
-  },
-  {
-    "id": "hearing-119-338685",
-    "title": "Hearings to examine the AI deception machine, focusing on deepfakes, chatbots, and the new frontier of senior fraud.",
-    "last_updated": "2026-07-29T00:08:25Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338685",
-    "added_at": "2026-07-23T12:14:49.061Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "deepfake",
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "upcoming",
-    "committee": "Senate Aging (Special)",
-    "chamber": "senate",
-    "date_time": "2026-07-29T19:45:00Z",
-    "location": "562, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "338685"
-  },
-  {
     "id": "hearing-119-338689",
     "title": "Hearings to examine intelligent networks, focusing on powering artificial intelligence and transforming communications.",
-    "last_updated": "2026-07-24T00:08:20Z",
+    "last_updated": "2026-07-30T00:08:22Z",
     "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338689",
     "added_at": "2026-07-24T12:04:34.577Z",
     "scope_reason": "keyword_match",
@@ -79,6 +38,68 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "338698"
+  },
+  {
+    "id": "hearing-119-338704",
+    "title": "Business meeting to markup S.737, to require certain interactive computer services to adopt and operate technology verification measures to ensure that users of the platform are not minors, S.1748, to protect the safety of children on the internet, S.4199, to require entities that make artificial intelligence chatbots available to minors to implement certain safe design features, S.4407, to require the creation of family accounts for children to be able to use artificial intelligence chatbots, to require verifiable parental consent for teens using artificial intelligence chatbots, S.5171, to require a study of AI-enabled toys and development of a joint action plan regarding the marketing and sale of AI-enabled toys, and a promotion list in the Coast Guard.",
+    "last_updated": "2026-07-30T01:08:23Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338704",
+    "added_at": "2026-07-30T12:12:24.723Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "Unknown committee",
+    "chamber": "senate",
+    "date_time": "2026-08-05T14:00:00Z",
+    "location": "253, Russell Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338704"
+  },
+  {
+    "id": "hearing-119-338685",
+    "title": "Hearings to examine the AI deception machine, focusing on deepfakes, chatbots, and the new frontier of senior fraud.",
+    "last_updated": "2026-07-29T00:08:25Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338685",
+    "added_at": "2026-07-23T12:14:49.061Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "deepfake",
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Aging (Special)",
+    "chamber": "senate",
+    "date_time": "2026-07-29T19:45:00Z",
+    "location": "562, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338685"
+  },
+  {
+    "id": "hearing-119-338686",
+    "title": "Hearings to examine the impact of AI on the workplace.",
+    "last_updated": "2026-07-29T00:08:25Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338686",
+    "added_at": "2026-07-23T12:14:46.058Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Health, Education, Labor, and Pensions Subcommittee on Employment and Workplace Safety",
+    "chamber": "senate",
+    "date_time": "2026-07-29T18:00:00Z",
+    "location": "430, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338686"
   },
   {
     "id": "hearing-119-119460",
