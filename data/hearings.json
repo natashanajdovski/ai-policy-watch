@@ -11,7 +11,7 @@
       "ai"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "Senate Commerce, Science, and Transportation",
     "chamber": "senate",
     "date_time": "2026-08-05T14:00:00Z",
@@ -222,7 +222,7 @@
   {
     "id": "hearing-119-119417",
     "title": "“A Midlife Crisis? IP and the Internet After 40”",
-    "last_updated": "2026-07-21T21:58:26Z",
+    "last_updated": "2026-08-05T17:36:19Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119417",
     "added_at": "2026-06-24T12:29:06.216Z",
     "scope_reason": "keyword_match",
