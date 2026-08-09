@@ -1,5 +1,34 @@
 [
   {
+    "id": "bill-119-s5382",
+    "title": "A bill to require a report on the artificial intelligence power of the People's Republic of China.",
+    "last_updated": "2026-08-08T16:37:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
+    "added_at": "2026-08-09T10:37:25.161Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5382",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Husted, Jon [R-OH]",
+      "party": "R",
+      "state": "OH",
+      "bioguide_id": "H001104"
+    },
+    "introduced_date": "2026-08-07",
+    "last_action_date": "2026-08-07",
+    "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10044",
     "title": "AI Tax and Work Protection Act",
     "last_updated": "2026-08-08T08:06:18Z",
@@ -31,7 +60,7 @@
   {
     "id": "bill-119-s5358",
     "title": "A bill to amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.",
-    "last_updated": "2026-08-07T10:56:31Z",
+    "last_updated": "2026-08-08T15:25:28Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
     "added_at": "2026-08-08T10:35:59.870Z",
     "scope_reason": "keyword_match",
@@ -60,7 +89,7 @@
   {
     "id": "bill-119-s5307",
     "title": "A bill to require a strategy to align immigration-related policies with the national interest in ensuring United States leadership and dominance in artificial intelligence and in strengthening the broader ecosystem of scientific, technological, and entrepreneurial innovation, while protecting national security.",
-    "last_updated": "2026-08-07T10:56:44Z",
+    "last_updated": "2026-08-08T15:25:41Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
     "added_at": "2026-08-08T10:36:02.875Z",
     "scope_reason": "keyword_match",
@@ -84,6 +113,35 @@
     "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
     "committee": null,
     "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s5345",
+    "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
+    "last_updated": "2026-08-08T16:37:25Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
+    "added_at": "2026-08-09T10:37:28.163Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5345",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Slotkin, Elissa [D-MI]",
+      "party": "D",
+      "state": "MI",
+      "bioguide_id": "S001208"
+    },
+    "introduced_date": "2026-08-06",
+    "last_action_date": "2026-08-06",
+    "last_action_text": "Read twice and referred to the Committee on Armed Services.",
+    "committee": null,
+    "cosponsors_count": null,
     "policy_area": null
   },
   {
@@ -147,7 +205,7 @@
   {
     "id": "bill-119-s5252",
     "title": "A bill to prevent foreign adversaries from threatening the national security of the United States by extracting key technical features of closed-source, United States-owned artificial intelligence models, and for other purposes.",
-    "last_updated": "2026-08-06T10:56:32Z",
+    "last_updated": "2026-08-08T16:37:26Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5252",
     "added_at": "2026-08-06T12:04:48.341Z",
     "scope_reason": "keyword_match",
@@ -170,7 +228,7 @@
     "last_action_date": "2026-08-05",
     "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "committee": null,
-    "cosponsors_count": 3,
+    "cosponsors_count": 5,
     "policy_area": null
   },
   {
@@ -725,6 +783,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-s5057",
+    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
+    "last_updated": "2026-08-08T16:48:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
+    "added_at": "2026-07-22T11:51:41.477Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5057",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Warner, Mark R. [D-VA]",
+      "party": "D",
+      "state": "VA",
+      "bioguide_id": "W000805"
+    },
+    "introduced_date": "2026-07-21",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s5047",
     "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
     "last_updated": "2026-07-31T15:18:44Z",
@@ -781,35 +868,6 @@
     "committee": null,
     "cosponsors_count": 19,
     "policy_area": "Energy"
-  },
-  {
-    "id": "bill-119-s5057",
-    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
-    "last_updated": "2026-07-30T01:53:20Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
-    "added_at": "2026-07-22T11:51:41.477Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5057",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Warner, Mark R. [D-VA]",
-      "party": "D",
-      "state": "VA",
-      "bioguide_id": "W000805"
-    },
-    "introduced_date": "2026-07-21",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
   },
   {
     "id": "bill-119-s5061",
