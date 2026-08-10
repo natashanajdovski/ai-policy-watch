@@ -754,35 +754,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-s5051",
-    "title": "AI AGENT Act of 2026",
-    "last_updated": "2026-08-03T03:33:32Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5051",
-    "added_at": "2026-07-28T12:00:09.157Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5051",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Warner, Mark R. [D-VA]",
-      "party": "D",
-      "state": "VA",
-      "bioguide_id": "W000805"
-    },
-    "introduced_date": "2026-07-21",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-s5057",
     "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
     "last_updated": "2026-08-08T16:48:22Z",
@@ -810,6 +781,35 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": null
+  },
+  {
+    "id": "bill-119-s5051",
+    "title": "AI AGENT Act of 2026",
+    "last_updated": "2026-08-03T03:33:32Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5051",
+    "added_at": "2026-07-28T12:00:09.157Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5051",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Warner, Mark R. [D-VA]",
+      "party": "D",
+      "state": "VA",
+      "bioguide_id": "W000805"
+    },
+    "introduced_date": "2026-07-21",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5047",
