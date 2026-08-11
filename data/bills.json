@@ -2,7 +2,7 @@
   {
     "id": "bill-119-s5382",
     "title": "A bill to require a report on the artificial intelligence power of the People's Republic of China.",
-    "last_updated": "2026-08-08T16:37:22Z",
+    "last_updated": "2026-08-10T17:20:49Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
     "added_at": "2026-08-09T10:37:25.161Z",
     "scope_reason": "keyword_match",
@@ -26,35 +26,6 @@
     "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr10044",
-    "title": "AI Tax and Work Protection Act",
-    "last_updated": "2026-08-08T08:06:18Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
-    "added_at": "2026-08-07T10:54:28.322Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10044",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Casar, Greg [D-TX-35]",
-      "party": "D",
-      "state": "TX",
-      "bioguide_id": "C001131"
-    },
-    "introduced_date": "2026-08-06",
-    "last_action_date": "2026-08-06",
-    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 2,
     "policy_area": null
   },
   {
@@ -89,7 +60,7 @@
   {
     "id": "bill-119-s5307",
     "title": "A bill to require a strategy to align immigration-related policies with the national interest in ensuring United States leadership and dominance in artificial intelligence and in strengthening the broader ecosystem of scientific, technological, and entrepreneurial innovation, while protecting national security.",
-    "last_updated": "2026-08-08T15:25:41Z",
+    "last_updated": "2026-08-10T11:51:27Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
     "added_at": "2026-08-08T10:36:02.875Z",
     "scope_reason": "keyword_match",
@@ -116,9 +87,38 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hr10044",
+    "title": "AI Tax and Work Protection Act",
+    "last_updated": "2026-08-08T08:06:18Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
+    "added_at": "2026-08-07T10:54:28.322Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10044",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Casar, Greg [D-TX-35]",
+      "party": "D",
+      "state": "TX",
+      "bioguide_id": "C001131"
+    },
+    "introduced_date": "2026-08-06",
+    "last_action_date": "2026-08-06",
+    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s5345",
     "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
-    "last_updated": "2026-08-08T16:37:25Z",
+    "last_updated": "2026-08-10T17:20:51Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
     "added_at": "2026-08-09T10:37:28.163Z",
     "scope_reason": "keyword_match",
@@ -379,7 +379,7 @@
   {
     "id": "bill-119-hr9965",
     "title": "AI Threat Output and Monitoring Incident Containment Act",
-    "last_updated": "2026-07-31T05:23:23Z",
+    "last_updated": "2026-08-10T13:30:07Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9965",
     "added_at": "2026-07-28T12:00:20.231Z",
     "scope_reason": "keyword_match",
@@ -403,7 +403,7 @@
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5135",
@@ -435,35 +435,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr9939",
-    "title": "No AI Data Centers on Federal Lands Act",
-    "last_updated": "2026-08-04T08:07:01Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-    "added_at": "2026-07-24T11:46:33.606Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9939",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Tlaib, Rashida [D-MI-12]",
-      "party": "D",
-      "state": "MI",
-      "bioguide_id": "T000481"
-    },
-    "introduced_date": "2026-07-23",
-    "last_action_date": "2026-07-23",
-    "last_action_text": "Referred to the House Committee on Natural Resources.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr9907",
     "title": "LEARN AI Act",
     "last_updated": "2026-08-06T16:35:14Z",
@@ -491,6 +462,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Labor and Employment"
+  },
+  {
+    "id": "bill-119-hr9939",
+    "title": "No AI Data Centers on Federal Lands Act",
+    "last_updated": "2026-08-04T08:07:01Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+    "added_at": "2026-07-24T11:46:33.606Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9939",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Tlaib, Rashida [D-MI-12]",
+      "party": "D",
+      "state": "MI",
+      "bioguide_id": "T000481"
+    },
+    "introduced_date": "2026-07-23",
+    "last_action_date": "2026-07-23",
+    "last_action_text": "Referred to the House Committee on Natural Resources.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": null
   },
   {
     "id": "bill-119-hr9922",
@@ -756,7 +756,7 @@
   {
     "id": "bill-119-s5057",
     "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
-    "last_updated": "2026-08-08T16:48:22Z",
+    "last_updated": "2026-08-10T17:33:28Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
     "added_at": "2026-07-22T11:51:41.477Z",
     "scope_reason": "keyword_match",
@@ -2727,6 +2727,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-s4402",
+    "title": "A bill to require a report on the use of artificial intelligence with respect to access to unminimized information collected pursuant to the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+    "last_updated": "2026-08-10T11:51:27Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4402",
+    "added_at": "2026-04-28T11:48:00.568Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4402",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Schiff, Adam B. [D-CA]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "S001150"
+    },
+    "introduced_date": "2026-04-27",
+    "last_action_date": "2026-04-27",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
     "id": "bill-119-hr8516",
     "title": "American Leadership in AI Act",
     "last_updated": "2026-07-17T23:40:46Z",
@@ -2783,35 +2812,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Health"
-  },
-  {
-    "id": "bill-119-s4402",
-    "title": "A bill to require a report on the use of artificial intelligence with respect to access to unminimized information collected pursuant to the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
-    "last_updated": "2026-05-08T20:39:07Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4402",
-    "added_at": "2026-04-28T11:48:00.568Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.4402",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Schiff, Adam B. [D-CA]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "S001150"
-    },
-    "introduced_date": "2026-04-27",
-    "last_action_date": "2026-04-27",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr8488",
@@ -3191,6 +3191,35 @@
     "policy_area": "Law"
   },
   {
+    "id": "bill-119-s4154",
+    "title": "Research and Oversight of AI in Courts Act of 2026",
+    "last_updated": "2026-08-10T11:51:27Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4154",
+    "added_at": "2026-04-18T01:39:54.929Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4154",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Wicker, Roger F. [R-MS]",
+      "party": "R",
+      "state": "MS",
+      "bioguide_id": "W000437"
+    },
+    "introduced_date": "2026-03-19",
+    "last_action_date": "2026-03-19",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": "Law"
+  },
+  {
     "id": "bill-119-s3952",
     "title": "Future of Artificial Intelligence Innovation Act of 2026",
     "last_updated": "2026-07-30T16:27:18Z",
@@ -3276,35 +3305,6 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": "Finance and Financial Sector"
-  },
-  {
-    "id": "bill-119-s4154",
-    "title": "Research and Oversight of AI in Courts Act of 2026",
-    "last_updated": "2026-04-06T13:24:39Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4154",
-    "added_at": "2026-04-18T01:39:54.929Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.4154",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Wicker, Roger F. [R-MS]",
-      "party": "R",
-      "state": "MS",
-      "bioguide_id": "W000437"
-    },
-    "introduced_date": "2026-03-19",
-    "last_action_date": "2026-03-19",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": "Law"
   },
   {
     "id": "bill-119-hr7968",
@@ -4904,6 +4904,35 @@
     "policy_area": "International Affairs"
   },
   {
+    "id": "bill-119-s2937",
+    "title": "AI LEAD Act",
+    "last_updated": "2026-08-10T11:58:36Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
+    "added_at": "2026-04-18T01:38:54.869Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.2937",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Durbin, Richard J. [D-IL]",
+      "party": "D",
+      "state": "IL",
+      "bioguide_id": "D000563"
+    },
+    "introduced_date": "2025-09-29",
+    "last_action_date": "2025-09-29",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary. (text: CR S6836-6838)",
+    "committee": null,
+    "cosponsors_count": 4,
+    "policy_area": "Commerce"
+  },
+  {
     "id": "bill-119-s2938",
     "title": "Artificial Intelligence Risk Evaluation Act of 2025",
     "last_updated": "2026-03-20T11:03:19Z",
@@ -4931,35 +4960,6 @@
     "committee": null,
     "cosponsors_count": 2,
     "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-s2937",
-    "title": "AI LEAD Act",
-    "last_updated": "2026-03-20T11:03:19Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
-    "added_at": "2026-04-18T01:38:54.869Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.2937",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Durbin, Richard J. [D-IL]",
-      "party": "D",
-      "state": "IL",
-      "bioguide_id": "D000563"
-    },
-    "introduced_date": "2025-09-29",
-    "last_action_date": "2025-09-29",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary. (text: CR S6836-6838)",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Commerce"
   },
   {
     "id": "bill-119-hr5511",
@@ -5283,7 +5283,7 @@
   {
     "id": "bill-119-s2367",
     "title": "AI Accountability and Personal Data Protection Act",
-    "last_updated": "2026-06-16T15:01:22Z",
+    "last_updated": "2026-08-10T11:58:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2367",
     "added_at": "2026-04-18T01:38:36.832Z",
     "scope_reason": "keyword_match",
@@ -5771,6 +5771,35 @@
     "last_action_text": "Referred to the House Committee on the Judiciary.",
     "committee": null,
     "cosponsors_count": 11,
+    "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "id": "bill-119-s321",
+    "title": "Decoupling America's Artificial Intelligence Capabilities from China Act of 2025",
+    "last_updated": "2026-08-10T11:51:27Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/321",
+    "added_at": "2026-08-11T10:51:33.465Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.321",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Hawley, Josh [R-MO]",
+      "party": "R",
+      "state": "MO",
+      "bioguide_id": "H001089"
+    },
+    "introduced_date": "2025-01-29",
+    "last_action_date": "2025-01-29",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": null,
     "policy_area": "Crime and Law Enforcement"
   },
   {
@@ -7255,7 +7284,7 @@
   {
     "id": "bill-118-s4409",
     "title": "Preventing Deepfakes of Intimate Images Act",
-    "last_updated": "2025-07-21T19:32:26Z",
+    "last_updated": "2026-08-10T11:51:27Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4409",
     "added_at": "2026-08-08T10:39:48.084Z",
     "scope_reason": "keyword_match",
@@ -8532,7 +8561,7 @@
   {
     "id": "bill-118-s681",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "last_updated": "2025-12-05T08:50:08Z",
+    "last_updated": "2026-08-10T11:51:27Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/681",
     "added_at": "2026-08-08T10:41:51.186Z",
     "scope_reason": "keyword_match",
