@@ -176,7 +176,7 @@
   {
     "id": "bill-119-s5171",
     "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
-    "last_updated": "2026-08-06T11:03:35Z",
+    "last_updated": "2026-08-11T19:44:49Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
     "added_at": "2026-07-30T11:54:37.730Z",
     "scope_reason": "keyword_match",
@@ -200,7 +200,7 @@
     "last_action_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
     "committee": null,
     "cosponsors_count": 3,
-    "policy_area": null
+    "policy_area": "Commerce"
   },
   {
     "id": "bill-119-s5252",
@@ -261,6 +261,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hres1471",
+    "title": "Expressing the sense of the House of Representatives that every American and community impacted by the construction or operation of an artificial intelligence data center should have the right to transparency and local autonomy.",
+    "last_updated": "2026-08-11T18:09:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1471",
+    "added_at": "2026-08-04T12:04:33.130Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HRES.1471",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Khanna, Ro [D-CA-17]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "K000389"
+    },
+    "introduced_date": "2026-08-03",
+    "last_action_date": "2026-08-03",
+    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Environmental Protection"
+  },
+  {
     "id": "bill-119-hr10042",
     "title": "Understanding AI in the Classroom Act",
     "last_updated": "2026-08-05T05:53:22Z",
@@ -290,38 +319,9 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hres1471",
-    "title": "Expressing the sense of the House of Representatives that every American and community impacted by the construction or operation of an artificial intelligence data center should have the right to transparency and local autonomy.",
-    "last_updated": "2026-08-04T08:18:34Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1471",
-    "added_at": "2026-08-04T12:04:33.130Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HRES.1471",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Khanna, Ro [D-CA-17]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "K000389"
-    },
-    "introduced_date": "2026-08-03",
-    "last_action_date": "2026-08-03",
-    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr9985",
     "title": "AI Ads Act",
-    "last_updated": "2026-08-01T03:38:23Z",
+    "last_updated": "2026-08-11T18:27:20Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9985",
     "added_at": "2026-07-31T12:02:49.198Z",
     "scope_reason": "keyword_match",
@@ -345,7 +345,7 @@
     "last_action_text": "Referred to the House Committee on House Administration.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-s5154",
@@ -377,6 +377,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-s5135",
+    "title": "AI Ads Act",
+    "last_updated": "2026-08-11T18:09:39Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5135",
+    "added_at": "2026-07-28T12:00:17.233Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5135",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Schiff, Adam B. [D-CA]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "S001150"
+    },
+    "introduced_date": "2026-07-27",
+    "last_action_date": "2026-07-27",
+    "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
     "id": "bill-119-hr9965",
     "title": "AI Threat Output and Monitoring Incident Containment Act",
     "last_updated": "2026-08-10T13:30:07Z",
@@ -406,11 +435,11 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-s5135",
-    "title": "AI Ads Act",
-    "last_updated": "2026-07-31T05:38:24Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5135",
-    "added_at": "2026-07-28T12:00:17.233Z",
+    "id": "bill-119-hr9917",
+    "title": "AI Kill Switch Act",
+    "last_updated": "2026-08-12T08:12:01Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
+    "added_at": "2026-07-30T11:54:28.731Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
       "ai"
@@ -418,21 +447,50 @@
     "type": "bill",
     "status": "in_progress",
     "stage": "introduced",
-    "bill_number": "S.5135",
-    "chamber": "senate",
+    "bill_number": "HR.9917",
+    "chamber": "house",
     "congress": 119,
     "sponsor": {
-      "name": "Sen. Schiff, Adam B. [D-CA]",
+      "name": "Rep. Lieu, Ted [D-CA-36]",
       "party": "D",
       "state": "CA",
-      "bioguide_id": "S001150"
+      "bioguide_id": "L000582"
     },
-    "introduced_date": "2026-07-27",
-    "last_action_date": "2026-07-27",
-    "last_action_text": "Read twice and referred to the Committee on Rules and Administration.",
+    "introduced_date": "2026-07-23",
+    "last_action_date": "2026-07-24",
+    "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
+    "cosponsors_count": 1,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-119-hr9939",
+    "title": "No AI Data Centers on Federal Lands Act",
+    "last_updated": "2026-08-11T15:51:12Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+    "added_at": "2026-07-24T11:46:33.606Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9939",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Tlaib, Rashida [D-MI-12]",
+      "party": "D",
+      "state": "MI",
+      "bioguide_id": "T000481"
+    },
+    "introduced_date": "2026-07-23",
+    "last_action_date": "2026-07-23",
+    "last_action_text": "Referred to the House Committee on Natural Resources.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-hr9907",
@@ -464,35 +522,6 @@
     "policy_area": "Labor and Employment"
   },
   {
-    "id": "bill-119-hr9939",
-    "title": "No AI Data Centers on Federal Lands Act",
-    "last_updated": "2026-08-04T08:07:01Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-    "added_at": "2026-07-24T11:46:33.606Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9939",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Tlaib, Rashida [D-MI-12]",
-      "party": "D",
-      "state": "MI",
-      "bioguide_id": "T000481"
-    },
-    "introduced_date": "2026-07-23",
-    "last_action_date": "2026-07-23",
-    "last_action_text": "Referred to the House Committee on Natural Resources.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr9922",
     "title": "AI Transparency in Elections Act of 2026",
     "last_updated": "2026-08-01T05:58:16Z",
@@ -520,35 +549,6 @@
     "committee": null,
     "cosponsors_count": 4,
     "policy_area": "Government Operations and Politics"
-  },
-  {
-    "id": "bill-119-hr9917",
-    "title": "AI Kill Switch Act",
-    "last_updated": "2026-07-30T02:08:23Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
-    "added_at": "2026-07-30T11:54:28.731Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9917",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Lieu, Ted [D-CA-36]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "L000582"
-    },
-    "introduced_date": "2026-07-23",
-    "last_action_date": "2026-07-23",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": null
   },
   {
     "id": "bill-119-s5105",
@@ -669,7 +669,7 @@
   {
     "id": "bill-119-hr9862",
     "title": "Responsible Artificial Intelligence for Veterans Act of 2026",
-    "last_updated": "2026-07-30T11:08:27Z",
+    "last_updated": "2026-08-11T14:18:39Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
     "added_at": "2026-07-23T11:54:47.444Z",
     "scope_reason": "keyword_match",
@@ -693,7 +693,7 @@
     "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr8747",
@@ -756,7 +756,7 @@
   {
     "id": "bill-119-s5057",
     "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
-    "last_updated": "2026-08-10T17:33:28Z",
+    "last_updated": "2026-08-11T13:59:48Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
     "added_at": "2026-07-22T11:51:41.477Z",
     "scope_reason": "keyword_match",
@@ -780,7 +780,7 @@
     "last_action_text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-s5051",

@@ -21,6 +21,27 @@
     "document_type": "Notice"
   },
   {
+    "id": "rfi-2026-16371",
+    "title": "Request for Information (RFI) on Modernizing the National Vulnerability Database in the Age of Artificial Intelligence",
+    "last_updated": "2026-08-12",
+    "source_url": "https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of",
+    "added_at": "2026-08-12T11:10:07.497Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "rfi",
+    "status": "open",
+    "agency": "Commerce Department",
+    "docket_id": "Docket Number: 260805-0401",
+    "open_date": "2026-08-12",
+    "close_date": "2026-10-13",
+    "comment_submission_url": "https://www.regulations.gov/docket/Docket Number: 260805-0401",
+    "document_number": "2026-16371",
+    "document_type": "Notice"
+  },
+  {
     "id": "rfi-2026-11353",
     "title": "Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support",
     "last_updated": "2026-06-05",
