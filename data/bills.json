@@ -118,7 +118,7 @@
   {
     "id": "bill-119-s5345",
     "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
-    "last_updated": "2026-08-10T17:20:51Z",
+    "last_updated": "2026-08-13T02:48:57Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
     "added_at": "2026-08-09T10:37:28.163Z",
     "scope_reason": "keyword_match",
@@ -234,7 +234,7 @@
   {
     "id": "bill-119-s5225",
     "title": "K–12 AI Literacy and Readiness Act of 2026",
-    "last_updated": "2026-08-07T02:38:49Z",
+    "last_updated": "2026-08-12T12:37:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5225",
     "added_at": "2026-08-07T10:54:25.325Z",
     "scope_reason": "keyword_match",
@@ -258,7 +258,36 @@
     "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
     "committee": null,
     "cosponsors_count": 3,
-    "policy_area": null
+    "policy_area": "Education"
+  },
+  {
+    "id": "bill-119-hr10042",
+    "title": "Understanding AI in the Classroom Act",
+    "last_updated": "2026-08-12T20:23:32Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
+    "added_at": "2026-08-04T12:04:21.122Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10042",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Whitesides, George [D-CA-27]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "W000830"
+    },
+    "introduced_date": "2026-08-03",
+    "last_action_date": "2026-08-03",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hres1471",
@@ -288,35 +317,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Environmental Protection"
-  },
-  {
-    "id": "bill-119-hr10042",
-    "title": "Understanding AI in the Classroom Act",
-    "last_updated": "2026-08-05T05:53:22Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10042",
-    "added_at": "2026-08-04T12:04:21.122Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10042",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Whitesides, George [D-CA-27]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "W000830"
-    },
-    "introduced_date": "2026-08-03",
-    "last_action_date": "2026-08-03",
-    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": null
   },
   {
     "id": "bill-119-hr9985",
@@ -696,35 +696,6 @@
     "policy_area": "Armed Forces and National Security"
   },
   {
-    "id": "bill-119-hr8747",
-    "title": "K–12 AI Literacy and Readiness Act of 2026",
-    "last_updated": "2026-08-05T13:21:52Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
-    "added_at": "2026-06-02T14:06:01.599Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.8747",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fine, Randy [R-FL-6]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "F000484"
-    },
-    "introduced_date": "2026-05-12",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Education"
-  },
-  {
     "id": "bill-119-s5050",
     "title": "Expanding AI Voices Act",
     "last_updated": "2026-08-07T16:20:07Z",
@@ -781,6 +752,35 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-119-hr8747",
+    "title": "K–12 AI Literacy and Readiness Act of 2026",
+    "last_updated": "2026-08-05T13:21:52Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
+    "added_at": "2026-06-02T14:06:01.599Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.8747",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fine, Randy [R-FL-6]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "F000484"
+    },
+    "introduced_date": "2026-05-12",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Education"
   },
   {
     "id": "bill-119-s5051",
