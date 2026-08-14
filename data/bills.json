@@ -29,38 +29,9 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-s5358",
-    "title": "A bill to amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.",
-    "last_updated": "2026-08-08T15:25:28Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
-    "added_at": "2026-08-08T10:35:59.870Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5358",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Warner, Mark R. [D-VA]",
-      "party": "D",
-      "state": "VA",
-      "bioguide_id": "W000805"
-    },
-    "introduced_date": "2026-08-06",
-    "last_action_date": "2026-08-06",
-    "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-s5307",
-    "title": "A bill to require a strategy to align immigration-related policies with the national interest in ensuring United States leadership and dominance in artificial intelligence and in strengthening the broader ecosystem of scientific, technological, and entrepreneurial innovation, while protecting national security.",
-    "last_updated": "2026-08-10T11:51:27Z",
+    "title": "Artificial Intelligence and Innovation Talent Act",
+    "last_updated": "2026-08-14T02:23:43Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
     "added_at": "2026-08-08T10:36:02.875Z",
     "scope_reason": "keyword_match",
@@ -145,33 +116,33 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-s4199",
-    "title": "Youth AI Privacy Act",
-    "last_updated": "2026-08-06T11:03:34Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
-    "added_at": "2026-04-18T01:40:00.943Z",
+    "id": "bill-119-s5358",
+    "title": "A bill to amend the Financial Stability Act of 2010 to provide the Financial Stability Oversight Council with duties regarding artificial intelligence in the financial sector, and for other purposes.",
+    "last_updated": "2026-08-08T15:25:28Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5358",
+    "added_at": "2026-08-08T10:35:59.870Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "ai"
+      "artificial intelligence"
     ],
     "type": "bill",
     "status": "in_progress",
     "stage": "introduced",
-    "bill_number": "S.4199",
+    "bill_number": "S.5358",
     "chamber": "senate",
     "congress": 119,
     "sponsor": {
-      "name": "Sen. Markey, Edward J. [D-MA]",
+      "name": "Sen. Warner, Mark R. [D-VA]",
       "party": "D",
-      "state": "MA",
-      "bioguide_id": "M000133"
+      "state": "VA",
+      "bioguide_id": "W000805"
     },
-    "introduced_date": "2026-03-25",
-    "last_action_date": "2026-08-05",
-    "last_action_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+    "introduced_date": "2026-08-06",
+    "last_action_date": "2026-08-06",
+    "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Science, Technology, Communications"
+    "cosponsors_count": 1,
+    "policy_area": null
   },
   {
     "id": "bill-119-s5171",
@@ -201,6 +172,35 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": "Commerce"
+  },
+  {
+    "id": "bill-119-s4199",
+    "title": "Youth AI Privacy Act",
+    "last_updated": "2026-08-06T11:03:34Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
+    "added_at": "2026-04-18T01:40:00.943Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4199",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Markey, Edward J. [D-MA]",
+      "party": "D",
+      "state": "MA",
+      "bioguide_id": "M000133"
+    },
+    "introduced_date": "2026-03-25",
+    "last_action_date": "2026-08-05",
+    "last_action_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5252",
@@ -493,6 +493,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr9922",
+    "title": "AI Transparency in Elections Act of 2026",
+    "last_updated": "2026-08-14T08:05:48Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
+    "added_at": "2026-07-24T11:46:27.605Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9922",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "party": "D",
+      "state": "NY",
+      "bioguide_id": "M001206"
+    },
+    "introduced_date": "2026-07-23",
+    "last_action_date": "2026-07-23",
+    "last_action_text": "Referred to the House Committee on House Administration.",
+    "committee": null,
+    "cosponsors_count": 5,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
     "id": "bill-119-hr9907",
     "title": "LEARN AI Act",
     "last_updated": "2026-08-06T16:35:14Z",
@@ -520,35 +549,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Labor and Employment"
-  },
-  {
-    "id": "bill-119-hr9922",
-    "title": "AI Transparency in Elections Act of 2026",
-    "last_updated": "2026-08-01T05:58:16Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9922",
-    "added_at": "2026-07-24T11:46:27.605Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9922",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Morelle, Joseph D. [D-NY-25]",
-      "party": "D",
-      "state": "NY",
-      "bioguide_id": "M001206"
-    },
-    "introduced_date": "2026-07-23",
-    "last_action_date": "2026-07-23",
-    "last_action_text": "Referred to the House Committee on House Administration.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-s5105",
