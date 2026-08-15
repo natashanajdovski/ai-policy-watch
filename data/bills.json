@@ -60,7 +60,7 @@
   {
     "id": "bill-119-hr10044",
     "title": "AI Tax and Work Protection Act",
-    "last_updated": "2026-08-08T08:06:18Z",
+    "last_updated": "2026-08-14T14:18:17Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
     "added_at": "2026-08-07T10:54:28.322Z",
     "scope_reason": "keyword_match",
@@ -84,7 +84,7 @@
     "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 2,
-    "policy_area": null
+    "policy_area": "Taxation"
   },
   {
     "id": "bill-119-s5345",
@@ -696,35 +696,6 @@
     "policy_area": "Armed Forces and National Security"
   },
   {
-    "id": "bill-119-s5050",
-    "title": "Expanding AI Voices Act",
-    "last_updated": "2026-08-07T16:20:07Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5050",
-    "added_at": "2026-07-22T11:51:47.480Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5050",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Blunt Rochester, Lisa [D-DE]",
-      "party": "D",
-      "state": "DE",
-      "bioguide_id": "B001303"
-    },
-    "introduced_date": "2026-07-21",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-s5057",
     "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
     "last_updated": "2026-08-11T13:59:48Z",
@@ -752,6 +723,35 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-119-s5050",
+    "title": "Expanding AI Voices Act",
+    "last_updated": "2026-08-07T16:20:07Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5050",
+    "added_at": "2026-07-22T11:51:47.480Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5050",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Blunt Rochester, Lisa [D-DE]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "B001303"
+    },
+    "introduced_date": "2026-07-21",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr8747",
