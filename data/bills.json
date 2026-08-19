@@ -1,13 +1,13 @@
 [
   {
     "id": "bill-119-s5382",
-    "title": "A bill to require a report on the artificial intelligence power of the People's Republic of China.",
-    "last_updated": "2026-08-10T17:20:49Z",
+    "title": "China AI Power Report Act",
+    "last_updated": "2026-08-19T04:53:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
     "added_at": "2026-08-09T10:37:25.161Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -24,35 +24,6 @@
     "introduced_date": "2026-08-07",
     "last_action_date": "2026-08-07",
     "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-s5307",
-    "title": "Artificial Intelligence and Innovation Talent Act",
-    "last_updated": "2026-08-14T02:23:43Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
-    "added_at": "2026-08-08T10:36:02.875Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5307",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Coons, Christopher A. [D-DE]",
-      "party": "D",
-      "state": "DE",
-      "bioguide_id": "C001088"
-    },
-    "introduced_date": "2026-08-06",
-    "last_action_date": "2026-08-06",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": null
@@ -85,6 +56,35 @@
     "committee": null,
     "cosponsors_count": 2,
     "policy_area": "Taxation"
+  },
+  {
+    "id": "bill-119-s5307",
+    "title": "Artificial Intelligence and Innovation Talent Act",
+    "last_updated": "2026-08-14T02:23:43Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
+    "added_at": "2026-08-08T10:36:02.875Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5307",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Coons, Christopher A. [D-DE]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "C001088"
+    },
+    "introduced_date": "2026-08-06",
+    "last_action_date": "2026-08-06",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
   },
   {
     "id": "bill-119-s5345",
@@ -464,35 +464,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-119-hr9939",
-    "title": "No AI Data Centers on Federal Lands Act",
-    "last_updated": "2026-08-11T15:51:12Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
-    "added_at": "2026-07-24T11:46:33.606Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9939",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Tlaib, Rashida [D-MI-12]",
-      "party": "D",
-      "state": "MI",
-      "bioguide_id": "T000481"
-    },
-    "introduced_date": "2026-07-23",
-    "last_action_date": "2026-07-23",
-    "last_action_text": "Referred to the House Committee on Natural Resources.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "Government Operations and Politics"
-  },
-  {
     "id": "bill-119-hr9922",
     "title": "AI Transparency in Elections Act of 2026",
     "last_updated": "2026-08-14T08:05:48Z",
@@ -519,6 +490,35 @@
     "last_action_text": "Referred to the House Committee on House Administration.",
     "committee": null,
     "cosponsors_count": 5,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-119-hr9939",
+    "title": "No AI Data Centers on Federal Lands Act",
+    "last_updated": "2026-08-11T15:51:12Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9939",
+    "added_at": "2026-07-24T11:46:33.606Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9939",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Tlaib, Rashida [D-MI-12]",
+      "party": "D",
+      "state": "MI",
+      "bioguide_id": "T000481"
+    },
+    "introduced_date": "2026-07-23",
+    "last_action_date": "2026-07-23",
+    "last_action_text": "Referred to the House Committee on Natural Resources.",
+    "committee": null,
+    "cosponsors_count": 7,
     "policy_area": "Government Operations and Politics"
   },
   {
@@ -1363,6 +1363,64 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr9341",
+    "title": "AI-Ready Federal Data Guidelines Act",
+    "last_updated": "2026-08-18T15:59:56Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9341",
+    "added_at": "2026-06-19T13:37:25.991Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9341",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Babin, Brian [R-TX-36]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "B001291"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 0.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Government Operations and Politics"
+  },
+  {
+    "id": "bill-119-hr2385",
+    "title": "CREATE AI Act of 2025",
+    "last_updated": "2026-08-18T08:05:50Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+    "added_at": "2026-04-18T01:39:09.906Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.2385",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2025-03-26",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
+    "committee": null,
+    "cosponsors_count": 34,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr5351",
     "title": "NSF AI Education Act of 2025",
     "last_updated": "2026-08-04T21:05:20Z",
@@ -1508,35 +1566,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr2385",
-    "title": "CREATE AI Act of 2025",
-    "last_updated": "2026-07-17T23:45:23Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
-    "added_at": "2026-04-18T01:39:09.906Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.2385",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2025-03-26",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
-    "committee": null,
-    "cosponsors_count": 33,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr9363",
     "title": "AI Security and Innovation Act",
     "last_updated": "2026-07-15T08:07:34Z",
@@ -1593,35 +1622,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr9341",
-    "title": "AI-Ready Federal Data Guidelines Act",
-    "last_updated": "2026-07-08T08:05:57Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9341",
-    "added_at": "2026-06-19T13:37:25.991Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9341",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Babin, Brian [R-TX-36]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "B001291"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 0.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-hr5584",
