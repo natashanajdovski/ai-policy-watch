@@ -1,5 +1,34 @@
 [
   {
+    "id": "bill-119-hr10146",
+    "title": "AI Advertising Disclosure Act",
+    "last_updated": "2026-08-25T08:13:45Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
+    "added_at": "2026-08-25T10:35:08.794Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10146",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Magaziner, Seth [D-RI-2]",
+      "party": "D",
+      "state": "RI",
+      "bioguide_id": "M001223"
+    },
+    "introduced_date": "2026-08-24",
+    "last_action_date": "2026-08-24",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s5382",
     "title": "China AI Power Report Act",
     "last_updated": "2026-08-19T04:53:45Z",
@@ -89,7 +118,7 @@
   {
     "id": "bill-119-s5345",
     "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
-    "last_updated": "2026-08-13T02:48:57Z",
+    "last_updated": "2026-08-24T17:52:36Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5345",
     "added_at": "2026-08-09T10:37:28.163Z",
     "scope_reason": "keyword_match",
@@ -113,7 +142,7 @@
     "last_action_text": "Read twice and referred to the Committee on Armed Services.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-s5358",
@@ -1392,9 +1421,38 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr9334",
+    "title": "Workforce for AI Trust Act",
+    "last_updated": "2026-08-24T15:50:46Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
+    "added_at": "2026-06-19T13:37:20.192Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9334",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Lofgren, Zoe [D-CA-18]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "L000397"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr9477",
     "title": "AI Incident Reporting Act",
-    "last_updated": "2026-08-21T08:05:51Z",
+    "last_updated": "2026-08-25T08:05:46Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
     "added_at": "2026-06-26T12:14:17.630Z",
     "scope_reason": "keyword_match",
@@ -1417,7 +1475,7 @@
     "last_action_date": "2026-06-25",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 1,
+    "cosponsors_count": 2,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -1563,35 +1621,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
     "committee": null,
     "cosponsors_count": 10,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr9334",
-    "title": "Workforce for AI Trust Act",
-    "last_updated": "2026-07-23T08:08:41Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9334",
-    "added_at": "2026-06-19T13:37:20.192Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9334",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Lofgren, Zoe [D-CA-18]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "L000397"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
-    "committee": null,
-    "cosponsors_count": 2,
     "policy_area": "Science, Technology, Communications"
   },
   {
