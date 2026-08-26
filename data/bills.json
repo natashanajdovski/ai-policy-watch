@@ -2,7 +2,7 @@
   {
     "id": "bill-119-hr10146",
     "title": "AI Advertising Disclosure Act",
-    "last_updated": "2026-08-25T08:13:45Z",
+    "last_updated": "2026-08-25T10:58:43Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
     "added_at": "2026-08-25T10:35:08.794Z",
     "scope_reason": "keyword_match",
@@ -31,7 +31,7 @@
   {
     "id": "bill-119-s5382",
     "title": "China AI Power Report Act",
-    "last_updated": "2026-08-19T04:53:45Z",
+    "last_updated": "2026-08-25T20:55:40Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
     "added_at": "2026-08-09T10:37:25.161Z",
     "scope_reason": "keyword_match",
@@ -55,7 +55,7 @@
     "last_action_text": "Read twice and referred to the Committee on Foreign Relations.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "International Affairs"
   },
   {
     "id": "bill-119-hr10044",
@@ -1394,7 +1394,7 @@
   {
     "id": "bill-119-hr9341",
     "title": "AI-Ready Federal Data Guidelines Act",
-    "last_updated": "2026-08-18T15:59:56Z",
+    "last_updated": "2026-08-25T20:05:39Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9341",
     "added_at": "2026-06-19T13:37:25.991Z",
     "scope_reason": "keyword_match",
@@ -1476,6 +1476,35 @@
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
     "cosponsors_count": 2,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr6461",
+    "title": "READ AI Models Act",
+    "last_updated": "2026-08-25T20:05:39Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+    "added_at": "2026-04-18T01:38:27.841Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6461",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. McBride, Sarah [D-DE-At Large]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "M001238"
+    },
+    "introduced_date": "2025-12-04",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+    "committee": null,
+    "cosponsors_count": 10,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -1592,35 +1621,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
     "committee": null,
     "cosponsors_count": 4,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr6461",
-    "title": "READ AI Models Act",
-    "last_updated": "2026-07-23T08:08:18Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
-    "added_at": "2026-04-18T01:38:27.841Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6461",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. McBride, Sarah [D-DE-At Large]",
-      "party": "D",
-      "state": "DE",
-      "bioguide_id": "M001238"
-    },
-    "introduced_date": "2025-12-04",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
-    "committee": null,
-    "cosponsors_count": 10,
     "policy_area": "Science, Technology, Communications"
   },
   {
