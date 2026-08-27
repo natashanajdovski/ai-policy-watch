@@ -1,5 +1,25 @@
 [
   {
+    "id": "hearing-119-119520",
+    "title": "“Renewal of USPTO Fee Setting Authority: Giving Full Effect to the America Invents Act”",
+    "last_updated": "2026-08-26T12:33:41Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119520",
+    "added_at": "2026-08-27T20:20:01.010Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-09-02T14:00:00Z",
+    "location": "2141, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119520"
+  },
+  {
     "id": "hearing-119-338704",
     "title": "Business meeting to markup S.737, to require certain interactive computer services to adopt and operate technology verification measures to ensure that users of the platform are not minors, S.1748, to protect the safety of children on the internet, S.4199, to require entities that make artificial intelligence chatbots available to minors to implement certain safe design features, S.4407, to require the creation of family accounts for children to be able to use artificial intelligence chatbots, to require verifiable parental consent for teens using artificial intelligence chatbots, S.5171, to require a study of AI-enabled toys and development of a joint action plan regarding the marketing and sale of AI-enabled toys, and a promotion list in the Coast Guard.",
     "last_updated": "2026-08-04T22:08:26Z",
@@ -613,31 +633,6 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "119119"
-  },
-  {
-    "id": "hearing-119-119110",
-    "title": "Innovation at the Speed of Markets: How Regulators Keep Pace with Technology",
-    "last_updated": "2026-03-25T21:58:28Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119110",
-    "added_at": "2026-04-17T23:42:26.397Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
-    "chamber": "house",
-    "date_time": "2026-03-26T14:00:00Z",
-    "location": "2128, Rayburn House Office Building",
-    "witnesses": [
-      "Mr. Jay Gallagher, Office of the Comptroller of the Currency",
-      "Mr. Ryan Billingsley, Federal Deposit Insurance Corporation",
-      "Mr. Randall Guynn, Federal Reserve Board",
-      "Ms. Amanda Parkhill, National Credit Union Administration"
-    ],
-    "cspan_url": null,
-    "event_id": "119110"
   },
   {
     "id": "hearing-119-119088",

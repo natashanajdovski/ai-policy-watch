@@ -31,7 +31,7 @@
   {
     "id": "bill-119-s5382",
     "title": "China AI Power Report Act",
-    "last_updated": "2026-08-25T20:55:40Z",
+    "last_updated": "2026-08-26T15:16:14Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5382",
     "added_at": "2026-08-09T10:37:25.161Z",
     "scope_reason": "keyword_match",
@@ -87,35 +87,6 @@
     "policy_area": "Taxation"
   },
   {
-    "id": "bill-119-s5307",
-    "title": "Artificial Intelligence and Innovation Talent Act",
-    "last_updated": "2026-08-20T14:27:40Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
-    "added_at": "2026-08-08T10:36:02.875Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5307",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Coons, Christopher A. [D-DE]",
-      "party": "D",
-      "state": "DE",
-      "bioguide_id": "C001088"
-    },
-    "introduced_date": "2026-08-06",
-    "last_action_date": "2026-08-06",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Immigration"
-  },
-  {
     "id": "bill-119-s5345",
     "title": "A bill to provide for the delivery of artificial intelligence functional bills of materials, and for other purposes.",
     "last_updated": "2026-08-24T17:52:36Z",
@@ -143,6 +114,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "id": "bill-119-s5307",
+    "title": "Artificial Intelligence and Innovation Talent Act",
+    "last_updated": "2026-08-20T14:27:40Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5307",
+    "added_at": "2026-08-08T10:36:02.875Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5307",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Coons, Christopher A. [D-DE]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "C001088"
+    },
+    "introduced_date": "2026-08-06",
+    "last_action_date": "2026-08-06",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Immigration"
   },
   {
     "id": "bill-119-s5358",
@@ -174,38 +174,9 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-s5171",
-    "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
-    "last_updated": "2026-08-11T19:44:49Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
-    "added_at": "2026-07-30T11:54:37.730Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5171",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Duckworth, Tammy [D-IL]",
-      "party": "D",
-      "state": "IL",
-      "bioguide_id": "D000622"
-    },
-    "introduced_date": "2026-07-29",
-    "last_action_date": "2026-08-05",
-    "last_action_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Commerce"
-  },
-  {
     "id": "bill-119-s4199",
     "title": "Youth AI Privacy Act",
-    "last_updated": "2026-08-06T11:03:34Z",
+    "last_updated": "2026-08-26T19:41:55Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4199",
     "added_at": "2026-04-18T01:40:00.943Z",
     "scope_reason": "keyword_match",
@@ -230,6 +201,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-s5171",
+    "title": "Children's Artificial Intelligence Toy Safety Act of 2026",
+    "last_updated": "2026-08-26T20:50:34Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5171",
+    "added_at": "2026-07-30T11:54:37.730Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5171",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Duckworth, Tammy [D-IL]",
+      "party": "D",
+      "state": "IL",
+      "bioguide_id": "D000622"
+    },
+    "introduced_date": "2026-07-29",
+    "last_action_date": "2026-08-05",
+    "last_action_text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Commerce"
   },
   {
     "id": "bill-119-s5252",
@@ -1392,6 +1392,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr9333",
+    "title": "AI Flaw Reporting and Security Enhancement Act",
+    "last_updated": "2026-08-26T17:35:41Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
+    "added_at": "2026-06-19T13:37:16.988Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9333",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Ross, Deborah K. [D-NC-2]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "R000305"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 0.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr9341",
     "title": "AI-Ready Federal Data Guidelines Act",
     "last_updated": "2026-08-25T20:05:39Z",
@@ -1479,6 +1508,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr5584",
+    "title": "LIFT AI Act",
+    "last_updated": "2026-08-27T19:35:38Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
+    "added_at": "2026-04-18T01:36:39.157Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.5584",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2025-09-26",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 1.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": "Education"
+  },
+  {
     "id": "bill-119-hr6461",
     "title": "READ AI Models Act",
     "last_updated": "2026-08-25T20:05:39Z",
@@ -1505,6 +1563,35 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
     "committee": null,
     "cosponsors_count": 10,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr9363",
+    "title": "AI Security and Innovation Act",
+    "last_updated": "2026-08-26T17:35:41Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+    "added_at": "2026-06-19T13:37:28.991Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9363",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
+    "committee": null,
+    "cosponsors_count": 7,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -1566,35 +1653,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr9333",
-    "title": "AI Flaw Reporting and Security Enhancement Act",
-    "last_updated": "2026-07-24T15:56:17Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9333",
-    "added_at": "2026-06-19T13:37:16.988Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9333",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Ross, Deborah K. [D-NC-2]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "R000305"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 0.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr8893",
     "title": "Protecting Consumers from Deceptive AI Act",
     "last_updated": "2026-07-24T08:08:48Z",
@@ -1622,64 +1680,6 @@
     "committee": null,
     "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr9363",
-    "title": "AI Security and Innovation Act",
-    "last_updated": "2026-07-15T08:07:34Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
-    "added_at": "2026-06-19T13:37:28.991Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9363",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
-    "committee": null,
-    "cosponsors_count": 7,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr5584",
-    "title": "LIFT AI Act",
-    "last_updated": "2026-07-08T08:05:58Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5584",
-    "added_at": "2026-04-18T01:36:39.157Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.5584",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
-      "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
-    },
-    "introduced_date": "2025-09-26",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 1.",
-    "committee": null,
-    "cosponsors_count": 8,
-    "policy_area": "Education"
   },
   {
     "id": "bill-119-hr4801",
@@ -3974,6 +3974,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr6275",
+    "title": "China AI Power Report Act",
+    "last_updated": "2026-08-26T15:16:14Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+    "added_at": "2026-04-18T01:37:48.803Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6275",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Del. Moylan, James C. [R-GU-At Large]",
+      "party": "R",
+      "state": "GU",
+      "bioguide_id": "M001219"
+    },
+    "introduced_date": "2025-11-21",
+    "last_action_date": "2026-01-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": "International Affairs"
+  },
+  {
     "id": "bill-119-hr6875",
     "title": "AI OVERWATCH Act",
     "last_updated": "2026-08-04T08:07:43Z",
@@ -4000,35 +4029,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
     "committee": null,
     "cosponsors_count": 42,
-    "policy_area": "International Affairs"
-  },
-  {
-    "id": "bill-119-hr6275",
-    "title": "China AI Power Report Act",
-    "last_updated": "2026-06-25T08:08:16Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
-    "added_at": "2026-04-18T01:37:48.803Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6275",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Del. Moylan, James C. [R-GU-At Large]",
-      "party": "R",
-      "state": "GU",
-      "bioguide_id": "M001219"
-    },
-    "introduced_date": "2025-11-21",
-    "last_action_date": "2026-01-21",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
-    "committee": null,
-    "cosponsors_count": 7,
     "policy_area": "International Affairs"
   },
   {
