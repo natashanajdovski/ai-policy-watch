@@ -1,34 +1,5 @@
 [
   {
-    "id": "bill-119-hr10152",
-    "title": "To direct the Secretary of Commerce to support the adoption and use of American open artificial intelligence models, and for other purposes.",
-    "last_updated": "2026-08-28T11:13:50Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
-    "added_at": "2026-08-28T21:08:31.584Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10152",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Evans, Gabe [R-CO-8]",
-      "party": "R",
-      "state": "CO",
-      "bioguide_id": "E000300"
-    },
-    "introduced_date": "2026-08-27",
-    "last_action_date": "2026-08-27",
-    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr10180",
     "title": "To amend the National Institute of Standards and Technology Act to authorize certain assessments by the Director of the Institute and impose requirements on certain memorandums of understanding relating to artificial intelligence, and for other purposes.",
     "last_updated": "2026-08-28T11:13:50Z",
@@ -55,6 +26,35 @@
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
     "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10152",
+    "title": "Open-Source AI Leadership Act",
+    "last_updated": "2026-08-29T02:23:21Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
+    "added_at": "2026-08-28T21:08:31.584Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10152",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Evans, Gabe [R-CO-8]",
+      "party": "R",
+      "state": "CO",
+      "bioguide_id": "E000300"
+    },
+    "introduced_date": "2026-08-27",
+    "last_action_date": "2026-08-27",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": null,
     "policy_area": null
   },
   {
