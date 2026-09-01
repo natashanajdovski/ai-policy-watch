@@ -1,13 +1,42 @@
 [
   {
+    "id": "bill-119-hr10189",
+    "title": "Defense AI Reliability and Reporting Act",
+    "last_updated": "2026-09-01T12:23:23Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
+    "added_at": "2026-09-01T14:37:05.404Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10189",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Jacobs, Sara [D-CA-51]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "J000305"
+    },
+    "introduced_date": "2026-08-31",
+    "last_action_date": "2026-08-31",
+    "last_action_text": "Referred to the House Committee on Armed Services.",
+    "committee": null,
+    "cosponsors_count": 2,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10180",
-    "title": "To amend the National Institute of Standards and Technology Act to authorize certain assessments by the Director of the Institute and impose requirements on certain memorandums of understanding relating to artificial intelligence, and for other purposes.",
-    "last_updated": "2026-08-28T11:13:50Z",
+    "title": "Self-Improving AI Monitoring Act",
+    "last_updated": "2026-09-01T05:08:18Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10180",
     "added_at": "2026-08-28T21:08:34.584Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -1508,35 +1537,6 @@
     "policy_area": "Government Operations and Politics"
   },
   {
-    "id": "bill-119-hr9477",
-    "title": "AI Incident Reporting Act",
-    "last_updated": "2026-08-25T08:05:46Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
-    "added_at": "2026-06-26T12:14:17.630Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9477",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Moran, Nathaniel [R-TX-1]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "M001224"
-    },
-    "introduced_date": "2026-06-25",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
-    "committee": null,
-    "cosponsors_count": 2,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr5584",
     "title": "LIFT AI Act",
     "last_updated": "2026-08-27T19:35:38Z",
@@ -1621,6 +1621,35 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
     "committee": null,
     "cosponsors_count": 7,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr9477",
+    "title": "AI Incident Reporting Act",
+    "last_updated": "2026-08-25T08:05:46Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+    "added_at": "2026-06-26T12:14:17.630Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9477",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Moran, Nathaniel [R-TX-1]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "M001224"
+    },
+    "introduced_date": "2026-06-25",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": 2,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -3135,7 +3164,7 @@
   {
     "id": "bill-119-s4214",
     "title": "Artificial Intelligence Data Center Moratorium Act",
-    "last_updated": "2026-07-06T18:47:43Z",
+    "last_updated": "2026-08-31T17:58:15Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
     "added_at": "2026-04-18T01:40:18.954Z",
     "scope_reason": "keyword_match",
@@ -4032,6 +4061,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr6875",
+    "title": "AI OVERWATCH Act",
+    "last_updated": "2026-09-01T08:06:09Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
+    "added_at": "2026-04-18T01:39:18.919Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6875",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Mast, Brian J. [R-FL-21]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "M001199"
+    },
+    "introduced_date": "2025-12-18",
+    "last_action_date": "2026-01-21",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
+    "committee": null,
+    "cosponsors_count": 43,
+    "policy_area": "International Affairs"
+  },
+  {
     "id": "bill-119-hr6275",
     "title": "China AI Power Report Act",
     "last_updated": "2026-08-26T15:16:14Z",
@@ -4058,35 +4116,6 @@
     "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
     "committee": null,
     "cosponsors_count": 7,
-    "policy_area": "International Affairs"
-  },
-  {
-    "id": "bill-119-hr6875",
-    "title": "AI OVERWATCH Act",
-    "last_updated": "2026-08-04T08:07:43Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
-    "added_at": "2026-04-18T01:39:18.919Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6875",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Mast, Brian J. [R-FL-21]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "M001199"
-    },
-    "introduced_date": "2025-12-18",
-    "last_action_date": "2026-01-21",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
-    "committee": null,
-    "cosponsors_count": 42,
     "policy_area": "International Affairs"
   },
   {
@@ -5109,7 +5138,7 @@
   {
     "id": "bill-119-hr5272",
     "title": "Protect Elections from Deceptive AI Act",
-    "last_updated": "2026-06-11T08:07:16Z",
+    "last_updated": "2026-09-01T08:05:30Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
     "added_at": "2026-04-18T01:40:15.779Z",
     "scope_reason": "keyword_match",
@@ -5132,7 +5161,7 @@
     "last_action_date": "2025-09-10",
     "last_action_text": "Referred to the House Committee on House Administration.",
     "committee": null,
-    "cosponsors_count": 6,
+    "cosponsors_count": 7,
     "policy_area": "Government Operations and Politics"
   },
   {
