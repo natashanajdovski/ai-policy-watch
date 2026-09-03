@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119520",
     "title": "“Renewal of USPTO Fee Setting Authority: Giving Full Effect to the America Invents Act”",
-    "last_updated": "2026-08-26T12:33:41Z",
+    "last_updated": "2026-09-02T20:42:16Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119520",
     "added_at": "2026-08-27T20:20:01.010Z",
     "scope_reason": "keyword_match",
@@ -15,7 +15,12 @@
     "chamber": "house",
     "date_time": "2026-09-02T14:00:00Z",
     "location": "2141, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Ms. Teresa Rea, Rea Consulting LLC",
+      "Mr. Morgan Reed",
+      "Ms. Melissa Wasserman, University of Texas School of Law",
+      "Mr. David Kappos, Council for Innovation Promotion"
+    ],
     "cspan_url": null,
     "event_id": "119520"
   },
