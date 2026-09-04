@@ -31,7 +31,7 @@
   {
     "id": "bill-119-hr10152",
     "title": "Open-Source AI Leadership Act",
-    "last_updated": "2026-09-03T08:06:31Z",
+    "last_updated": "2026-09-03T16:07:19Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
     "added_at": "2026-08-28T21:08:31.584Z",
     "scope_reason": "keyword_match",
@@ -55,12 +55,12 @@
     "last_action_text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10210",
     "title": "Doctors Not AI Act of 2026",
-    "last_updated": "2026-09-03T02:53:19Z",
+    "last_updated": "2026-09-03T17:44:29Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
     "added_at": "2026-09-02T14:10:30.284Z",
     "scope_reason": "keyword_match",
@@ -84,7 +84,7 @@
     "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 3,
-    "policy_area": null
+    "policy_area": "Health"
   },
   {
     "id": "bill-119-hr10189",
@@ -2497,7 +2497,7 @@
   {
     "id": "bill-119-hr9183",
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-    "last_updated": "2026-08-21T08:06:03Z",
+    "last_updated": "2026-09-04T08:06:33Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
     "added_at": "2026-06-09T12:40:39.286Z",
     "scope_reason": "keyword_match",
@@ -2520,7 +2520,7 @@
     "last_action_date": "2026-06-08",
     "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 20,
+    "cosponsors_count": 21,
     "policy_area": "Environmental Protection"
   },
   {
@@ -3046,6 +3046,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr6996",
+    "title": "Full AI Stack Export Promotion Act",
+    "last_updated": "2026-09-03T17:02:32Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6996",
+    "added_at": "2026-04-18T01:38:42.874Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6996",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fine, Randy [R-FL-6]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "F000484"
+    },
+    "introduced_date": "2026-01-09",
+    "last_action_date": "2026-04-22",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 37 - 7.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Foreign Trade and International Finance"
+  },
+  {
     "id": "bill-119-hr8283",
     "title": "Deterring American AI Model Theft Act of 2026",
     "last_updated": "2026-09-03T08:06:24Z",
@@ -3073,35 +3102,6 @@
     "committee": null,
     "cosponsors_count": 21,
     "policy_area": "International Affairs"
-  },
-  {
-    "id": "bill-119-hr6996",
-    "title": "Full AI Stack Export Promotion Act",
-    "last_updated": "2026-07-17T23:39:15Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6996",
-    "added_at": "2026-04-18T01:38:42.874Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6996",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fine, Randy [R-FL-6]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "F000484"
-    },
-    "introduced_date": "2026-01-09",
-    "last_action_date": "2026-04-22",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 37 - 7.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Foreign Trade and International Finance"
   },
   {
     "id": "bill-119-hr8382",
