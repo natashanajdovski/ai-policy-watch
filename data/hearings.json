@@ -742,31 +742,6 @@
     "event_id": "118817"
   },
   {
-    "id": "hearing-119-118773",
-    "title": "Examining Biosecurity at the Intersection of AI and Biology",
-    "last_updated": "2026-03-31T20:04:32Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118773",
-    "added_at": "2026-04-17T23:41:52.367Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Energy and Commerce Subcommittee on Oversight and Investigations",
-    "chamber": "house",
-    "date_time": "2025-12-17T15:15:00Z",
-    "location": "2123, Rayburn House Office Building",
-    "witnesses": [
-      "Matthew McKnight, Ginkgo Bioworks",
-      "Fiona Havers, Former Lead of the Centers for Disease Control and Prevention Respiratory Virus Hospitalization Surveillance Network Team",
-      "James Diggans, Twist Bioscience Corporation",
-      "Jassi Pannu, Johns Hopkins Bloomberg School of Public Health and Johns Hopkins Center for Health Security"
-    ],
-    "cspan_url": null,
-    "event_id": "118773"
-  },
-  {
     "id": "hearing-119-337707",
     "title": "Hearings to examine China's challenge to American AI leadership.",
     "last_updated": "2025-12-01T23:08:21Z",

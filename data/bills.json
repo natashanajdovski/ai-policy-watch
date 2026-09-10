@@ -2,7 +2,7 @@
   {
     "id": "bill-119-hr9501",
     "title": "AI Tax Integrity Act of 2026",
-    "last_updated": "2026-09-09T13:10:19Z",
+    "last_updated": "2026-09-09T14:53:04Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
     "added_at": "2026-06-30T12:12:26.965Z",
     "scope_reason": "keyword_match",
@@ -31,7 +31,7 @@
   {
     "id": "bill-119-hr10315",
     "title": "To direct the Secretary of Education to carry out a grant program to support the establishment and expansion of curricula in artificial intelligence in elementary and secondary schools, and for other purposes.",
-    "last_updated": "2026-09-09T13:28:34Z",
+    "last_updated": "2026-09-09T14:52:54Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10315",
     "added_at": "2026-09-09T14:17:53.497Z",
     "scope_reason": "keyword_match",
@@ -56,35 +56,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": null
-  },
-  {
-    "id": "bill-119-hr7294",
-    "title": "AI for Secure Networks Act",
-    "last_updated": "2026-09-03T08:06:36Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
-    "added_at": "2026-04-18T01:39:24.928Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.7294",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Menendez, Robert [D-NJ-8]",
-      "party": "D",
-      "state": "NJ",
-      "bioguide_id": "M001226"
-    },
-    "introduced_date": "2026-01-30",
-    "last_action_date": "2026-09-01",
-    "last_action_text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10152",
@@ -143,6 +114,35 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": "Health"
+  },
+  {
+    "id": "bill-119-hr7294",
+    "title": "AI for Secure Networks Act",
+    "last_updated": "2026-09-03T08:06:36Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
+    "added_at": "2026-04-18T01:39:24.928Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.7294",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Menendez, Robert [D-NJ-8]",
+      "party": "D",
+      "state": "NJ",
+      "bioguide_id": "M001226"
+    },
+    "introduced_date": "2026-01-30",
+    "last_action_date": "2026-09-01",
+    "last_action_text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+    "committee": null,
+    "cosponsors_count": 5,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10189",
@@ -205,7 +205,7 @@
   {
     "id": "bill-119-hr10146",
     "title": "AI Advertising Disclosure Act",
-    "last_updated": "2026-09-09T13:10:02Z",
+    "last_updated": "2026-09-09T14:52:44Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
     "added_at": "2026-08-25T10:35:08.794Z",
     "scope_reason": "keyword_match",
@@ -1017,7 +1017,7 @@
   {
     "id": "bill-119-hr6529",
     "title": "Protecting Families from AI Data Center Energy Costs Act",
-    "last_updated": "2026-08-28T08:06:04Z",
+    "last_updated": "2026-09-09T16:50:34Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6529",
     "added_at": "2026-04-18T04:02:09.028Z",
     "scope_reason": "keyword_match",
@@ -5196,7 +5196,7 @@
   {
     "id": "bill-119-hr5272",
     "title": "Protect Elections from Deceptive AI Act",
-    "last_updated": "2026-09-09T13:10:10Z",
+    "last_updated": "2026-09-09T14:52:54Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5272",
     "added_at": "2026-04-18T01:40:15.779Z",
     "scope_reason": "keyword_match",
