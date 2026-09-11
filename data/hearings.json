@@ -575,6 +575,26 @@
     "event_id": "119165"
   },
   {
+    "id": "hearing-119-338140",
+    "title": "Hearings to examine S.465, to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, S.1327, to require the Federal Energy Regulatory Commission to establish a shared savings incentive to return a portion of the savings attributable to an investment in grid-enhancing technology to the developer of that grid-enhancing technology, S.3034, to amend the Federal Power Act to require the Federal Energy Regulatory Commission to review regulations that may affect the reliable operation of the bulk-power system, S.3192, to require Transmission Organizations to allow aggregators of retail customers to submit to organized wholesale electric markets bids that aggregate demand flexibility of customers of certain utilities, S.3269, to direct the Comptroller General of the United States to conduct a technology assessment focused on liquid cooling systems for artificial intelligence compute clusters and high-performance computing facilities, S.3947, to amend the Federal Power Act to establish a categorical exclusion for reconductoring within existing rights-of-way.",
+    "last_updated": "2026-04-14T22:08:24Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/338140",
+    "added_at": "2026-09-11T14:31:19.776Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Senate Energy and Natural Resources Subcommittee on Energy",
+    "chamber": "senate",
+    "date_time": "2026-04-15T18:30:00Z",
+    "location": "366, Dirksen Senate Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "338140"
+  },
+  {
     "id": "hearing-119-119139",
     "title": "\"Building an AI-Ready America: Understanding AI’s Economic Impact on Workers and Employers\"",
     "last_updated": "2026-06-04T13:34:03Z",
@@ -800,26 +820,6 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337424"
-  },
-  {
-    "id": "hearing-119-337395",
-    "title": "Hearings to examine America's AI action plan.",
-    "last_updated": "2025-09-09T22:08:23Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337395",
-    "added_at": "2026-04-17T23:56:35.043Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Commerce, Science, and Transportation Subcommittee on Science, Manufacturing, and Competitiveness",
-    "chamber": "senate",
-    "date_time": "2025-09-10T14:00:00Z",
-    "location": "253, Russell Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337395"
   },
   {
     "id": "hearing-119-118560",
