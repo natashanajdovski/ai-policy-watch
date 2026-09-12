@@ -31,7 +31,7 @@
   {
     "id": "bill-119-hr10315",
     "title": "AI LABS Act",
-    "last_updated": "2026-09-11T04:08:23Z",
+    "last_updated": "2026-09-11T14:57:35Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10315",
     "added_at": "2026-09-09T14:17:53.497Z",
     "scope_reason": "keyword_match",
@@ -55,7 +55,7 @@
     "last_action_text": "Referred to the House Committee on Education and Workforce.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "Education"
   },
   {
     "id": "bill-119-hr10152",
