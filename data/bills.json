@@ -3075,6 +3075,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr8283",
+    "title": "Deterring American AI Model Theft Act of 2026",
+    "last_updated": "2026-09-14T15:16:42Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
+    "added_at": "2026-04-18T04:01:57.035Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.8283",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Huizenga, Bill [R-MI-4]",
+      "party": "R",
+      "state": "MI",
+      "bioguide_id": "H001058"
+    },
+    "introduced_date": "2026-04-15",
+    "last_action_date": "2026-04-22",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0.",
+    "committee": null,
+    "cosponsors_count": 21,
+    "policy_area": "International Affairs"
+  },
+  {
     "id": "bill-119-hr6996",
     "title": "Full AI Stack Export Promotion Act",
     "last_updated": "2026-09-03T17:02:32Z",
@@ -3102,35 +3131,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Foreign Trade and International Finance"
-  },
-  {
-    "id": "bill-119-hr8283",
-    "title": "Deterring American AI Model Theft Act of 2026",
-    "last_updated": "2026-09-03T08:06:24Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8283",
-    "added_at": "2026-04-18T04:01:57.035Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.8283",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Huizenga, Bill [R-MI-4]",
-      "party": "R",
-      "state": "MI",
-      "bioguide_id": "H001058"
-    },
-    "introduced_date": "2026-04-15",
-    "last_action_date": "2026-04-22",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0.",
-    "committee": null,
-    "cosponsors_count": 21,
-    "policy_area": "International Affairs"
   },
   {
     "id": "bill-119-hr8382",

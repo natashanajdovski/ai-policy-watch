@@ -1,5 +1,25 @@
 [
   {
+    "id": "hearing-119-119571",
+    "title": "“The International Criminal Court’s Threat to the Sovereignty of the United States and its Allies”",
+    "last_updated": "2026-09-14T14:18:40Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119571",
+    "added_at": "2026-09-14T16:21:52.119Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
+    "chamber": "house",
+    "date_time": "2026-09-15T18:00:00Z",
+    "location": "2237, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119571"
+  },
+  {
     "id": "hearing-119-119520",
     "title": "“Renewal of USPTO Fee Setting Authority: Giving Full Effect to the America Invents Act”",
     "last_updated": "2026-09-02T20:42:16Z",
