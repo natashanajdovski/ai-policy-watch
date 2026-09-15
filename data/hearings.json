@@ -22,7 +22,7 @@
   {
     "id": "hearing-119-119520",
     "title": "“Renewal of USPTO Fee Setting Authority: Giving Full Effect to the America Invents Act”",
-    "last_updated": "2026-09-02T20:42:16Z",
+    "last_updated": "2026-09-14T17:33:50Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119520",
     "added_at": "2026-08-27T20:20:01.010Z",
     "scope_reason": "keyword_match",
@@ -820,26 +820,6 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337474"
-  },
-  {
-    "id": "hearing-119-337424",
-    "title": "Hearings to examine AI chatbots.",
-    "last_updated": "2025-09-15T22:08:17Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/senate-event/337424",
-    "added_at": "2026-04-17T23:56:22.031Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Senate Judiciary Subcommittee on Crime and Counterterrorism",
-    "chamber": "senate",
-    "date_time": "2025-09-16T18:30:00Z",
-    "location": "226, Dirksen Senate Office Building",
-    "witnesses": [],
-    "cspan_url": null,
-    "event_id": "337424"
   },
   {
     "id": "hearing-119-118560",
