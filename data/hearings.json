@@ -2,7 +2,7 @@
   {
     "id": "hearing-119-119571",
     "title": "“The International Criminal Court’s Threat to the Sovereignty of the United States and its Allies”",
-    "last_updated": "2026-09-14T14:18:40Z",
+    "last_updated": "2026-09-15T18:12:06Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119571",
     "added_at": "2026-09-14T16:21:52.119Z",
     "scope_reason": "keyword_match",
@@ -10,12 +10,16 @@
       "artificial intelligence"
     ],
     "type": "hearing",
-    "status": "upcoming",
+    "status": "past",
     "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
     "chamber": "house",
     "date_time": "2026-09-15T18:00:00Z",
     "location": "2237, Rayburn House Office Building",
-    "witnesses": [],
+    "witnesses": [
+      "Mr. Abraham Bell, University of San Diego School of Law",
+      "Mr. Stuart Smith, Manhattan Institute",
+      "Mr. Stephen Rapp, Georgetown Law Center on National Security"
+    ],
     "cspan_url": null,
     "event_id": "119571"
   },
