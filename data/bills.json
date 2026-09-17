@@ -1,5 +1,63 @@
 [
   {
+    "id": "bill-119-hr10417",
+    "title": "To require the Secretary of Veterans Affairs to disclose each instance in which the Secretary uses artificial intelligence to interact with a covered individual, and for other purposes.",
+    "last_updated": "2026-09-17T08:07:39Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10417",
+    "added_at": "2026-09-17T14:45:41.615Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10417",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Barrett, Tom [R-MI-7]",
+      "party": "R",
+      "state": "MI",
+      "bioguide_id": "B001321"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s5417",
+    "title": "A bill to require entities to include human-controlled shutdown mechanisms in all artificial intelligence systems.",
+    "last_updated": "2026-09-17T10:56:29Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5417",
+    "added_at": "2026-09-17T14:45:53.608Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5417",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kennedy, John [R-LA]",
+      "party": "R",
+      "state": "LA",
+      "bioguide_id": "K000393"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10370",
     "title": "To better coordinate Federal efforts to utilize advance technologies, such as artificial intelligence, to improve diagnoses, treatments, cures, and prevention strategies for pediatric cancer, and for other purposes.",
     "last_updated": "2026-09-15T21:58:23Z",
@@ -30,13 +88,13 @@
   },
   {
     "id": "bill-119-hr10362",
-    "title": "To provide for certain artificial intelligence agent discovery and security standards, and for other purposes.",
-    "last_updated": "2026-09-15T21:58:23Z",
+    "title": "Stop Rogue AI Act",
+    "last_updated": "2026-09-17T05:23:28Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10362",
     "added_at": "2026-09-15T14:43:55.935Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -56,35 +114,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": null
-  },
-  {
-    "id": "bill-119-hr9501",
-    "title": "AI Tax Integrity Act of 2026",
-    "last_updated": "2026-09-09T14:53:04Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
-    "added_at": "2026-06-30T12:12:26.965Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9501",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Buchanan, Vern [R-FL-16]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "B001260"
-    },
-    "introduced_date": "2026-06-29",
-    "last_action_date": "2026-09-08",
-    "last_action_text": "Placed on the Union Calendar, Calendar No. 701.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Taxation"
   },
   {
     "id": "bill-119-hr10315",
@@ -114,6 +143,35 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Education"
+  },
+  {
+    "id": "bill-119-hr9501",
+    "title": "AI Tax Integrity Act of 2026",
+    "last_updated": "2026-09-09T14:53:04Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
+    "added_at": "2026-06-30T12:12:26.965Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9501",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Buchanan, Vern [R-FL-16]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "B001260"
+    },
+    "introduced_date": "2026-06-29",
+    "last_action_date": "2026-09-08",
+    "last_action_text": "Placed on the Union Calendar, Calendar No. 701.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Taxation"
   },
   {
     "id": "bill-119-hr7294",
