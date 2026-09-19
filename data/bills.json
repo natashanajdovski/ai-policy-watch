@@ -58,6 +58,64 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hr7294",
+    "title": "AI for Secure Networks Act",
+    "last_updated": "2026-09-19T08:06:04Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
+    "added_at": "2026-04-18T01:39:24.928Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.7294",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Menendez, Robert [D-NJ-8]",
+      "party": "D",
+      "state": "NJ",
+      "bioguide_id": "M001226"
+    },
+    "introduced_date": "2026-01-30",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Ordered to be Reported by the Yeas and Nays: 37 - 0.",
+    "committee": null,
+    "cosponsors_count": 5,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr10152",
+    "title": "Open-Source AI Leadership Act",
+    "last_updated": "2026-09-19T08:06:06Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
+    "added_at": "2026-08-28T21:08:31.584Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10152",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Evans, Gabe [R-CO-8]",
+      "party": "R",
+      "state": "CO",
+      "bioguide_id": "E000300"
+    },
+    "introduced_date": "2026-08-27",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Ordered to be Reported by the Yeas and Nays: 26 - 21.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr10417",
     "title": "To require the Secretary of Veterans Affairs to disclose each instance in which the Secretary uses artificial intelligence to interact with a covered individual, and for other purposes.",
     "last_updated": "2026-09-17T08:07:39Z",
@@ -230,64 +288,6 @@
     "committee": null,
     "cosponsors_count": 3,
     "policy_area": "Taxation"
-  },
-  {
-    "id": "bill-119-hr7294",
-    "title": "AI for Secure Networks Act",
-    "last_updated": "2026-09-17T15:45:05Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
-    "added_at": "2026-04-18T01:39:24.928Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.7294",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Menendez, Robert [D-NJ-8]",
-      "party": "D",
-      "state": "NJ",
-      "bioguide_id": "M001226"
-    },
-    "introduced_date": "2026-01-30",
-    "last_action_date": "2026-09-01",
-    "last_action_text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr10152",
-    "title": "Open-Source AI Leadership Act",
-    "last_updated": "2026-09-16T13:17:24Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
-    "added_at": "2026-08-28T21:08:31.584Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10152",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Evans, Gabe [R-CO-8]",
-      "party": "R",
-      "state": "CO",
-      "bioguide_id": "E000300"
-    },
-    "introduced_date": "2026-08-27",
-    "last_action_date": "2026-09-01",
-    "last_action_text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10210",
