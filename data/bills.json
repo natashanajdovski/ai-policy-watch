@@ -89,7 +89,7 @@
   {
     "id": "bill-119-hr10484",
     "title": "Covered AI Prohibition Act",
-    "last_updated": "2026-09-18T12:28:21Z",
+    "last_updated": "2026-09-22T20:59:05Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10484",
     "added_at": "2026-09-18T14:12:00.662Z",
     "scope_reason": "keyword_match",
@@ -113,7 +113,7 @@
     "last_action_text": "Referred to the House Committee on Armed Services.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr7294",
@@ -172,6 +172,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr10418",
+    "title": "VA Claims AI Accountability Act",
+    "last_updated": "2026-09-23T04:53:21Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10418",
+    "added_at": "2026-09-23T14:47:52.097Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10418",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Barrett, Tom [R-MI-7]",
+      "party": "R",
+      "state": "MI",
+      "bioguide_id": "B001321"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
   },
   {
     "id": "bill-119-s5417",
@@ -290,6 +319,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hr9501",
+    "title": "AI Tax Integrity Act of 2026",
+    "last_updated": "2026-09-22T20:20:17Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
+    "added_at": "2026-06-30T12:12:26.965Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9501",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Buchanan, Vern [R-FL-16]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "B001260"
+    },
+    "introduced_date": "2026-06-29",
+    "last_action_date": "2026-09-08",
+    "last_action_text": "Placed on the Union Calendar, Calendar No. 701.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Taxation"
+  },
+  {
     "id": "bill-119-hr10315",
     "title": "AI LABS Act",
     "last_updated": "2026-09-11T14:57:35Z",
@@ -317,35 +375,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Education"
-  },
-  {
-    "id": "bill-119-hr9501",
-    "title": "AI Tax Integrity Act of 2026",
-    "last_updated": "2026-09-09T14:53:04Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
-    "added_at": "2026-06-30T12:12:26.965Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9501",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Buchanan, Vern [R-FL-16]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "B001260"
-    },
-    "introduced_date": "2026-06-29",
-    "last_action_date": "2026-09-08",
-    "last_action_text": "Placed on the Union Calendar, Calendar No. 701.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Taxation"
   },
   {
     "id": "bill-119-hr10210",
@@ -379,7 +408,7 @@
   {
     "id": "bill-119-hr10189",
     "title": "Defense AI Reliability and Reporting Act",
-    "last_updated": "2026-09-02T00:58:19Z",
+    "last_updated": "2026-09-22T18:33:03Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10189",
     "added_at": "2026-09-01T14:37:05.404Z",
     "scope_reason": "keyword_match",
@@ -403,7 +432,7 @@
     "last_action_text": "Referred to the House Committee on Armed Services.",
     "committee": null,
     "cosponsors_count": 2,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr10180",
@@ -1798,35 +1827,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr9477",
-    "title": "AI Incident Reporting Act",
-    "last_updated": "2026-09-16T08:09:19Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
-    "added_at": "2026-06-26T12:14:17.630Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9477",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Moran, Nathaniel [R-TX-1]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "M001224"
-    },
-    "introduced_date": "2026-06-25",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr5351",
     "title": "NSF AI Education Act of 2025",
     "last_updated": "2026-09-19T23:21:55Z",
@@ -1940,6 +1940,35 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
     "committee": null,
     "cosponsors_count": 34,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr9477",
+    "title": "AI Incident Reporting Act",
+    "last_updated": "2026-09-16T08:09:19Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9477",
+    "added_at": "2026-06-26T12:14:17.630Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9477",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Moran, Nathaniel [R-TX-1]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "M001224"
+    },
+    "introduced_date": "2026-06-25",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": 3,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -2990,7 +3019,7 @@
   {
     "id": "bill-119-s4456",
     "title": "AI OVERWATCH Act",
-    "last_updated": "2026-08-05T11:03:21Z",
+    "last_updated": "2026-09-23T11:03:25Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
     "added_at": "2026-05-08T11:19:38.788Z",
     "scope_reason": "keyword_match",
@@ -3013,7 +3042,7 @@
     "last_action_date": "2026-04-30",
     "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "committee": null,
-    "cosponsors_count": 9,
+    "cosponsors_count": 10,
     "policy_area": "Foreign Trade and International Finance"
   },
   {
@@ -5861,6 +5890,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-s1792",
+    "title": "AI Whistleblower Protection Act",
+    "last_updated": "2026-09-23T11:03:24Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
+    "added_at": "2026-04-18T01:36:11.974Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.1792",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Grassley, Chuck [R-IA]",
+      "party": "R",
+      "state": "IA",
+      "bioguide_id": "G000386"
+    },
+    "introduced_date": "2025-05-15",
+    "last_action_date": "2025-05-15",
+    "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "committee": null,
+    "cosponsors_count": 9,
+    "policy_area": "Labor and Employment"
+  },
+  {
     "id": "bill-119-hr3460",
     "title": "AI Whistleblower Protection Act",
     "last_updated": "2026-05-21T20:40:18Z",
@@ -5887,35 +5945,6 @@
     "last_action_text": "Referred to the House Committee on Education and Workforce.",
     "committee": null,
     "cosponsors_count": 7,
-    "policy_area": "Labor and Employment"
-  },
-  {
-    "id": "bill-119-s1792",
-    "title": "AI Whistleblower Protection Act",
-    "last_updated": "2026-05-21T20:40:52Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
-    "added_at": "2026-04-18T01:36:11.974Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.1792",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Grassley, Chuck [R-IA]",
-      "party": "R",
-      "state": "IA",
-      "bioguide_id": "G000386"
-    },
-    "introduced_date": "2025-05-15",
-    "last_action_date": "2025-05-15",
-    "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-    "committee": null,
-    "cosponsors_count": 6,
     "policy_area": "Labor and Employment"
   },
   {
