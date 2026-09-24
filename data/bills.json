@@ -1,5 +1,92 @@
 [
   {
+    "id": "bill-119-sres896",
+    "title": "A resolution expressing the sense of the Senate regarding the importance of religious freedom, authoritative texts, and transparency in artificial intelligence systems.",
+    "last_updated": "2026-09-24T10:56:38Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/896",
+    "added_at": "2026-09-24T14:44:16.806Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "passed_senate",
+    "bill_number": "SRES.896",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Lankford, James [R-OK]",
+      "party": "R",
+      "state": "OK",
+      "bioguide_id": "L000575"
+    },
+    "introduced_date": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "last_action_text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s5471",
+    "title": "A bill to require disclosure of certain information relating to artificial intelligence systems, and for other purposes.",
+    "last_updated": "2026-09-24T10:56:38Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5471",
+    "added_at": "2026-09-24T14:44:19.803Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5471",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Coons, Christopher A. [D-DE]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "C001088"
+    },
+    "introduced_date": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s5493",
+    "title": "A bill to establish the Department of Artificial Intelligence and to provide for the regulation of advanced artificial intelligence systems, and for other purposes.",
+    "last_updated": "2026-09-24T10:56:43Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5493",
+    "added_at": "2026-09-24T14:44:22.807Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5493",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Sanders, Bernard [I-VT]",
+      "party": "I",
+      "state": "VT",
+      "bioguide_id": "S000033"
+    },
+    "introduced_date": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10519",
     "title": "To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
     "last_updated": "2026-09-22T11:43:22Z",
@@ -203,35 +290,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-s5417",
-    "title": "A bill to require entities to include human-controlled shutdown mechanisms in all artificial intelligence systems.",
-    "last_updated": "2026-09-17T10:56:29Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5417",
-    "added_at": "2026-09-17T14:45:53.608Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5417",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Kennedy, John [R-LA]",
-      "party": "R",
-      "state": "LA",
-      "bioguide_id": "K000393"
-    },
-    "introduced_date": "2026-09-16",
-    "last_action_date": "2026-09-16",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr10417",
     "title": "VA AI Transparency Act of 2026",
     "last_updated": "2026-09-22T12:58:25Z",
@@ -261,9 +319,38 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-s5417",
+    "title": "A bill to require entities to include human-controlled shutdown mechanisms in all artificial intelligence systems.",
+    "last_updated": "2026-09-17T10:56:29Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5417",
+    "added_at": "2026-09-17T14:45:53.608Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5417",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kennedy, John [R-LA]",
+      "party": "R",
+      "state": "LA",
+      "bioguide_id": "K000393"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10362",
     "title": "Stop Rogue AI Act",
-    "last_updated": "2026-09-17T05:23:28Z",
+    "last_updated": "2026-09-23T19:50:59Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10362",
     "added_at": "2026-09-15T14:43:55.935Z",
     "scope_reason": "keyword_match",
@@ -287,7 +374,7 @@
     "last_action_text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10370",
@@ -321,7 +408,7 @@
   {
     "id": "bill-119-hr9501",
     "title": "AI Tax Integrity Act of 2026",
-    "last_updated": "2026-09-22T20:20:17Z",
+    "last_updated": "2026-09-24T14:26:18Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
     "added_at": "2026-06-30T12:12:26.965Z",
     "scope_reason": "keyword_match",
@@ -841,6 +928,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr9862",
+    "title": "Responsible Artificial Intelligence for Veterans Act of 2026",
+    "last_updated": "2026-09-24T08:05:26Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
+    "added_at": "2026-07-23T11:54:47.444Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9862",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Murphy, Gregory F. [R-NC-3]",
+      "party": "R",
+      "state": "NC",
+      "bioguide_id": "M001210"
+    },
+    "introduced_date": "2026-07-22",
+    "last_action_date": "2026-07-29",
+    "last_action_text": "Referred to the Subcommittee on Oversight and Investigations.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
     "id": "bill-119-s5154",
     "title": "A bill to establish protections for minors who use companion artificial intelligence chatbots, and for other purposes.",
     "last_updated": "2026-07-29T10:56:23Z",
@@ -1158,35 +1274,6 @@
     "committee": null,
     "cosponsors_count": 8,
     "policy_area": null
-  },
-  {
-    "id": "bill-119-hr9862",
-    "title": "Responsible Artificial Intelligence for Veterans Act of 2026",
-    "last_updated": "2026-09-03T08:06:45Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9862",
-    "added_at": "2026-07-23T11:54:47.444Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9862",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Murphy, Gregory F. [R-NC-3]",
-      "party": "R",
-      "state": "NC",
-      "bioguide_id": "M001210"
-    },
-    "introduced_date": "2026-07-22",
-    "last_action_date": "2026-07-22",
-    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr8747",
@@ -3019,7 +3106,7 @@
   {
     "id": "bill-119-s4456",
     "title": "AI OVERWATCH Act",
-    "last_updated": "2026-09-23T11:03:25Z",
+    "last_updated": "2026-09-24T11:03:22Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
     "added_at": "2026-05-08T11:19:38.788Z",
     "scope_reason": "keyword_match",
@@ -5892,7 +5979,7 @@
   {
     "id": "bill-119-s1792",
     "title": "AI Whistleblower Protection Act",
-    "last_updated": "2026-09-23T11:03:24Z",
+    "last_updated": "2026-09-24T11:03:21Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
     "added_at": "2026-04-18T01:36:11.974Z",
     "scope_reason": "keyword_match",
