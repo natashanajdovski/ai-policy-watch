@@ -187,45 +187,5 @@
     "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=OSTP-TECH-2025-0067",
     "document_number": "2025-18737",
     "document_type": "Notice"
-  },
-  {
-    "id": "rfi-2025-18640",
-    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities",
-    "last_updated": "2025-09-25",
-    "source_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18640/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful",
-    "added_at": "2026-04-17T23:39:35.884Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "rfi",
-    "status": "closed",
-    "agency": "Education Department",
-    "docket_id": "ED-2025-OS-0680",
-    "open_date": "2025-09-25",
-    "close_date": "2025-10-27",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0680",
-    "document_number": "2025-18640",
-    "document_type": "Proposed Rule"
-  },
-  {
-    "id": "rfi-2025-18639",
-    "title": "Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness",
-    "last_updated": "2025-09-25",
-    "source_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18639/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career",
-    "added_at": "2026-04-17T23:39:35.884Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "rfi",
-    "status": "closed",
-    "agency": "Education Department",
-    "docket_id": "ED-2025-OS-0679",
-    "open_date": "2025-09-25",
-    "close_date": "2025-10-27",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=ED-2025-OS-0679",
-    "document_number": "2025-18639",
-    "document_type": "Proposed Rule"
   }
 ]
