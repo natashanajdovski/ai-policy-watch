@@ -1450,35 +1450,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr8747",
-    "title": "K–12 AI Literacy and Readiness Act of 2026",
-    "last_updated": "2026-09-19T23:33:43Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
-    "added_at": "2026-06-02T14:06:01.599Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.8747",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fine, Randy [R-FL-6]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "F000484"
-    },
-    "introduced_date": "2026-05-12",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Education"
-  },
-  {
     "id": "bill-119-hr6529",
     "title": "Protecting Families from AI Data Center Energy Costs Act",
     "last_updated": "2026-09-25T08:05:33Z",
@@ -1506,6 +1477,35 @@
     "committee": null,
     "cosponsors_count": 25,
     "policy_area": "Energy"
+  },
+  {
+    "id": "bill-119-hr8747",
+    "title": "K–12 AI Literacy and Readiness Act of 2026",
+    "last_updated": "2026-09-19T23:33:43Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
+    "added_at": "2026-06-02T14:06:01.599Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.8747",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fine, Randy [R-FL-6]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "F000484"
+    },
+    "introduced_date": "2026-05-12",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Education"
   },
   {
     "id": "bill-119-s5047",
@@ -2088,35 +2088,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr5351",
-    "title": "NSF AI Education Act of 2025",
-    "last_updated": "2026-09-19T23:21:55Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
-    "added_at": "2026-04-18T01:39:21.713Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.5351",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fong, Vince [R-CA-20]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "F000480"
-    },
-    "introduced_date": "2025-09-15",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 33 - 0.",
-    "committee": null,
-    "cosponsors_count": 28,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr6461",
     "title": "READ AI Models Act",
     "last_updated": "2026-09-25T08:05:52Z",
@@ -2172,6 +2143,35 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
     "committee": null,
     "cosponsors_count": 4,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr5351",
+    "title": "NSF AI Education Act of 2025",
+    "last_updated": "2026-09-19T23:21:55Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5351",
+    "added_at": "2026-04-18T01:39:21.713Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.5351",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fong, Vince [R-CA-20]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "F000480"
+    },
+    "introduced_date": "2025-09-15",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 33 - 0.",
+    "committee": null,
+    "cosponsors_count": 28,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -2378,35 +2378,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr8881",
-    "title": "SBA Artificial Intelligence Utilization Act of 2026",
-    "last_updated": "2026-09-19T23:40:41Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
-    "added_at": "2026-05-20T12:28:07.109Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "passed_house",
-    "bill_number": "HR.8881",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Finstad, Brad [R-MN-1]",
-      "party": "R",
-      "state": "MN",
-      "bioguide_id": "F000475"
-    },
-    "introduced_date": "2026-05-19",
-    "last_action_date": "2026-06-24",
-    "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Commerce"
-  },
-  {
     "id": "bill-119-hr9442",
     "title": "Artificial Intelligence Data Center Moratorium Act",
     "last_updated": "2026-09-22T08:05:48Z",
@@ -2434,6 +2405,35 @@
     "committee": null,
     "cosponsors_count": 18,
     "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr8881",
+    "title": "SBA Artificial Intelligence Utilization Act of 2026",
+    "last_updated": "2026-09-19T23:40:41Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8881",
+    "added_at": "2026-05-20T12:28:07.109Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "passed_house",
+    "bill_number": "HR.8881",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Finstad, Brad [R-MN-1]",
+      "party": "R",
+      "state": "MN",
+      "bioguide_id": "F000475"
+    },
+    "introduced_date": "2026-05-19",
+    "last_action_date": "2026-06-24",
+    "last_action_text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Commerce"
   },
   {
     "id": "bill-119-hr4801",

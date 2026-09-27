@@ -166,26 +166,5 @@
     "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=HHS-ONC-2026-0001",
     "document_number": "2025-23641",
     "document_type": "Notice"
-  },
-  {
-    "id": "rfi-2025-18737",
-    "title": "Notice of Request for Information; Regulatory Reform on Artificial Intelligence",
-    "last_updated": "2025-09-26",
-    "source_url": "https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence",
-    "added_at": "2026-04-17T23:39:35.884Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence",
-      "ai"
-    ],
-    "type": "rfi",
-    "status": "closed",
-    "agency": "Science and Technology Policy Office",
-    "docket_id": "OSTP-TECH-2025-0067",
-    "open_date": "2025-09-26",
-    "close_date": "2025-10-27",
-    "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=OSTP-TECH-2025-0067",
-    "document_number": "2025-18737",
-    "document_type": "Notice"
   }
 ]
