@@ -1,5 +1,121 @@
 [
   {
+    "id": "bill-119-hr10563",
+    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+    "last_updated": "2026-09-28T12:53:23Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
+    "added_at": "2026-09-28T18:01:27.391Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10563",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Jayapal, Pramila [D-WA-7]",
+      "party": "D",
+      "state": "WA",
+      "bioguide_id": "J000298"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10594",
+    "title": "To require the Secretary of Homeland Security to carry out prize competitions to advance the science of interpretability and to develop adversarial robustness with respect to artificial intelligence products, and for other purposes.",
+    "last_updated": "2026-09-25T18:13:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
+    "added_at": "2026-09-25T15:07:19.133Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10594",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Pfluger, August [R-TX-11]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "P000048"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "committee": null,
+    "cosponsors_count": 4,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10578",
+    "title": "AI DATA Act",
+    "last_updated": "2026-09-28T12:53:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10578",
+    "added_at": "2026-09-25T15:07:16.122Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10578",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Min, Dave [D-CA-47]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "M001241"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10567",
+    "title": "AI Emergency Button Act",
+    "last_updated": "2026-09-28T12:53:22Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10567",
+    "added_at": "2026-09-25T15:07:25.125Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10567",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s5518",
     "title": "A bill to establish the Artificial Intelligence Horizon Fund, and for other purposes.",
     "last_updated": "2026-09-25T10:56:40Z",
@@ -58,35 +174,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr10567",
-    "title": "To require entities to include human-controlled shutdown mechanisms in all artificial intelligence systems.",
-    "last_updated": "2026-09-25T18:13:22Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10567",
-    "added_at": "2026-09-25T15:07:25.125Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10567",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
-      "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr10538",
     "title": "To establish the Department of Artificial Intelligence and to provide for the regulation of advanced artificial intelligence systems, and for other purposes.",
     "last_updated": "2026-09-25T18:13:22Z",
@@ -113,93 +200,6 @@
     "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
     "committee": null,
     "cosponsors_count": 9,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr10594",
-    "title": "To require the Secretary of Homeland Security to carry out prize competitions to advance the science of interpretability and to develop adversarial robustness with respect to artificial intelligence products, and for other purposes.",
-    "last_updated": "2026-09-25T18:13:22Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
-    "added_at": "2026-09-25T15:07:19.133Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10594",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Pfluger, August [R-TX-11]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "P000048"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
-    "committee": null,
-    "cosponsors_count": 4,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr10578",
-    "title": "To authorize certain labor market data collection activities and to improve Federal measurement of the workforce impacts of artificial intelligence, and for other purposes.",
-    "last_updated": "2026-09-25T18:13:23Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10578",
-    "added_at": "2026-09-25T15:07:16.122Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10578",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Min, Dave [D-CA-47]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "M001241"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-sres896",
-    "title": "A resolution expressing the sense of the Senate regarding the importance of religious freedom, authoritative texts, and transparency in artificial intelligence systems.",
-    "last_updated": "2026-09-26T07:48:21Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/896",
-    "added_at": "2026-09-24T14:44:16.806Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "passed_senate",
-    "bill_number": "SRES.896",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Lankford, James [R-OK]",
-      "party": "R",
-      "state": "OK",
-      "bioguide_id": "L000575"
-    },
-    "introduced_date": "2026-09-23",
-    "last_action_date": "2026-09-23",
-    "last_action_text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4958; text: CR S4951)",
-    "committee": null,
-    "cosponsors_count": 1,
     "policy_area": null
   },
   {
@@ -261,9 +261,38 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-sres896",
+    "title": "A resolution expressing the sense of the Senate regarding the importance of religious freedom, authoritative texts, and transparency in artificial intelligence systems.",
+    "last_updated": "2026-09-28T14:43:05Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/896",
+    "added_at": "2026-09-24T14:44:16.806Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "passed_senate",
+    "bill_number": "SRES.896",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Lankford, James [R-OK]",
+      "party": "R",
+      "state": "OK",
+      "bioguide_id": "L000575"
+    },
+    "introduced_date": "2026-09-23",
+    "last_action_date": "2026-09-23",
+    "last_action_text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4958; text: CR S4951)",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Civil Rights and Liberties, Minority Issues"
+  },
+  {
     "id": "bill-119-hr10519",
     "title": "To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
-    "last_updated": "2026-09-22T11:43:22Z",
+    "last_updated": "2026-09-28T12:48:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10519",
     "added_at": "2026-09-22T14:29:27.305Z",
     "scope_reason": "keyword_match",
