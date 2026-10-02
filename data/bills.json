@@ -1,8 +1,66 @@
 [
   {
+    "id": "bill-119-hr10670",
+    "title": "To prohibit Chinese AI models from being used on government-issued devices or software systems, to prohibit the procurement of any such models, and for other purposes.",
+    "last_updated": "2026-10-02T11:28:21Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10670",
+    "added_at": "2026-10-02T16:09:22.559Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10670",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "party": "D",
+      "state": "NJ",
+      "bioguide_id": "G000583"
+    },
+    "introduced_date": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "last_action_text": "Referred to the House Committee on Oversight and Government Reform.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10719",
+    "title": "To establish age-appropriate design standards and safety safeguards for artificial intelligence chatbots accessed by minors, and for other purposes.",
+    "last_updated": "2026-10-02T11:28:21Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10719",
+    "added_at": "2026-10-02T16:09:25.561Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10719",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Whitesides, George [D-CA-27]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "W000830"
+    },
+    "introduced_date": "2026-10-01",
+    "last_action_date": "2026-10-01",
+    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s2938",
     "title": "Artificial Intelligence Risk Evaluation Act of 2025",
-    "last_updated": "2026-10-01T11:03:23Z",
+    "last_updated": "2026-10-02T11:03:20Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938",
     "added_at": "2026-04-18T01:38:51.867Z",
     "scope_reason": "keyword_match",
@@ -60,7 +118,7 @@
   {
     "id": "bill-119-s5601",
     "title": "A bill to require the Secretary of Defense to establish reporting requirements and voluntary guidance for large artificial intelligence contractors.",
-    "last_updated": "2026-10-01T15:56:21Z",
+    "last_updated": "2026-10-01T20:41:28Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5601",
     "added_at": "2026-09-30T16:19:07.531Z",
     "scope_reason": "keyword_match",
@@ -118,7 +176,7 @@
   {
     "id": "bill-119-sres918",
     "title": "A resolution establishing the Select Committee on Artificial Intelligence.",
-    "last_updated": "2026-10-01T10:56:54Z",
+    "last_updated": "2026-10-02T10:56:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/918",
     "added_at": "2026-09-30T16:19:16.538Z",
     "scope_reason": "keyword_match",
@@ -1394,7 +1452,7 @@
   {
     "id": "bill-119-hr9917",
     "title": "AI Kill Switch Act",
-    "last_updated": "2026-09-16T08:09:28Z",
+    "last_updated": "2026-10-02T08:05:46Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
     "added_at": "2026-07-30T11:54:28.731Z",
     "scope_reason": "keyword_match",
@@ -1417,7 +1475,7 @@
     "last_action_date": "2026-07-24",
     "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
-    "cosponsors_count": 3,
+    "cosponsors_count": 9,
     "policy_area": "Government Operations and Politics"
   },
   {
@@ -2262,35 +2320,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr6461",
-    "title": "READ AI Models Act",
-    "last_updated": "2026-09-25T08:05:52Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
-    "added_at": "2026-04-18T01:38:27.841Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6461",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. McBride, Sarah [D-DE-At Large]",
-      "party": "D",
-      "state": "DE",
-      "bioguide_id": "M001238"
-    },
-    "introduced_date": "2025-12-04",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
-    "committee": null,
-    "cosponsors_count": 11,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-hr8893",
     "title": "Protecting Consumers from Deceptive AI Act",
     "last_updated": "2026-09-30T12:05:18Z",
@@ -2320,6 +2349,64 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr2385",
+    "title": "CREATE AI Act of 2025",
+    "last_updated": "2026-10-02T08:05:32Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+    "added_at": "2026-04-18T01:39:09.906Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.2385",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2025-03-26",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
+    "committee": null,
+    "cosponsors_count": 35,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr6461",
+    "title": "READ AI Models Act",
+    "last_updated": "2026-09-25T08:05:52Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6461",
+    "added_at": "2026-04-18T01:38:27.841Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6461",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. McBride, Sarah [D-DE-At Large]",
+      "party": "D",
+      "state": "DE",
+      "bioguide_id": "M001238"
+    },
+    "introduced_date": "2025-12-04",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+    "committee": null,
+    "cosponsors_count": 11,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr5351",
     "title": "NSF AI Education Act of 2025",
     "last_updated": "2026-09-19T23:21:55Z",
@@ -2346,35 +2433,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 33 - 0.",
     "committee": null,
     "cosponsors_count": 28,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr2385",
-    "title": "CREATE AI Act of 2025",
-    "last_updated": "2026-09-19T23:28:52Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/2385",
-    "added_at": "2026-04-18T01:39:09.906Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.2385",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2025-03-26",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
-    "committee": null,
-    "cosponsors_count": 34,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -4817,7 +4875,7 @@
   {
     "id": "bill-119-hr6875",
     "title": "AI OVERWATCH Act",
-    "last_updated": "2026-09-19T23:37:29Z",
+    "last_updated": "2026-10-02T08:06:03Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6875",
     "added_at": "2026-04-18T01:39:18.919Z",
     "scope_reason": "keyword_match",
@@ -4840,7 +4898,7 @@
     "last_action_date": "2026-01-21",
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
     "committee": null,
-    "cosponsors_count": 43,
+    "cosponsors_count": 45,
     "policy_area": "International Affairs"
   },
   {
@@ -6296,9 +6354,38 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr3460",
+    "title": "AI Whistleblower Protection Act",
+    "last_updated": "2026-10-02T08:05:59Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
+    "added_at": "2026-04-18T01:36:51.364Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.3460",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2025-05-15",
+    "last_action_date": "2025-05-15",
+    "last_action_text": "Referred to the House Committee on Education and Workforce.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": "Labor and Employment"
+  },
+  {
     "id": "bill-119-s1792",
     "title": "AI Whistleblower Protection Act",
-    "last_updated": "2026-10-01T11:03:22Z",
+    "last_updated": "2026-10-02T11:03:20Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1792",
     "added_at": "2026-04-18T01:36:11.974Z",
     "scope_reason": "keyword_match",
@@ -6322,35 +6409,6 @@
     "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
     "committee": null,
     "cosponsors_count": 13,
-    "policy_area": "Labor and Employment"
-  },
-  {
-    "id": "bill-119-hr3460",
-    "title": "AI Whistleblower Protection Act",
-    "last_updated": "2026-05-21T20:40:18Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
-    "added_at": "2026-04-18T01:36:51.364Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.3460",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2025-05-15",
-    "last_action_date": "2025-05-15",
-    "last_action_text": "Referred to the House Committee on Education and Workforce.",
-    "committee": null,
-    "cosponsors_count": 7,
     "policy_area": "Labor and Employment"
   },
   {
@@ -6414,7 +6472,7 @@
   {
     "id": "bill-119-s1699",
     "title": "Artificial Intelligence Public Awareness and Education Campaign Act",
-    "last_updated": "2026-10-01T11:03:22Z",
+    "last_updated": "2026-10-02T11:03:20Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1699",
     "added_at": "2026-04-18T01:37:54.772Z",
     "scope_reason": "keyword_match",
@@ -6646,7 +6704,7 @@
   {
     "id": "bill-119-hr1941",
     "title": "Preventing Deepfakes of Intimate Images Act",
-    "last_updated": "2026-04-06T16:07:38Z",
+    "last_updated": "2026-10-02T08:06:19Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1941",
     "added_at": "2026-04-18T01:39:57.952Z",
     "scope_reason": "keyword_match",
@@ -6669,7 +6727,7 @@
     "last_action_date": "2025-03-06",
     "last_action_text": "Referred to the House Committee on the Judiciary.",
     "committee": null,
-    "cosponsors_count": 11,
+    "cosponsors_count": 12,
     "policy_area": "Crime and Law Enforcement"
   },
   {
