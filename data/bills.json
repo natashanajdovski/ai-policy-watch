@@ -319,6 +319,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-s5544",
+    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+    "last_updated": "2026-10-03T04:23:25Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5544",
+    "added_at": "2026-10-03T14:36:54.176Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5544",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Markey, Edward J. [D-MA]",
+      "party": "D",
+      "state": "MA",
+      "bioguide_id": "M000133"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-s5518",
     "title": "A bill to establish the Artificial Intelligence Horizon Fund, and for other purposes.",
     "last_updated": "2026-09-25T10:56:40Z",
@@ -638,6 +667,64 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr10418",
+    "title": "VA Claims AI Accountability Act",
+    "last_updated": "2026-10-02T20:58:46Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10418",
+    "added_at": "2026-09-23T14:47:52.097Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10418",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Barrett, Tom [R-MI-7]",
+      "party": "R",
+      "state": "MI",
+      "bioguide_id": "B001321"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "id": "bill-119-hr10417",
+    "title": "VA AI Transparency Act of 2026",
+    "last_updated": "2026-10-02T20:58:17Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10417",
+    "added_at": "2026-09-17T14:45:41.615Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10417",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Barrett, Tom [R-MI-7]",
+      "party": "R",
+      "state": "MI",
+      "bioguide_id": "B001321"
+    },
+    "introduced_date": "2026-09-16",
+    "last_action_date": "2026-09-16",
+    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
     "id": "bill-119-s5417",
     "title": "AI Emergency Button Act",
     "last_updated": "2026-10-01T03:23:22Z",
@@ -662,64 +749,6 @@
     "introduced_date": "2026-09-16",
     "last_action_date": "2026-09-16",
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr10418",
-    "title": "VA Claims AI Accountability Act",
-    "last_updated": "2026-09-23T04:53:21Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10418",
-    "added_at": "2026-09-23T14:47:52.097Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10418",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Barrett, Tom [R-MI-7]",
-      "party": "R",
-      "state": "MI",
-      "bioguide_id": "B001321"
-    },
-    "introduced_date": "2026-09-16",
-    "last_action_date": "2026-09-16",
-    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-hr10417",
-    "title": "VA AI Transparency Act of 2026",
-    "last_updated": "2026-09-22T12:58:25Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10417",
-    "added_at": "2026-09-17T14:45:41.615Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10417",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Barrett, Tom [R-MI-7]",
-      "party": "R",
-      "state": "MI",
-      "bioguide_id": "B001321"
-    },
-    "introduced_date": "2026-09-16",
-    "last_action_date": "2026-09-16",
-    "last_action_text": "Referred to the House Committee on Veterans' Affairs.",
     "committee": null,
     "cosponsors_count": null,
     "policy_area": null
@@ -8038,7 +8067,7 @@
   {
     "id": "bill-118-s4714",
     "title": "Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2024",
-    "last_updated": "2025-01-14T17:21:40Z",
+    "last_updated": "2026-10-02T16:27:18Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4714",
     "added_at": "2026-04-18T01:42:17.075Z",
     "scope_reason": "keyword_match",
