@@ -205,7 +205,7 @@
   {
     "id": "bill-119-hr10563",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-09-28T12:53:23Z",
+    "last_updated": "2026-10-05T16:17:46Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
     "added_at": "2026-09-28T18:01:27.391Z",
     "scope_reason": "keyword_match",
@@ -229,12 +229,12 @@
     "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 8,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr10594",
     "title": "Reliable Artificial Intelligence Research Act of 2026",
-    "last_updated": "2026-09-30T05:53:22Z",
+    "last_updated": "2026-10-05T17:26:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
     "added_at": "2026-09-25T15:07:19.133Z",
     "scope_reason": "keyword_match",
@@ -258,12 +258,12 @@
     "last_action_text": "Referred to the House Committee on Homeland Security.",
     "committee": null,
     "cosponsors_count": 4,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr10578",
     "title": "AI DATA Act",
-    "last_updated": "2026-09-28T12:53:22Z",
+    "last_updated": "2026-10-05T11:57:37Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10578",
     "added_at": "2026-09-25T15:07:16.122Z",
     "scope_reason": "keyword_match",
@@ -287,12 +287,12 @@
     "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 3,
-    "policy_area": null
+    "policy_area": "Labor and Employment"
   },
   {
     "id": "bill-119-hr10567",
     "title": "AI Emergency Button Act",
-    "last_updated": "2026-09-28T12:53:22Z",
+    "last_updated": "2026-10-05T11:55:08Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10567",
     "added_at": "2026-09-25T15:07:25.125Z",
     "scope_reason": "keyword_match",
@@ -316,7 +316,7 @@
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5544",
@@ -524,7 +524,7 @@
   {
     "id": "bill-119-hr10519",
     "title": "To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
-    "last_updated": "2026-09-28T12:48:32Z",
+    "last_updated": "2026-10-05T16:12:42Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10519",
     "added_at": "2026-09-22T14:29:27.305Z",
     "scope_reason": "keyword_match",
@@ -548,7 +548,7 @@
     "last_action_text": "Referred to the House Committee on Homeland Security.",
     "committee": null,
     "cosponsors_count": 4,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr10515",
@@ -727,7 +727,7 @@
   {
     "id": "bill-119-s5417",
     "title": "AI Emergency Button Act",
-    "last_updated": "2026-10-01T03:23:22Z",
+    "last_updated": "2026-10-05T16:06:25Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5417",
     "added_at": "2026-09-17T14:45:53.608Z",
     "scope_reason": "keyword_match",
@@ -751,7 +751,7 @@
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": null
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr7294",
@@ -1711,6 +1711,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hr8747",
+    "title": "K–12 AI Literacy and Readiness Act of 2026",
+    "last_updated": "2026-10-05T16:09:07Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
+    "added_at": "2026-06-02T14:06:01.599Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.8747",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fine, Randy [R-FL-6]",
+      "party": "R",
+      "state": "FL",
+      "bioguide_id": "F000484"
+    },
+    "introduced_date": "2026-05-12",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Education"
+  },
+  {
     "id": "bill-119-hr6529",
     "title": "Protecting Families from AI Data Center Energy Costs Act",
     "last_updated": "2026-09-25T08:05:33Z",
@@ -1738,35 +1767,6 @@
     "committee": null,
     "cosponsors_count": 25,
     "policy_area": "Energy"
-  },
-  {
-    "id": "bill-119-hr8747",
-    "title": "K–12 AI Literacy and Readiness Act of 2026",
-    "last_updated": "2026-09-19T23:33:43Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8747",
-    "added_at": "2026-06-02T14:06:01.599Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.8747",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fine, Randy [R-FL-6]",
-      "party": "R",
-      "state": "FL",
-      "bioguide_id": "F000484"
-    },
-    "introduced_date": "2026-05-12",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Education"
   },
   {
     "id": "bill-119-s5047",
@@ -3222,7 +3222,7 @@
   {
     "id": "bill-119-s4742",
     "title": "AI DATA Act",
-    "last_updated": "2026-07-02T13:51:56Z",
+    "last_updated": "2026-10-05T11:57:15Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4742",
     "added_at": "2026-06-11T14:01:29.906Z",
     "scope_reason": "keyword_match",
@@ -5311,7 +5311,7 @@
   {
     "id": "bill-119-s3336",
     "title": "Reliable Artificial Intelligence Research Act of 2025",
-    "last_updated": "2026-01-07T17:33:54Z",
+    "last_updated": "2026-10-05T17:26:23Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3336",
     "added_at": "2026-04-18T01:37:00.363Z",
     "scope_reason": "keyword_match",
@@ -9518,7 +9518,7 @@
   {
     "id": "bill-118-hr1404",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "last_updated": "2025-12-05T08:49:34Z",
+    "last_updated": "2026-10-05T16:17:27Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
     "added_at": "2026-08-08T10:39:18.127Z",
     "scope_reason": "keyword_match",
@@ -9547,7 +9547,7 @@
   {
     "id": "bill-118-s681",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "last_updated": "2026-08-10T11:51:27Z",
+    "last_updated": "2026-10-05T16:17:22Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/681",
     "added_at": "2026-08-08T10:41:51.186Z",
     "scope_reason": "keyword_match",
