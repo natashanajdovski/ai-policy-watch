@@ -261,35 +261,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr10563",
-    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-10-05T16:17:46Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
-    "added_at": "2026-09-28T18:01:27.391Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10563",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Jayapal, Pramila [D-WA-7]",
-      "party": "D",
-      "state": "WA",
-      "bioguide_id": "J000298"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 8,
-    "policy_area": "Armed Forces and National Security"
-  },
-  {
     "id": "bill-119-hr10594",
     "title": "Reliable Artificial Intelligence Research Act of 2026",
     "last_updated": "2026-10-10T08:05:34Z",
@@ -316,64 +287,6 @@
     "last_action_text": "Referred to the House Committee on Homeland Security.",
     "committee": null,
     "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr10578",
-    "title": "AI DATA Act",
-    "last_updated": "2026-10-05T11:57:37Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10578",
-    "added_at": "2026-09-25T15:07:16.122Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10578",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Min, Dave [D-CA-47]",
-      "party": "D",
-      "state": "CA",
-      "bioguide_id": "M001241"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": "Labor and Employment"
-  },
-  {
-    "id": "bill-119-hr10567",
-    "title": "AI Emergency Button Act",
-    "last_updated": "2026-10-05T11:55:08Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10567",
-    "added_at": "2026-09-25T15:07:25.125Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10567",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
-      "party": "R",
-      "state": "NJ",
-      "bioguide_id": "K000398"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
-    "committee": null,
-    "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -433,6 +346,93 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10563",
+    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+    "last_updated": "2026-10-05T16:17:46Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
+    "added_at": "2026-09-28T18:01:27.391Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10563",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Jayapal, Pramila [D-WA-7]",
+      "party": "D",
+      "state": "WA",
+      "bioguide_id": "J000298"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
+    "id": "bill-119-hr10578",
+    "title": "AI DATA Act",
+    "last_updated": "2026-10-05T11:57:37Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10578",
+    "added_at": "2026-09-25T15:07:16.122Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10578",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Min, Dave [D-CA-47]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "M001241"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Labor and Employment"
+  },
+  {
+    "id": "bill-119-hr10567",
+    "title": "AI Emergency Button Act",
+    "last_updated": "2026-10-05T11:55:08Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10567",
+    "added_at": "2026-09-25T15:07:25.125Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10567",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Kean, Thomas H. [R-NJ-7]",
+      "party": "R",
+      "state": "NJ",
+      "bioguide_id": "K000398"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5544",
