@@ -290,35 +290,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-s5518",
-    "title": "Make AI Work for Americans Act",
-    "last_updated": "2026-10-06T05:38:26Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
-    "added_at": "2026-09-25T15:07:30.996Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5518",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Kelly, Mark [D-AZ]",
-      "party": "D",
-      "state": "AZ",
-      "bioguide_id": "K000377"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Read twice and referred to the Committee on Finance.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-s5541",
     "title": "Cybersecurity and AI Board of Investigations Act of 2026",
     "last_updated": "2026-10-10T05:53:25Z",
@@ -343,6 +314,35 @@
     "introduced_date": "2026-09-24",
     "last_action_date": "2026-09-24",
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-s5518",
+    "title": "Make AI Work for Americans Act",
+    "last_updated": "2026-10-06T05:38:26Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
+    "added_at": "2026-09-25T15:07:30.996Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5518",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kelly, Mark [D-AZ]",
+      "party": "D",
+      "state": "AZ",
+      "bioguide_id": "K000377"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Read twice and referred to the Committee on Finance.",
     "committee": null,
     "cosponsors_count": null,
     "policy_area": null
