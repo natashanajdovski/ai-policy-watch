@@ -959,7 +959,7 @@
   {
     "id": "bill-119-hr10210",
     "title": "Doctors Not AI Act of 2026",
-    "last_updated": "2026-10-08T08:05:46Z",
+    "last_updated": "2026-10-14T08:05:27Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
     "added_at": "2026-09-02T14:10:30.284Z",
     "scope_reason": "keyword_match",
@@ -982,7 +982,7 @@
     "last_action_date": "2026-09-01",
     "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 5,
+    "cosponsors_count": 6,
     "policy_area": "Health"
   },
   {
@@ -4960,6 +4960,35 @@
     "policy_area": "Government Operations and Politics"
   },
   {
+    "id": "bill-119-hr6275",
+    "title": "China AI Power Report Act",
+    "last_updated": "2026-10-14T08:05:28Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
+    "added_at": "2026-04-18T01:37:48.803Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.6275",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Del. Moylan, James C. [R-GU-At Large]",
+      "party": "R",
+      "state": "GU",
+      "bioguide_id": "M001219"
+    },
+    "introduced_date": "2025-11-21",
+    "last_action_date": "2026-01-21",
+    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": "International Affairs"
+  },
+  {
     "id": "bill-119-hr6875",
     "title": "AI OVERWATCH Act",
     "last_updated": "2026-10-10T08:05:44Z",
@@ -4986,35 +5015,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 2.",
     "committee": null,
     "cosponsors_count": 46,
-    "policy_area": "International Affairs"
-  },
-  {
-    "id": "bill-119-hr6275",
-    "title": "China AI Power Report Act",
-    "last_updated": "2026-09-01T14:02:15Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/6275",
-    "added_at": "2026-04-18T01:37:48.803Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.6275",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Del. Moylan, James C. [R-GU-At Large]",
-      "party": "R",
-      "state": "GU",
-      "bioguide_id": "M001219"
-    },
-    "introduced_date": "2025-11-21",
-    "last_action_date": "2026-01-21",
-    "last_action_text": "Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.",
-    "committee": null,
-    "cosponsors_count": 7,
     "policy_area": "International Affairs"
   },
   {
