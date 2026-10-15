@@ -290,6 +290,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-s5518",
+    "title": "Make AI Work for Americans Act",
+    "last_updated": "2026-10-14T19:30:43Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
+    "added_at": "2026-09-25T15:07:30.996Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5518",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kelly, Mark [D-AZ]",
+      "party": "D",
+      "state": "AZ",
+      "bioguide_id": "K000377"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Read twice and referred to the Committee on Finance.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Taxation"
+  },
+  {
     "id": "bill-119-s5541",
     "title": "Cybersecurity and AI Board of Investigations Act of 2026",
     "last_updated": "2026-10-10T05:53:25Z",
@@ -314,35 +343,6 @@
     "introduced_date": "2026-09-24",
     "last_action_date": "2026-09-24",
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
-    "id": "bill-119-s5518",
-    "title": "Make AI Work for Americans Act",
-    "last_updated": "2026-10-06T05:38:26Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
-    "added_at": "2026-09-25T15:07:30.996Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5518",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Kelly, Mark [D-AZ]",
-      "party": "D",
-      "state": "AZ",
-      "bioguide_id": "K000377"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Read twice and referred to the Committee on Finance.",
     "committee": null,
     "cosponsors_count": null,
     "policy_area": null
@@ -1769,6 +1769,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-s5047",
+    "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
+    "last_updated": "2026-10-15T14:21:15Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
+    "added_at": "2026-07-22T11:51:35.474Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5047",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Sheehy, Tim [R-MT]",
+      "party": "R",
+      "state": "MT",
+      "bioguide_id": "S001232"
+    },
+    "introduced_date": "2026-07-21",
+    "last_action_date": "2026-07-21",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr8747",
     "title": "K–12 AI Literacy and Readiness Act of 2026",
     "last_updated": "2026-10-05T16:09:07Z",
@@ -1825,35 +1854,6 @@
     "committee": null,
     "cosponsors_count": 25,
     "policy_area": "Energy"
-  },
-  {
-    "id": "bill-119-s5047",
-    "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
-    "last_updated": "2026-09-08T18:03:40Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
-    "added_at": "2026-07-22T11:51:35.474Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5047",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Sheehy, Tim [R-MT]",
-      "party": "R",
-      "state": "MT",
-      "bioguide_id": "S001232"
-    },
-    "introduced_date": "2026-07-21",
-    "last_action_date": "2026-07-21",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-s5050",
