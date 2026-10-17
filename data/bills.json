@@ -292,35 +292,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr10594",
-    "title": "Reliable Artificial Intelligence Research Act of 2026",
-    "last_updated": "2026-10-10T08:05:34Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
-    "added_at": "2026-09-25T15:07:19.133Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10594",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Pfluger, August [R-TX-11]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "P000048"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
-    "committee": null,
-    "cosponsors_count": 5,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
     "id": "bill-119-s5518",
     "title": "Make AI Work for Americans Act",
     "last_updated": "2026-10-15T18:19:06Z",
@@ -376,6 +347,35 @@
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "committee": null,
     "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-hr10594",
+    "title": "Reliable Artificial Intelligence Research Act of 2026",
+    "last_updated": "2026-10-10T08:05:34Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
+    "added_at": "2026-09-25T15:07:19.133Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10594",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Pfluger, August [R-TX-11]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "P000048"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "committee": null,
+    "cosponsors_count": 5,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "id": "bill-119-s5047",
     "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
-    "last_updated": "2026-10-16T13:03:36Z",
+    "last_updated": "2026-10-16T22:06:15Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5047",
     "added_at": "2026-07-22T11:51:35.474Z",
     "scope_reason": "keyword_match",
