@@ -615,30 +615,6 @@
     "event_id": "119195"
   },
   {
-    "id": "hearing-119-119165",
-    "title": "Hearing:\r\nChina’s Campaign to Steal America’s AI Edge",
-    "last_updated": "2026-04-20T21:57:10Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119165",
-    "added_at": "2026-04-17T23:40:35.281Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "Unknown committee",
-    "chamber": "house",
-    "date_time": "2026-04-16T15:00:00Z",
-    "location": "390, Cannon House Office Building",
-    "witnesses": [
-      "Mr. Yusuf Mahmood",
-      "Mr. Kyle Chan",
-      "Mr. Dmitri Alperotvitch"
-    ],
-    "cspan_url": null,
-    "event_id": "119165"
-  },
-  {
     "id": "hearing-119-338140",
     "title": "Hearings to examine S.465, to require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, S.1327, to require the Federal Energy Regulatory Commission to establish a shared savings incentive to return a portion of the savings attributable to an investment in grid-enhancing technology to the developer of that grid-enhancing technology, S.3034, to amend the Federal Power Act to require the Federal Energy Regulatory Commission to review regulations that may affect the reliable operation of the bulk-power system, S.3192, to require Transmission Organizations to allow aggregators of retail customers to submit to organized wholesale electric markets bids that aggregate demand flexibility of customers of certain utilities, S.3269, to direct the Comptroller General of the United States to conduct a technology assessment focused on liquid cooling systems for artificial intelligence compute clusters and high-performance computing facilities, S.3947, to amend the Federal Power Act to establish a categorical exclusion for reconductoring within existing rights-of-way.",
     "last_updated": "2026-04-14T22:08:24Z",
@@ -682,28 +658,6 @@
     ],
     "cspan_url": null,
     "event_id": "119139"
-  },
-  {
-    "id": "hearing-119-119088",
-    "title": "“Oversight of the U.S. Patent and Trademark Office”",
-    "last_updated": "2026-04-17T18:27:20Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119088",
-    "added_at": "2026-04-17T23:39:49.235Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "hearing",
-    "status": "past",
-    "committee": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet",
-    "chamber": "house",
-    "date_time": "2026-03-25T14:00:00Z",
-    "location": "2141, Rayburn House Office Building",
-    "witnesses": [
-      "The Honorable John Squires, U.S. Patent and Trademark Office"
-    ],
-    "cspan_url": null,
-    "event_id": "119088"
   },
   {
     "id": "hearing-119-338066",
@@ -910,6 +864,31 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337253"
+  },
+  {
+    "id": "hearing-119-118021",
+    "title": "\"From Chalkboards to Chatbots: The Impact of AI on K-12 Education\"",
+    "last_updated": "2026-10-19T15:38:44Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118021",
+    "added_at": "2026-10-19T16:58:11.646Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce Subcommittee on Early Childhood, Elementary, and Secondary Education",
+    "chamber": "house",
+    "date_time": "2025-04-01T14:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Dr. Julia Rafal-Baer, ILO Group",
+      "Mr. Chris Chism, Pearl Public School District",
+      "Ms. Erin Mote, InnovateEDU/EDSAFE AI Alliance",
+      "Dr. Sid Dobrin, University of Florida"
+    ],
+    "cspan_url": null,
+    "event_id": "118021"
   },
   {
     "id": "hearing-119-118073",
