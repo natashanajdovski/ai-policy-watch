@@ -91,7 +91,7 @@
   {
     "id": "bill-119-hr10752",
     "title": "CISA Securing AI Task Force Act",
-    "last_updated": "2026-10-10T05:53:25Z",
+    "last_updated": "2026-10-20T17:22:22Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10752",
     "added_at": "2026-10-07T17:31:48.328Z",
     "scope_reason": "keyword_match",
@@ -115,7 +115,7 @@
     "last_action_text": "Referred to the House Committee on Homeland Security.",
     "committee": null,
     "cosponsors_count": 1,
-    "policy_area": null
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-hr10670",
@@ -236,7 +236,7 @@
   {
     "id": "bill-119-s5576",
     "title": "Artificial Intelligence Risk Management and Security Act of 2026",
-    "last_updated": "2026-10-10T05:53:25Z",
+    "last_updated": "2026-10-20T17:20:04Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5576",
     "added_at": "2026-09-30T16:19:10.526Z",
     "scope_reason": "keyword_match",
@@ -260,7 +260,7 @@
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "committee": null,
     "cosponsors_count": 2,
-    "policy_area": null
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-sres918",
@@ -321,6 +321,35 @@
     "policy_area": null
   },
   {
+    "id": "bill-119-hr10563",
+    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+    "last_updated": "2026-10-20T17:15:58Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
+    "added_at": "2026-09-28T18:01:27.391Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10563",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Jayapal, Pramila [D-WA-7]",
+      "party": "D",
+      "state": "WA",
+      "bioguide_id": "J000298"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 8,
+    "policy_area": "Armed Forces and National Security"
+  },
+  {
     "id": "bill-119-s5518",
     "title": "Make AI Work for Americans Act",
     "last_updated": "2026-10-15T18:19:06Z",
@@ -348,6 +377,35 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Taxation"
+  },
+  {
+    "id": "bill-119-s5544",
+    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+    "last_updated": "2026-10-20T17:16:54Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5544",
+    "added_at": "2026-10-03T14:36:54.176Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5544",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Markey, Edward J. [D-MA]",
+      "party": "D",
+      "state": "MA",
+      "bioguide_id": "M000133"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": "Armed Forces and National Security"
   },
   {
     "id": "bill-119-s5541",
@@ -408,35 +466,6 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
-    "id": "bill-119-hr10563",
-    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-10-05T16:17:46Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
-    "added_at": "2026-09-28T18:01:27.391Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10563",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Jayapal, Pramila [D-WA-7]",
-      "party": "D",
-      "state": "WA",
-      "bioguide_id": "J000298"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-    "committee": null,
-    "cosponsors_count": 8,
-    "policy_area": "Armed Forces and National Security"
-  },
-  {
     "id": "bill-119-hr10578",
     "title": "AI DATA Act",
     "last_updated": "2026-10-05T11:57:37Z",
@@ -493,35 +522,6 @@
     "committee": null,
     "cosponsors_count": null,
     "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-s5544",
-    "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-10-03T04:23:25Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5544",
-    "added_at": "2026-10-03T14:36:54.176Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "facial recognition"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5544",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Markey, Edward J. [D-MA]",
-      "party": "D",
-      "state": "MA",
-      "bioguide_id": "M000133"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Read twice and referred to the Committee on the Judiciary.",
-    "committee": null,
-    "cosponsors_count": 3,
-    "policy_area": null
   },
   {
     "id": "bill-119-hr10538",
@@ -8562,7 +8562,7 @@
   {
     "id": "bill-118-hr8348",
     "title": "CISA Securing AI Task Force Act",
-    "last_updated": "2024-08-06T15:18:22Z",
+    "last_updated": "2026-10-20T17:20:40Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/8348",
     "added_at": "2026-04-18T01:41:29.061Z",
     "scope_reason": "keyword_match",
@@ -9636,7 +9636,7 @@
   {
     "id": "bill-118-hr1404",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "last_updated": "2026-10-05T16:17:27Z",
+    "last_updated": "2026-10-20T17:16:22Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/house-bill/1404",
     "added_at": "2026-08-08T10:39:18.127Z",
     "scope_reason": "keyword_match",
@@ -9665,7 +9665,7 @@
   {
     "id": "bill-118-s681",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "last_updated": "2026-10-05T16:17:22Z",
+    "last_updated": "2026-10-20T17:16:17Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/681",
     "added_at": "2026-08-08T10:41:51.186Z",
     "scope_reason": "keyword_match",

@@ -754,6 +754,31 @@
     "event_id": "118953"
   },
   {
+    "id": "hearing-119-118819",
+    "title": "\"Building an AI-Ready America\"",
+    "last_updated": "2026-10-21T10:28:59Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118819",
+    "added_at": "2026-10-21T15:03:05.738Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Education and Workforce",
+    "chamber": "house",
+    "date_time": "2026-01-14T15:15:00Z",
+    "location": "2175, Rayburn House Office Building",
+    "witnesses": [
+      "Ms. Chaya Nayak, OpenAI",
+      "Mr. Adeel Khan, MagicSchool AI",
+      "Ms. Alexandra Givens, Center for Democracy & Technology",
+      "Mr. Kevin Frazier, University of Texas Law School"
+    ],
+    "cspan_url": null,
+    "event_id": "118819"
+  },
+  {
     "id": "hearing-119-118817",
     "title": "“Between a Rock and a Hard Place: Protecting the U.S. Stone Slab Industry from Lawfare”",
     "last_updated": "2026-04-22T13:28:41Z",
