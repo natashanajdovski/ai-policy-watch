@@ -1,8 +1,66 @@
 [
   {
+    "id": "bill-119-hr10873",
+    "title": "AI Cyber Defense Act",
+    "last_updated": "2026-10-23T13:58:33Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10873",
+    "added_at": "2026-10-23T14:43:03.689Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10873",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Harrigan, Pat [R-NC-10]",
+      "party": "R",
+      "state": "NC",
+      "bioguide_id": "H001101"
+    },
+    "introduced_date": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr10905",
+    "title": "To prohibit individualized pricing, dynamic pricing, and pricing based on facial recognition technology at large retail food stores and their online platforms, and for other purposes.",
+    "last_updated": "2026-10-23T13:58:33Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10905",
+    "added_at": "2026-10-23T14:43:06.696Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "facial recognition"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10905",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "party": "D",
+      "state": "VA",
+      "bioguide_id": "V000138"
+    },
+    "introduced_date": "2026-10-22",
+    "last_action_date": "2026-10-22",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr10841",
     "title": "Securing Elections From AI Deception Act",
-    "last_updated": "2026-10-20T09:58:19Z",
+    "last_updated": "2026-10-23T08:05:49Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10841",
     "added_at": "2026-10-20T14:48:12.190Z",
     "scope_reason": "keyword_match",
@@ -25,7 +83,7 @@
     "last_action_date": "2026-10-19",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 30,
+    "cosponsors_count": 33,
     "policy_area": null
   },
   {
@@ -350,35 +408,6 @@
     "policy_area": "Armed Forces and National Security"
   },
   {
-    "id": "bill-119-s5518",
-    "title": "Make AI Work for Americans Act",
-    "last_updated": "2026-10-15T18:19:06Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
-    "added_at": "2026-09-25T15:07:30.996Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.5518",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Kelly, Mark [D-AZ]",
-      "party": "D",
-      "state": "AZ",
-      "bioguide_id": "K000377"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Read twice and referred to the Committee on Finance.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Taxation"
-  },
-  {
     "id": "bill-119-s5544",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
     "last_updated": "2026-10-20T17:16:54Z",
@@ -408,6 +437,64 @@
     "policy_area": "Armed Forces and National Security"
   },
   {
+    "id": "bill-119-hr10594",
+    "title": "Reliable Artificial Intelligence Research Act of 2026",
+    "last_updated": "2026-10-23T08:06:11Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
+    "added_at": "2026-09-25T15:07:19.133Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10594",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Pfluger, August [R-TX-11]",
+      "party": "R",
+      "state": "TX",
+      "bioguide_id": "P000048"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "committee": null,
+    "cosponsors_count": 6,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
+    "id": "bill-119-s5518",
+    "title": "Make AI Work for Americans Act",
+    "last_updated": "2026-10-15T18:19:06Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5518",
+    "added_at": "2026-09-25T15:07:30.996Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5518",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Kelly, Mark [D-AZ]",
+      "party": "D",
+      "state": "AZ",
+      "bioguide_id": "K000377"
+    },
+    "introduced_date": "2026-09-24",
+    "last_action_date": "2026-09-24",
+    "last_action_text": "Read twice and referred to the Committee on Finance.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Taxation"
+  },
+  {
     "id": "bill-119-s5541",
     "title": "Cybersecurity and AI Board of Investigations Act of 2026",
     "last_updated": "2026-10-16T04:44:27Z",
@@ -434,35 +521,6 @@
     "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "committee": null,
     "cosponsors_count": null,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr10594",
-    "title": "Reliable Artificial Intelligence Research Act of 2026",
-    "last_updated": "2026-10-10T08:05:34Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
-    "added_at": "2026-09-25T15:07:19.133Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10594",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Pfluger, August [R-TX-11]",
-      "party": "R",
-      "state": "TX",
-      "bioguide_id": "P000048"
-    },
-    "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
-    "committee": null,
-    "cosponsors_count": 5,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -2467,6 +2525,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr8893",
+    "title": "Protecting Consumers from Deceptive AI Act",
+    "last_updated": "2026-10-23T08:06:07Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
+    "added_at": "2026-05-20T12:27:55.110Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.8893",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
+      "party": "D",
+      "state": "NC",
+      "bioguide_id": "F000477"
+    },
+    "introduced_date": "2026-05-19",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+    "committee": null,
+    "cosponsors_count": 5,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr2385",
     "title": "CREATE AI Act of 2025",
     "last_updated": "2026-10-06T08:06:10Z",
@@ -2493,35 +2580,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
     "committee": null,
     "cosponsors_count": 36,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr8893",
-    "title": "Protecting Consumers from Deceptive AI Act",
-    "last_updated": "2026-09-30T12:05:18Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/8893",
-    "added_at": "2026-05-20T12:27:55.110Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.8893",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Foushee, Valerie P. [D-NC-4]",
-      "party": "D",
-      "state": "NC",
-      "bioguide_id": "F000477"
-    },
-    "introduced_date": "2026-05-19",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
-    "committee": null,
-    "cosponsors_count": 4,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -6445,7 +6503,7 @@
   {
     "id": "bill-119-hr3919",
     "title": "Advanced AI Security Readiness Act",
-    "last_updated": "2026-09-22T08:05:52Z",
+    "last_updated": "2026-10-23T08:06:04Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/3919",
     "added_at": "2026-04-18T04:02:12.216Z",
     "scope_reason": "keyword_match",
@@ -6468,7 +6526,7 @@
     "last_action_date": "2025-06-11",
     "last_action_text": "Referred to the House Committee on Intelligence (Permanent Select).",
     "committee": null,
-    "cosponsors_count": 7,
+    "cosponsors_count": 8,
     "policy_area": "Armed Forces and National Security"
   },
   {
