@@ -1,34 +1,5 @@
 [
   {
-    "id": "bill-119-hr10925",
-    "title": "To require an assessment with respect to the technical capacity of the Department of State to address the use of artificial intelligence and other emerging technologies to facilitate trafficking in persons.",
-    "last_updated": "2026-10-30T10:44:06Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10925",
-    "added_at": "2026-10-30T16:34:16.954Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.10925",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Gallagher, James [R-CA-1]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "G000607"
-    },
-    "introduced_date": "2026-10-29",
-    "last_action_date": "2026-10-29",
-    "last_action_text": "Referred to the House Committee on Foreign Affairs.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hres1642",
     "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
     "last_updated": "2026-10-30T12:54:35Z",
@@ -56,6 +27,35 @@
     "committee": null,
     "cosponsors_count": 12,
     "policy_area": "Finance and Financial Sector"
+  },
+  {
+    "id": "bill-119-hr10925",
+    "title": "To require an assessment with respect to the technical capacity of the Department of State to address the use of artificial intelligence and other emerging technologies to facilitate trafficking in persons.",
+    "last_updated": "2026-10-30T10:44:06Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10925",
+    "added_at": "2026-10-30T16:34:16.954Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10925",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Gallagher, James [R-CA-1]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "G000607"
+    },
+    "introduced_date": "2026-10-29",
+    "last_action_date": "2026-10-29",
+    "last_action_text": "Referred to the House Committee on Foreign Affairs.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
   },
   {
     "id": "bill-119-hr10873",
@@ -1077,7 +1077,7 @@
   {
     "id": "bill-119-hr9501",
     "title": "AI Tax Integrity Act of 2026",
-    "last_updated": "2026-10-30T15:37:10Z",
+    "last_updated": "2026-10-31T02:42:10Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9501",
     "added_at": "2026-06-30T12:12:26.965Z",
     "scope_reason": "keyword_match",
