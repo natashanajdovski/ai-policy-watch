@@ -60,7 +60,7 @@
   {
     "id": "bill-119-hr10873",
     "title": "AI Cyber Defense Act",
-    "last_updated": "2026-10-27T16:13:40Z",
+    "last_updated": "2026-11-03T09:06:28Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10873",
     "added_at": "2026-10-23T14:43:03.689Z",
     "scope_reason": "keyword_match",
@@ -83,7 +83,7 @@
     "last_action_date": "2026-10-22",
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
-    "cosponsors_count": 1,
+    "cosponsors_count": 2,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -118,7 +118,7 @@
   {
     "id": "bill-119-hr10841",
     "title": "Securing Elections From AI Deception Act",
-    "last_updated": "2026-10-26T21:38:04Z",
+    "last_updated": "2026-11-03T09:06:26Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10841",
     "added_at": "2026-10-20T14:48:12.190Z",
     "scope_reason": "keyword_match",
@@ -141,7 +141,7 @@
     "last_action_date": "2026-10-19",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 33,
+    "cosponsors_count": 34,
     "policy_area": "Government Operations and Politics"
   },
   {
@@ -1715,7 +1715,7 @@
   {
     "id": "bill-119-hr9917",
     "title": "AI Kill Switch Act",
-    "last_updated": "2026-10-20T08:05:29Z",
+    "last_updated": "2026-11-03T09:06:40Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
     "added_at": "2026-07-30T11:54:28.731Z",
     "scope_reason": "keyword_match",
@@ -1738,7 +1738,7 @@
     "last_action_date": "2026-07-24",
     "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
-    "cosponsors_count": 12,
+    "cosponsors_count": 13,
     "policy_area": "Government Operations and Politics"
   },
   {
