@@ -66,7 +66,7 @@
   {
     "id": "hearing-119-119520",
     "title": "“Renewal of USPTO Fee Setting Authority: Giving Full Effect to the America Invents Act”",
-    "last_updated": "2026-11-04T19:04:12Z",
+    "last_updated": "2026-11-09T19:34:38Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119520",
     "added_at": "2026-08-27T20:20:01.010Z",
     "scope_reason": "keyword_match",
@@ -918,6 +918,51 @@
     "witnesses": [],
     "cspan_url": null,
     "event_id": "337253"
+  },
+  {
+    "id": "hearing-119-118340",
+    "title": "“Security to Model: Securing Artificial Intelligence to Strengthen Cybersecurity”",
+    "last_updated": "2026-11-09T13:19:59Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118340",
+    "added_at": "2026-11-09T20:37:30.068Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection",
+    "chamber": "house",
+    "date_time": "2025-06-12T14:00:00Z",
+    "location": "310, Cannon House Office Building",
+    "witnesses": [
+      "Mr. Kiran Chinnagangannagari, Securin Inc.",
+      "Mr. Steve Faehl, Microsoft",
+      "Mr. Gareth Maclachlan, Trellix",
+      "Mr. Jonathan Dambrot, Cranium AI, Inc."
+    ],
+    "cspan_url": null,
+    "event_id": "118340"
+  },
+  {
+    "id": "hearing-119-118220",
+    "title": "Information Technology and Artificial Intelligence Posture of the Department of Defense",
+    "last_updated": "2026-11-09T13:18:10Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118220",
+    "added_at": "2026-11-09T20:37:31.065Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "hearing",
+    "status": "past",
+    "committee": "House Armed Services Subcommittee on Cyber, Information Technologies, and Innovation",
+    "chamber": "house",
+    "date_time": "2025-05-08T13:00:00Z",
+    "location": "2212, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "118220"
   },
   {
     "id": "hearing-119-118021",
