@@ -60,7 +60,7 @@
   {
     "id": "bill-119-hr10873",
     "title": "AI Cyber Defense Act",
-    "last_updated": "2026-11-03T09:06:28Z",
+    "last_updated": "2026-11-10T14:15:24Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10873",
     "added_at": "2026-10-23T14:43:03.689Z",
     "scope_reason": "keyword_match",
@@ -83,7 +83,7 @@
     "last_action_date": "2026-10-22",
     "last_action_text": "Referred to the House Committee on Science, Space, and Technology.",
     "committee": null,
-    "cosponsors_count": 2,
+    "cosponsors_count": 3,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -1135,7 +1135,7 @@
   {
     "id": "bill-119-hr10210",
     "title": "Doctors Not AI Act of 2026",
-    "last_updated": "2026-10-14T08:05:27Z",
+    "last_updated": "2026-11-10T14:15:42Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10210",
     "added_at": "2026-09-02T14:10:30.284Z",
     "scope_reason": "keyword_match",
@@ -1158,7 +1158,7 @@
     "last_action_date": "2026-09-01",
     "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 6,
+    "cosponsors_count": 7,
     "policy_area": "Health"
   },
   {
@@ -1222,7 +1222,7 @@
   {
     "id": "bill-119-hr10146",
     "title": "AI Advertising Disclosure Act",
-    "last_updated": "2026-10-30T08:06:28Z",
+    "last_updated": "2026-11-10T14:15:17Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10146",
     "added_at": "2026-08-25T10:35:08.794Z",
     "scope_reason": "keyword_match",
@@ -1245,7 +1245,7 @@
     "last_action_date": "2026-08-24",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 8,
+    "cosponsors_count": 9,
     "policy_area": "Commerce"
   },
   {
@@ -6126,7 +6126,7 @@
   {
     "id": "bill-119-hr5511",
     "title": "Algorithmic Accountability Act of 2025",
-    "last_updated": "2026-09-19T23:26:49Z",
+    "last_updated": "2026-11-10T14:15:37Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/5511",
     "added_at": "2026-04-18T04:02:06.032Z",
     "scope_reason": "keyword_match",
@@ -6149,7 +6149,7 @@
     "last_action_date": "2025-09-19",
     "last_action_text": "Referred to the House Committee on Energy and Commerce.",
     "committee": null,
-    "cosponsors_count": 32,
+    "cosponsors_count": 33,
     "policy_area": "Commerce"
   },
   {
