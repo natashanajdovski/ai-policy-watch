@@ -1,8 +1,37 @@
 [
   {
+    "id": "bill-119-hr10981",
+    "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
+    "last_updated": "2026-11-11T09:06:48Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10981",
+    "added_at": "2026-11-11T17:44:50.689Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.10981",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "party": "D",
+      "state": "NJ",
+      "bioguide_id": "G000583"
+    },
+    "introduced_date": "2026-11-10",
+    "last_action_date": "2026-11-10",
+    "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hres1642",
     "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
-    "last_updated": "2026-10-30T12:54:35Z",
+    "last_updated": "2026-11-11T09:06:58Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1642",
     "added_at": "2026-10-30T16:34:37.960Z",
     "scope_reason": "keyword_match",
@@ -25,7 +54,7 @@
     "last_action_date": "2026-10-29",
     "last_action_text": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 12,
+    "cosponsors_count": 13,
     "policy_area": "Finance and Financial Sector"
   },
   {
@@ -1715,7 +1744,7 @@
   {
     "id": "bill-119-hr9917",
     "title": "AI Kill Switch Act",
-    "last_updated": "2026-11-03T09:06:40Z",
+    "last_updated": "2026-11-11T09:07:08Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
     "added_at": "2026-07-30T11:54:28.731Z",
     "scope_reason": "keyword_match",
@@ -1738,7 +1767,7 @@
     "last_action_date": "2026-07-24",
     "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
-    "cosponsors_count": 13,
+    "cosponsors_count": 14,
     "policy_area": "Government Operations and Politics"
   },
   {
@@ -2583,6 +2612,35 @@
     "policy_area": "Science, Technology, Communications"
   },
   {
+    "id": "bill-119-hr9363",
+    "title": "AI Security and Innovation Act",
+    "last_updated": "2026-11-10T20:33:50Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
+    "added_at": "2026-06-19T13:37:28.991Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.9363",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Obernolte, Jay [R-CA-23]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "O000019"
+    },
+    "introduced_date": "2026-06-18",
+    "last_action_date": "2026-06-25",
+    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
+    "committee": null,
+    "cosponsors_count": 7,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-hr8893",
     "title": "Protecting Consumers from Deceptive AI Act",
     "last_updated": "2026-10-23T08:06:07Z",
@@ -2783,35 +2841,6 @@
     "last_action_text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 0.",
     "committee": null,
     "cosponsors_count": 2,
-    "policy_area": "Science, Technology, Communications"
-  },
-  {
-    "id": "bill-119-hr9363",
-    "title": "AI Security and Innovation Act",
-    "last_updated": "2026-08-26T17:35:41Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9363",
-    "added_at": "2026-06-19T13:37:28.991Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.9363",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Obernolte, Jay [R-CA-23]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "O000019"
-    },
-    "introduced_date": "2026-06-18",
-    "last_action_date": "2026-06-25",
-    "last_action_text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0.",
-    "committee": null,
-    "cosponsors_count": 7,
     "policy_area": "Science, Technology, Communications"
   },
   {
@@ -6271,7 +6300,7 @@
   {
     "id": "bill-119-s2615",
     "title": "VET Artificial Intelligence Act",
-    "last_updated": "2026-09-08T18:09:59Z",
+    "last_updated": "2026-11-10T22:44:00Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615",
     "added_at": "2026-04-18T01:38:09.815Z",
     "scope_reason": "keyword_match",
@@ -6619,7 +6648,7 @@
   {
     "id": "bill-119-hr3460",
     "title": "AI Whistleblower Protection Act",
-    "last_updated": "2026-10-20T08:05:20Z",
+    "last_updated": "2026-11-11T09:07:09Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/3460",
     "added_at": "2026-04-18T01:36:51.364Z",
     "scope_reason": "keyword_match",
@@ -6642,7 +6671,7 @@
     "last_action_date": "2025-05-15",
     "last_action_text": "Referred to the House Committee on Education and Workforce.",
     "committee": null,
-    "cosponsors_count": 9,
+    "cosponsors_count": 10,
     "policy_area": "Labor and Employment"
   },
   {
@@ -7170,7 +7199,7 @@
   {
     "id": "bill-118-s4769",
     "title": "VET Artificial Intelligence Act",
-    "last_updated": "2026-09-08T18:03:40Z",
+    "last_updated": "2026-11-10T22:44:00Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4769",
     "added_at": "2026-04-18T01:44:14.229Z",
     "scope_reason": "keyword_match",
