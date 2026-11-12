@@ -1,13 +1,13 @@
 [
   {
     "id": "bill-119-hr10981",
-    "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
-    "last_updated": "2026-11-11T09:06:48Z",
+    "title": "American AI Security Act",
+    "last_updated": "2026-11-12T06:23:32Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10981",
     "added_at": "2026-11-11T17:44:50.689Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -3659,7 +3659,7 @@
   {
     "id": "bill-119-hr9125",
     "title": "Sectoral AI Governance Act of 2026",
-    "last_updated": "2026-07-22T08:08:54Z",
+    "last_updated": "2026-11-12T09:06:24Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9125",
     "added_at": "2026-06-04T12:46:17.262Z",
     "scope_reason": "keyword_match",
@@ -3682,7 +3682,7 @@
     "last_action_date": "2026-06-03",
     "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 3,
+    "cosponsors_count": 4,
     "policy_area": "Government Operations and Politics"
   },
   {
@@ -6358,7 +6358,7 @@
   {
     "id": "bill-119-hr4640",
     "title": "Stop AI Price Gouging and Wage Fixing Act of 2025",
-    "last_updated": "2026-09-29T08:05:27Z",
+    "last_updated": "2026-11-12T09:06:20Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
     "added_at": "2026-04-18T01:38:21.979Z",
     "scope_reason": "keyword_match",
@@ -6381,7 +6381,7 @@
     "last_action_date": "2025-07-23",
     "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 43,
+    "cosponsors_count": 44,
     "policy_area": "Commerce"
   },
   {
