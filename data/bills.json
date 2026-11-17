@@ -2904,7 +2904,7 @@
   {
     "id": "bill-119-hr9442",
     "title": "Artificial Intelligence Data Center Moratorium Act",
-    "last_updated": "2026-10-16T08:05:41Z",
+    "last_updated": "2026-11-17T17:27:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
     "added_at": "2026-06-25T12:24:59.480Z",
     "scope_reason": "keyword_match",
@@ -3543,7 +3543,7 @@
   {
     "id": "bill-119-s4727",
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-    "last_updated": "2026-09-08T18:12:22Z",
+    "last_updated": "2026-11-17T17:27:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727",
     "added_at": "2026-06-10T12:59:22.529Z",
     "scope_reason": "keyword_match",
@@ -3572,7 +3572,7 @@
   {
     "id": "bill-119-hr9183",
     "title": "Artificial Intelligence Environmental Impacts Act of 2026",
-    "last_updated": "2026-10-06T08:05:58Z",
+    "last_updated": "2026-11-17T17:27:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/9183",
     "added_at": "2026-06-09T12:40:39.286Z",
     "scope_reason": "keyword_match",
@@ -4295,6 +4295,35 @@
     "policy_area": "Commerce"
   },
   {
+    "id": "bill-119-s4214",
+    "title": "Artificial Intelligence Data Center Moratorium Act",
+    "last_updated": "2026-11-17T17:27:45Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
+    "added_at": "2026-04-18T01:40:18.954Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.4214",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Sanders, Bernard [I-VT]",
+      "party": "I",
+      "state": "VT",
+      "bioguide_id": "S000033"
+    },
+    "introduced_date": "2026-03-25",
+    "last_action_date": "2026-03-25",
+    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-sconres30",
     "title": "A concurrent resolution expressing the sense of Congress that the Ratepayer Protection Pledge announced on March 4, 2026, reflects sound national policy to protect ratepayers in the United States, promote electricity affordability, and ensure that all people of the United States, including households, small businesses, schools, hospitals, and farms, have access to reliable and affordable energy as artificial intelligence and data center infrastructure expands across the United States.",
     "last_updated": "2026-09-08T18:09:59Z",
@@ -4322,35 +4351,6 @@
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Energy"
-  },
-  {
-    "id": "bill-119-s4214",
-    "title": "Artificial Intelligence Data Center Moratorium Act",
-    "last_updated": "2026-09-08T18:03:40Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214",
-    "added_at": "2026-04-18T01:40:18.954Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "S.4214",
-    "chamber": "senate",
-    "congress": 119,
-    "sponsor": {
-      "name": "Sen. Sanders, Bernard [I-VT]",
-      "party": "I",
-      "state": "VT",
-      "bioguide_id": "S000033"
-    },
-    "introduced_date": "2026-03-25",
-    "last_action_date": "2026-03-25",
-    "last_action_text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "committee": null,
-    "cosponsors_count": null,
-    "policy_area": "Science, Technology, Communications"
   },
   {
     "id": "bill-119-hr8048",
@@ -6126,7 +6126,7 @@
   {
     "id": "bill-119-s2937",
     "title": "AI LEAD Act",
-    "last_updated": "2026-08-10T11:58:36Z",
+    "last_updated": "2026-11-17T12:03:43Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2937",
     "added_at": "2026-04-18T01:38:54.869Z",
     "scope_reason": "keyword_match",
@@ -6149,7 +6149,7 @@
     "last_action_date": "2025-09-29",
     "last_action_text": "Read twice and referred to the Committee on the Judiciary. (text: CR S6836-6838)",
     "committee": null,
-    "cosponsors_count": 4,
+    "cosponsors_count": 5,
     "policy_area": "Commerce"
   },
   {
@@ -7460,7 +7460,7 @@
   {
     "id": "bill-118-s4664",
     "title": "Department of Energy AI Act",
-    "last_updated": "2026-09-08T18:09:59Z",
+    "last_updated": "2026-11-17T17:27:45Z",
     "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4664",
     "added_at": "2026-08-08T10:40:30.191Z",
     "scope_reason": "keyword_match",
