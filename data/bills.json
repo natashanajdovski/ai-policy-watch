@@ -1,5 +1,64 @@
 [
   {
+    "id": "bill-119-hr11055",
+    "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency a pilot program to be known as the \"BRIDGE AI Mission Program\" to recruit and manage artificial intelligence and emerging technology professionals on a temporary basis to support the core mission of the Agency, and for other purposes.",
+    "last_updated": "2026-11-19T13:28:45Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
+    "added_at": "2026-11-19T18:54:17.470Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence",
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.11055",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fong, Vince [R-CA-20]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "F000480"
+    },
+    "introduced_date": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr11076",
+    "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
+    "last_updated": "2026-11-19T13:28:45Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/11076",
+    "added_at": "2026-11-19T18:54:20.470Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.11076",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Van Epps, Matt [R-TN-7]",
+      "party": "R",
+      "state": "TN",
+      "bioguide_id": "V000139"
+    },
+    "introduced_date": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "last_action_text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+    "committee": null,
+    "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr11046",
     "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency the National Cyber and AI Investigations Board to investigate significant cyber incidents, cyber incidents involving terrorism, and cyber incidents involving artificial intelligence, to determine root causes and develop recommendations to prevent similar incidents and address terrorism threats to the United States, including threats relating to the malicious use of information systems or artificial intelligence by covered foreign adversaries, including terrorist organizations, and for other purposes.",
     "last_updated": "2026-11-18T12:58:35Z",

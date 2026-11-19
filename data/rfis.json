@@ -226,5 +226,25 @@
     "comment_submission_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=HHS-ONC-2026-0001",
     "document_number": "2025-23641",
     "document_type": "Notice"
+  },
+  {
+    "id": "rfi-2026-23539",
+    "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+    "last_updated": "2026-11-19",
+    "source_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
+    "added_at": "2026-11-19T19:08:17.114Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "rfi",
+    "status": "closed",
+    "agency": "Administrative Conference of the United States",
+    "docket_id": null,
+    "open_date": "2026-11-19",
+    "close_date": "2026-01-19",
+    "comment_submission_url": null,
+    "document_number": "2026-23539",
+    "document_type": "Notice"
   }
 ]
