@@ -1,5 +1,34 @@
 [
   {
+    "id": "bill-119-s5785",
+    "title": "A bill to require the Securities and Exchange Commission to issue rules relating to the use of artificial intelligence by public companies, and for other purposes.",
+    "last_updated": "2026-11-20T11:56:49Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5785",
+    "added_at": "2026-11-20T18:24:11.142Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.5785",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Warner, Mark R. [D-VA]",
+      "party": "D",
+      "state": "VA",
+      "bioguide_id": "W000805"
+    },
+    "introduced_date": "2026-11-19",
+    "last_action_date": "2026-11-19",
+    "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+    "committee": null,
+    "cosponsors_count": 3,
+    "policy_area": null
+  },
+  {
     "id": "bill-119-hr11055",
     "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency a pilot program to be known as the \"BRIDGE AI Mission Program\" to recruit and manage artificial intelligence and emerging technology professionals on a temporary basis to support the core mission of the Agency, and for other purposes.",
     "last_updated": "2026-11-19T13:28:45Z",
@@ -354,7 +383,7 @@
   {
     "id": "bill-119-hr10752",
     "title": "CISA Securing AI Task Force Act",
-    "last_updated": "2026-10-20T17:22:22Z",
+    "last_updated": "2026-11-20T09:07:16Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10752",
     "added_at": "2026-10-07T17:31:48.328Z",
     "scope_reason": "keyword_match",
@@ -374,8 +403,8 @@
       "bioguide_id": "C001125"
     },
     "introduced_date": "2026-10-06",
-    "last_action_date": "2026-10-06",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "last_action_date": "2026-10-07",
+    "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
     "cosponsors_count": 1,
     "policy_area": "Armed Forces and National Security"
@@ -615,7 +644,7 @@
   {
     "id": "bill-119-hr10594",
     "title": "Reliable Artificial Intelligence Research Act of 2026",
-    "last_updated": "2026-10-30T08:06:35Z",
+    "last_updated": "2026-11-20T09:08:19Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10594",
     "added_at": "2026-09-25T15:07:19.133Z",
     "scope_reason": "keyword_match",
@@ -635,8 +664,8 @@
       "bioguide_id": "P000048"
     },
     "introduced_date": "2026-09-24",
-    "last_action_date": "2026-09-24",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "last_action_date": "2026-09-25",
+    "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
     "cosponsors_count": 7,
     "policy_area": "Science, Technology, Communications"
@@ -644,7 +673,7 @@
   {
     "id": "bill-119-hr10563",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-10-20T17:15:58Z",
+    "last_updated": "2026-11-20T09:07:46Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
     "added_at": "2026-09-28T18:01:27.391Z",
     "scope_reason": "keyword_match",
@@ -667,7 +696,7 @@
     "last_action_date": "2026-09-24",
     "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 8,
+    "cosponsors_count": 10,
     "policy_area": "Armed Forces and National Security"
   },
   {
@@ -963,7 +992,7 @@
   {
     "id": "bill-119-hr10519",
     "title": "To direct the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, to establish a Critical Infrastructure AI Cyber Defense Pilot Program, and for other purposes.",
-    "last_updated": "2026-10-05T16:12:42Z",
+    "last_updated": "2026-11-20T09:07:52Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10519",
     "added_at": "2026-09-22T14:29:27.305Z",
     "scope_reason": "keyword_match",
@@ -983,8 +1012,8 @@
       "bioguide_id": "G000583"
     },
     "introduced_date": "2026-09-21",
-    "last_action_date": "2026-09-21",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "last_action_date": "2026-09-22",
+    "last_action_text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
     "committee": null,
     "cosponsors_count": 4,
     "policy_area": "Armed Forces and National Security"
@@ -3922,7 +3951,7 @@
   {
     "id": "bill-119-s4456",
     "title": "AI OVERWATCH Act",
-    "last_updated": "2026-09-24T11:03:22Z",
+    "last_updated": "2026-11-20T12:03:39Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4456",
     "added_at": "2026-05-08T11:19:38.788Z",
     "scope_reason": "keyword_match",
@@ -3945,7 +3974,7 @@
     "last_action_date": "2026-04-30",
     "last_action_text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "committee": null,
-    "cosponsors_count": 10,
+    "cosponsors_count": 12,
     "policy_area": "Foreign Trade and International Finance"
   },
   {
