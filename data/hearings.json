@@ -561,7 +561,7 @@
   {
     "id": "hearing-119-119307",
     "title": "Partnering for Innovation: How Bank-Fintech Collaborations Enhance Financial Infrastructure",
-    "last_updated": "2026-05-19T14:06:51Z",
+    "last_updated": "2026-11-23T16:48:55Z",
     "source_url": "https://www.congress.gov/event/119th-congress/house-event/119307",
     "added_at": "2026-05-14T12:02:24.365Z",
     "scope_reason": "keyword_match",
@@ -894,30 +894,28 @@
     "event_id": "337707"
   },
   {
-    "id": "hearing-119-118560",
-    "title": "Examining Opportunities to Advance American Health Care through the Use of Artificial Intelligence Technologies",
-    "last_updated": "2026-04-22T13:26:30Z",
-    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118560",
-    "added_at": "2026-04-17T23:45:43.368Z",
+    "id": "hearing-119-118669",
+    "title": "Innovation with Integrity: Examining the Risks and Benefits of AI Chatbots",
+    "last_updated": "2026-11-23T16:25:50Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/118669",
+    "added_at": "2026-11-23T22:04:36.285Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "hearing",
     "status": "past",
-    "committee": "House Energy and Commerce Subcommittee on Health",
+    "committee": "House Energy and Commerce Subcommittee on Oversight and Investigations",
     "chamber": "house",
-    "date_time": "2025-09-03T14:15:00Z",
+    "date_time": "2025-11-18T19:00:00Z",
     "location": "2123, Rayburn House Office Building",
     "witnesses": [
-      "Mr. Andrew Toy, Clover Health",
-      "Dr. Michelle Mello, Stanford University",
-      "Dr. Vaile Wright, American Psychological Association",
-      "Dr. Andrew Ibrahim, Viz.ai",
-      "Mr. TJ Parker, General Medicine"
+      "Dr. Marlynn Wei, MD, JD",
+      "Dr. John Torous, MD, MBI, Director of Digital Psychiatry, Department of Psychiatry, Beth Israel Deaconess Medical Center and Associate Professor of Psychiatry, Harvard Medical",
+      "Dr. Jennifer King, PhD, Stanford Institute for Human-Centered Artificial Intelligence"
     ],
     "cspan_url": null,
-    "event_id": "118560"
+    "event_id": "118669"
   },
   {
     "id": "hearing-119-337253",
