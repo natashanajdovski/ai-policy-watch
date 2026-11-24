@@ -60,13 +60,13 @@
   },
   {
     "id": "bill-119-hr11076",
-    "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
-    "last_updated": "2026-11-19T13:28:45Z",
+    "title": "AI INSIGHT Act",
+    "last_updated": "2026-11-24T06:38:45Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/11076",
     "added_at": "2026-11-19T18:54:20.470Z",
     "scope_reason": "keyword_match",
     "matched_keywords": [
-      "artificial intelligence"
+      "ai"
     ],
     "type": "bill",
     "status": "in_progress",
@@ -673,7 +673,7 @@
   {
     "id": "bill-119-hr10563",
     "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
-    "last_updated": "2026-11-20T09:07:46Z",
+    "last_updated": "2026-11-24T18:33:47Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10563",
     "added_at": "2026-09-28T18:01:27.391Z",
     "scope_reason": "keyword_match",
@@ -697,7 +697,7 @@
     "last_action_text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": 10,
-    "policy_area": "Armed Forces and National Security"
+    "policy_area": "Government Operations and Politics"
   },
   {
     "id": "bill-119-s5544",
@@ -7168,6 +7168,35 @@
     "committee": null,
     "cosponsors_count": 12,
     "policy_area": "Crime and Law Enforcement"
+  },
+  {
+    "id": "bill-119-s501",
+    "title": "Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
+    "last_updated": "2025-04-24T16:23:49Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/501",
+    "added_at": "2026-11-24T20:31:36.875Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "artificial intelligence"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "S.501",
+    "chamber": "senate",
+    "congress": 119,
+    "sponsor": {
+      "name": "Sen. Budd, Ted [R-NC]",
+      "party": "R",
+      "state": "NC",
+      "bioguide_id": "B001305"
+    },
+    "introduced_date": "2025-02-10",
+    "last_action_date": "2025-02-10",
+    "last_action_text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Health"
   },
   {
     "id": "bill-119-s321",
