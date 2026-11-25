@@ -29,36 +29,6 @@
     "policy_area": null
   },
   {
-    "id": "bill-119-hr11055",
-    "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency a pilot program to be known as the \"BRIDGE AI Mission Program\" to recruit and manage artificial intelligence and emerging technology professionals on a temporary basis to support the core mission of the Agency, and for other purposes.",
-    "last_updated": "2026-11-19T13:28:45Z",
-    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
-    "added_at": "2026-11-19T18:54:17.470Z",
-    "scope_reason": "keyword_match",
-    "matched_keywords": [
-      "artificial intelligence",
-      "ai"
-    ],
-    "type": "bill",
-    "status": "in_progress",
-    "stage": "introduced",
-    "bill_number": "HR.11055",
-    "chamber": "house",
-    "congress": 119,
-    "sponsor": {
-      "name": "Rep. Fong, Vince [R-CA-20]",
-      "party": "R",
-      "state": "CA",
-      "bioguide_id": "F000480"
-    },
-    "introduced_date": "2026-11-18",
-    "last_action_date": "2026-11-18",
-    "last_action_text": "Referred to the House Committee on Homeland Security.",
-    "committee": null,
-    "cosponsors_count": 1,
-    "policy_area": null
-  },
-  {
     "id": "bill-119-hr11076",
     "title": "AI INSIGHT Act",
     "last_updated": "2026-11-24T06:38:45Z",
@@ -85,6 +55,35 @@
     "last_action_text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
     "cosponsors_count": null,
+    "policy_area": null
+  },
+  {
+    "id": "bill-119-hr11055",
+    "title": "BRIDGE AI Act",
+    "last_updated": "2026-11-25T07:23:37Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/11055",
+    "added_at": "2026-11-19T18:54:17.470Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.11055",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Fong, Vince [R-CA-20]",
+      "party": "R",
+      "state": "CA",
+      "bioguide_id": "F000480"
+    },
+    "introduced_date": "2026-11-18",
+    "last_action_date": "2026-11-18",
+    "last_action_text": "Referred to the House Committee on Homeland Security.",
+    "committee": null,
+    "cosponsors_count": 1,
     "policy_area": null
   },
   {
@@ -1456,7 +1455,7 @@
   {
     "id": "bill-119-hr10044",
     "title": "AI Tax and Work Protection Act",
-    "last_updated": "2026-09-22T08:05:49Z",
+    "last_updated": "2026-11-25T09:05:52Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/10044",
     "added_at": "2026-08-07T10:54:28.322Z",
     "scope_reason": "keyword_match",
@@ -1479,7 +1478,7 @@
     "last_action_date": "2026-08-06",
     "last_action_text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 4,
+    "cosponsors_count": 5,
     "policy_area": "Taxation"
   },
   {
@@ -6505,7 +6504,7 @@
   {
     "id": "bill-119-hr4640",
     "title": "Stop AI Price Gouging and Wage Fixing Act of 2025",
-    "last_updated": "2026-11-12T09:06:20Z",
+    "last_updated": "2026-11-25T09:05:42Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/4640",
     "added_at": "2026-04-18T01:38:21.979Z",
     "scope_reason": "keyword_match",
@@ -6528,7 +6527,7 @@
     "last_action_date": "2025-07-23",
     "last_action_text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "committee": null,
-    "cosponsors_count": 44,
+    "cosponsors_count": 45,
     "policy_area": "Commerce"
   },
   {
@@ -7170,9 +7169,38 @@
     "policy_area": "Crime and Law Enforcement"
   },
   {
+    "id": "bill-119-hr1694",
+    "title": "AI Accountability Act",
+    "last_updated": "2026-11-25T17:35:52Z",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/1694",
+    "added_at": "2026-11-25T19:48:25.085Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "bill",
+    "status": "in_progress",
+    "stage": "introduced",
+    "bill_number": "HR.1694",
+    "chamber": "house",
+    "congress": 119,
+    "sponsor": {
+      "name": "Rep. Harder, Josh [D-CA-9]",
+      "party": "D",
+      "state": "CA",
+      "bioguide_id": "H001090"
+    },
+    "introduced_date": "2025-02-27",
+    "last_action_date": "2025-02-27",
+    "last_action_text": "Referred to the House Committee on Energy and Commerce.",
+    "committee": null,
+    "cosponsors_count": 1,
+    "policy_area": "Science, Technology, Communications"
+  },
+  {
     "id": "bill-119-s501",
     "title": "Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats",
-    "last_updated": "2025-04-24T16:23:49Z",
+    "last_updated": "2026-11-24T20:20:06Z",
     "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/501",
     "added_at": "2026-11-24T20:31:36.875Z",
     "scope_reason": "keyword_match",

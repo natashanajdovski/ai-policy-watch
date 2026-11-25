@@ -20,6 +20,66 @@
     "event_id": "119601"
   },
   {
+    "id": "hearing-119-119620",
+    "title": "“Defend, Detect, Disclose: Responding to AI-Enabled Cyber Incidents”",
+    "last_updated": "2026-11-24T21:48:48Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119620",
+    "added_at": "2026-11-25T19:58:01.817Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Oversight and Government Reform Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+    "chamber": "house",
+    "date_time": "2026-12-02T18:00:00Z",
+    "location": "2154, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119620"
+  },
+  {
+    "id": "hearing-119-119619",
+    "title": "“Defend, Detect, Disclose: Responding to AI-Enabled Cyber Incidents”",
+    "last_updated": "2026-11-24T21:18:54Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119619",
+    "added_at": "2026-11-25T19:58:02.809Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Oversight and Government Reform Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs",
+    "chamber": "house",
+    "date_time": "2026-12-02T18:00:00Z",
+    "location": "2154, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119619"
+  },
+  {
+    "id": "hearing-119-119610",
+    "title": "\"Defend, Detect, Disclose: Responding to AI-Enabled Cyber Incidents\"",
+    "last_updated": "2026-11-24T21:18:53Z",
+    "source_url": "https://www.congress.gov/event/119th-congress/house-event/119610",
+    "added_at": "2026-11-25T19:58:03.808Z",
+    "scope_reason": "keyword_match",
+    "matched_keywords": [
+      "ai"
+    ],
+    "type": "hearing",
+    "status": "upcoming",
+    "committee": "House Oversight and Government Reform Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+    "chamber": "house",
+    "date_time": "2026-12-02T18:00:00Z",
+    "location": "2154, Rayburn House Office Building",
+    "witnesses": [],
+    "cspan_url": null,
+    "event_id": "119610"
+  },
+  {
     "id": "hearing-119-338880",
     "title": "Hearings to examine caregivers and AI, focusing on opportunities, challenges, and threats.",
     "last_updated": "2026-11-19T21:08:40Z",
